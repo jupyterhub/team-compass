@@ -28,7 +28,7 @@ the burden and success.
 
 ### Team Meetings
 
-[Current Weekly Virtual Meeting Agenda]()
+[Current Weekly Virtual Meeting Agenda](https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view)
 
 #### Meeting archives
 
@@ -44,9 +44,32 @@ Min Ragan-Kelley acts as the team lead for the JupyterHub organization.
 
 ### JupyterHub team
 
+JupyterHub is part of [Project Jupyter](http://jupyter.org/) and is developed
+by an open community of contributors. JupyterHub's current maintainers are
+as follows:
+
+(listed alphabetically, with affiliation, and main areas of contribution)
+
+- Carol Willing (Cal Poly, )
+
+
+
+This team is accompanied by a much larger group of contributors to JupyterHub
+and Project Jupyter as a whole. If you would like to be listed here, please
+submit a pull request with your information.
 
 ### Binder team
 
+Binder's current maintainers are as follows:
+
+(listed alphabetically, with affiliation, and main areas of contribution)
+
+- Carol Willing (Cal Poly, )
+
+
+This team is accompanied by a much larger group of contributors to Binder,
+JupyterHub, and Project Jupyter as a whole. If you would like to be listed
+here, please submit a pull request with your information.
 
 ## Projects and Release Chart
 
