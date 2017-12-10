@@ -1,6 +1,5 @@
 # JupyterHub and BinderHub Team Meeting 
 
----
 #### Opening Date: 20 Nov 2017
 #### Closing Date: 26 Nov 2017
 *The detailed sections are for organization of  team information, communication consistency, and are designed to motivate the team's next actions.* 
