@@ -53,6 +53,7 @@ as follows:
 (listed alphabetically, with affiliation, and main areas of contribution)
 
 - Carol Willing (Cal Poly, )
+- Yuvi Panda (UC Berkeley, Operational Scalability)
 
 
 
@@ -67,6 +68,7 @@ Binder's current maintainers are as follows:
 (listed alphabetically, with affiliation, and main areas of contribution)
 
 - Carol Willing (Cal Poly, )
+- Yuvi Panda (UC Berkeley, Dev & Ops)
 
 
 This team is accompanied by a much larger group of contributors to Binder,
