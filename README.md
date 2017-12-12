@@ -77,11 +77,39 @@ here, please submit a pull request with your information.
 
 ## Projects and Release Chart
 
-### JupyterHub projects
+## Issues and PR tracking
 
+As of 2017-12-12:
 
-### Binder projects
-
+```
+Repo                           OpenIssues  OpenPRs   URL
+team-compass                          2        0     https://github.com/jupyterhub/team-compass
+nullauthenticator                     0        0     https://github.com/jupyterhub/nullauthenticator
+binder                                9        1     https://github.com/jupyterhub/binder
+mybinder.org-deploy                  24        1     https://github.com/jupyterhub/mybinder.org-deploy
+binderhub                            75        5     https://github.com/jupyterhub/binderhub
+helm-chart                            3        0     https://github.com/jupyterhub/helm-chart
+zero-to-jupyterhub-k8s               89        3     https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+tmpauthenticator                      0        0     https://github.com/jupyterhub/tmpauthenticator
+nbrsessionproxy                       4        2     https://github.com/jupyterhub/nbrsessionproxy
+hubshare                             10        0     https://github.com/jupyterhub/hubshare
+jupyterhub-example-kerberos           3        0     https://github.com/jupyterhub/jupyterhub-example-kerberos
+nbserverproxy                         2        1     https://github.com/jupyterhub/nbserverproxy
+jupyterlab-hub                        4        0     https://github.com/jupyterhub/jupyterlab-hub
+wrapspawner                           5        1     https://github.com/jupyterhub/wrapspawner
+systemdspawner                        4        2     https://github.com/jupyterhub/systemdspawner
+jupyterhub-deploy-hpc                 2        0     https://github.com/jupyterhub/jupyterhub-deploy-hpc
+jupyterhub-tutorial                   5        0     https://github.com/jupyterhub/jupyterhub-tutorial
+jupyterhub-deploy-teaching           13        2     https://github.com/jupyterhub/jupyterhub-deploy-teaching
+jupyterhub-deploy-docker              9        1     https://github.com/jupyterhub/jupyterhub-deploy-docker
+ldapauthenticator                    18        2     https://github.com/jupyterhub/ldapauthenticator
+kubespawner                          25        3     https://github.com/jupyterhub/kubespawner
+batchspawner                         12        5     https://github.com/jupyterhub/batchspawner
+sudospawner                           2        0     https://github.com/jupyterhub/sudospawner
+dockerspawner                        22        1     https://github.com/jupyterhub/dockerspawner
+oauthenticator                       13        2     https://github.com/jupyterhub/oauthenticator
+configurable-http-proxy              10        0     https://github.com/jupyterhub/configurable-http-proxy
+```
 ## Team recognitions
 
 ---
