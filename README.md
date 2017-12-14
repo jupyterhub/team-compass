@@ -67,9 +67,10 @@ Binder's current maintainers are as follows:
 
 (listed alphabetically, with affiliation, and main areas of contribution)
 
-- Carol Willing (Cal Poly, )
-- Yuvi Panda (UC Berkeley, Dev & Ops)
+- Tim Head (Wild Tree Tech, )
 - Chris Holdgraf (UC Berkeley, )
+- Yuvi Panda (UC Berkeley, Dev & Ops)
+- Carol Willing (Cal Poly, )
 
 
 This team is accompanied by a much larger group of contributors to Binder,
