@@ -55,6 +55,7 @@ as follows:
 - Carol Willing (Cal Poly, )
 - Yuvi Panda (UC Berkeley, Operational Scalability)
 - Chris Holdgraf (UC Berkeley, )
+- Min Ragan-Kelley (Simula, Development)
 
 
 This team is accompanied by a much larger group of contributors to JupyterHub
@@ -70,6 +71,7 @@ Binder's current maintainers are as follows:
 - Carol Willing (Cal Poly, )
 - Yuvi Panda (UC Berkeley, Dev & Ops)
 - Chris Holdgraf (UC Berkeley, )
+- Min Ragan-Kelley (Simula, Dev & Ops)
 
 
 This team is accompanied by a much larger group of contributors to Binder,
