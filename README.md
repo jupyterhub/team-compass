@@ -34,7 +34,7 @@ the burden and success.
 
 #### Meeting archives
 
-[Prior Virtual Meeting Agendas]()
+[Prior Virtual Meeting Agendas](https://github.com/jupyterhub/team-compass/tree/master/docs/weekly-reports)
 
 ### Weekly Team Office Hours
 
