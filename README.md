@@ -3,6 +3,8 @@
 [![weekly agenda](https://img.shields.io/badge/agenda-this%20week-blue.svg)](https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view)
 [![Documentation Status](http://readthedocs.org/projects/jupyterhub-team-compass/badge/?version=latest)](http://jupyterhub-team-compass.readthedocs.io/en/latest/?badge=latest)
 
+**Next Monthly videoconference meeting: February 8, 2018, 6pm Zurich time**
+
 ## Why have a Team Compass?
 
 This repository helps the JupyterHub team and Binder team set a weekly
@@ -40,6 +42,8 @@ the burden and success.
 ### Weekly Team Office Hours
 
 ### Monthly videoconference meeting
+
+Feb 8th, 6pm Zurich time
 
 ## Team
 
