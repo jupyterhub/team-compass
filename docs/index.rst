@@ -6,6 +6,7 @@ Team Compass for JupyterHub and Binder
    :caption: Contents:
 
    weekly-reports/weekly_report_index
+   monthly-meeting/monthly_report_index
 
 Indices and tables
 ==================
