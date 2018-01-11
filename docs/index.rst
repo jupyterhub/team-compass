@@ -7,7 +7,7 @@ Team Compass for JupyterHub and Binder
 
    Most recent monthly meeting notes <monthly-reports/2018-01-04_report.md>
    weekly-reports/weekly_report_index
-   monthly-reports/2018-01-04_report.md
+   monthly-reports/monthly_report_index
 
 Indices and tables
 ==================
