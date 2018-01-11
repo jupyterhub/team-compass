@@ -11,4 +11,4 @@ Reports in reverse chronological order
    :maxdepth: 1
    :caption: Monthly reports
 
-   2018-01-04 <2018-01-04_monthly_report.md>
+   2018-01-04 <2018-01-04_report.md>
