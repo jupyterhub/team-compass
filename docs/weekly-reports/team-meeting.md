@@ -7,65 +7,24 @@ Goal: Continuous improvement
 
 [Link to prior week's virtual meeting report]()
 
-*The detailed sections are for organization of  team information, communication consistency, and are designed to motivate the team's next actions.*
+## Actions
 
-*Let's keep items brief, preferably in bullet form (action verb, links, people). Example:  Meet Tim's long lost rich relative to fund mybinder.org Links (Tim, Aunt B, interested team members)*
+1. Help or discussion needed; Agenda Items for Monthly Meeting
+- 1.1 Open PRs
+- 1.2 Open issues
 
-## I. Team Metrics
-*Generated GitHub reports summary or link*
+2. Decisions needed
 
-[Link to overview news]()
+3. Next actions (team)
 
-## II. Team News and Informational items
-*News items you want to share with others (partnerships, important conversations, design considerations, something fun, something that annoyed you). If you have it, please link to a GitHub issue)*
+## News, Information, and Thanks
 
-*Let's keep items brief, preferably in bullet form (action verb, links, people). Example:  Meet Tim's long lost rich relative to fund mybinder.org Links (Tim, Aunt B, interested team members)*
+4. Team Metrics
 
-### Organization highlights
-*Communications, Social Media, Conferences, Outreach*
+5. Team News and Informational items
+- 5.1 Organization highlights
+- 5.2 BinderHub projects
+- 5.3 JupyterHub projects
+- 5.4 Related projects (repo2docker, nbgrader, others)
 
-- Created new Twitter and Google group: **mybinderteam**
--
-
-### BinderHub projects
-*BinderHub, mybinder-deploy, helm charts, binder-examples*
-
--
--
-
-### JupyterHub projects
-*JupyterHub, authenticators, spawners, configurable-http-proxy, zero to jupyterhub*
-
--
--
-
-### Related projects
-*repo2docker, nbgrader, others*
-
--
--
-
-## III. Discussion items and Questions
-*Items that you wish to raise for team input. Include Project Name.*
-### Open PRs
--
--
-
-### Open issues
--
--
-
-## IV. Decisions needed
-*Items that require a team decision to move forward*
-
--
--
-
-## V. Next actions (team)
-
--
-
-## VI. Thanks, Things to Celebrate, and anything else
-
--
--
+6. Thanks, Things to Celebrate, and anything else
