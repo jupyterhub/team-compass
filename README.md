@@ -81,6 +81,7 @@ Binder's current maintainers are as follows:
 - Yuvi Panda (UC Berkeley, Dev & Ops)
 - Min Ragan-Kelley (Simula, Dev & Ops)
 - Carol Willing (Cal Poly, )
+- M Pacer (UC Berkeley, )
 
 
 This team is accompanied by a much larger group of contributors to Binder,
