@@ -75,9 +75,10 @@ Binder's current maintainers are as follows:
 
 (listed alphabetically, with affiliation, and main areas of contribution)
 
+- Jessica Forde (Project Jupyter, Documentation)
 - Tim Head (Wild Tree Tech, )
 - Chris Holdgraf (UC Berkeley, )
-- Jessica Forde (Project Jupyter, Documentation)
+- M Pacer (UC Berkeley, )
 - Yuvi Panda (UC Berkeley, Dev & Ops)
 - Min Ragan-Kelley (Simula, Dev & Ops)
 - Carol Willing (Cal Poly, )
