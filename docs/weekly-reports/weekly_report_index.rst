@@ -11,6 +11,7 @@ Reports in reverse chronological order
    :maxdepth: 1
    :caption: Weekly reports
 
+   2018-02-05 <2018-02-05_weekly_report.md>
    2018-01-26 <2018-01-26_weekly_report.md>
    2017-12-31 <2017-12-31_weekly_report.md>
    2017-12-17 <2017-12-17_weekly_report.md>
