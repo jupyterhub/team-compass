@@ -4,7 +4,7 @@ Goal: Continuous improvement
 
 #### Opening Date:
 #### Closing Date:
-
+#### Next meeting date: <YYYY-MM-DD HH:MM TZ>
 [Link to prior week's virtual meeting report]()
 
 ## Actions
