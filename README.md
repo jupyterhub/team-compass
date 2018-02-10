@@ -2,6 +2,7 @@
 
 [![weekly agenda](https://img.shields.io/badge/agenda-this%20week-blue.svg)](https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view)
 [![Documentation Status](http://readthedocs.org/projects/jupyterhub-team-compass/badge/?version=latest)](http://jupyterhub-team-compass.readthedocs.io/en/latest/?badge=latest)
+[![Cauldron Stats](https://img.shields.io/badge/cauldron-stats-orange.svg)](https://cauldron.io/dashboards/jupyterhub)
 
 **Next Monthly videoconference meeting: February 8, 2018, 6pm Zurich time** [Videoconference link](https://calpoly.zoom.us/my/jupyter)
 
@@ -91,6 +92,9 @@ here, please submit a pull request with your information.
 ## Projects and Release Chart
 
 ## Issues and PR tracking
+
+Check out our [Cauldron Statistics Page](https://cauldron.io/dashboards/jupyterhub) for a
+summary of activity in the JupyterHub community.
 
 As of 2017-12-12:
 
