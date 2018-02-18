@@ -32,13 +32,25 @@ the burden and success.
 
 ## Planning and operations
 
+Currently, the JupyterHub team is keeping track of the goings-on in the community
+via two main sources: a weekly team report and a monthly team meeting.
+
+*Note: any member of the community is welcome to participate in any of the process around weekly reporting, archiving, and planning team meetings. Input is welcome!*
+
+### Weekly Team Reports
+
+The currently-active team report [exists in a HackMD](https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view). Each week, team reports
+are archived in the [weekly reports archive](http://jupyterhub-team-compass.readthedocs.io/en/latest/weekly-reports/weekly_report_index.html). Then, a new report is created with the [team report template](http://jupyterhub-team-compass.readthedocs.io/en/latest/weekly-reports/team-meeting.html).
+
+* [Current week team report](https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view)
+* [Weekly report archive](https://github.com/jupyterhub/team-compass/tree/master/docs/weekly-reports)
+
+
 ### Team Meetings
 
-[Current Weekly Virtual Meeting Agenda](https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view)
-
-#### Meeting archives
-
-[Prior Virtual Meeting Agendas](https://github.com/jupyterhub/team-compass/tree/master/docs/weekly-reports)
+Team meetings happen each month, and ideas for discussion etc are
+farmed from the [weekly team reports](http://jupyterhub-team-compass.readthedocs.io/en/latest/weekly-reports/weekly_report_index.html) since the last meeting.  The contents / summary of each meeting are
+archived in the [monthly meeting archive](http://jupyterhub-team-compass.readthedocs.io/en/latest/monthly-meeting/monthly_report_index.html).
 
 ### Weekly Team Office Hours
 
@@ -132,4 +144,3 @@ configurable-http-proxy              10        0     https://github.com/jupyterh
 ---
 
 ## Code of Conduct
-
