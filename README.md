@@ -50,7 +50,7 @@ are archived in the [weekly reports archive](http://jupyterhub-team-compass.read
 
 Team meetings happen each month, and ideas for discussion etc are
 farmed from the [weekly team reports](http://jupyterhub-team-compass.readthedocs.io/en/latest/weekly-reports/weekly_report_index.html) since the last meeting.  The contents / summary of each meeting are
-archived in the [monthly meeting archive](http://jupyterhub-team-compass.readthedocs.io/en/latest/monthly-meeting/monthly_report_index.html).
+archived in the [monthly meeting archive](http://jupyterhub-team-compass.readthedocs.io/en/latest/monthly-meeting/monthly_report_index.html). [Meeting agenda template](https://hackmd.io/yLEoYgH8TcelS_EaXKJ6Hg?both).
 
 ### Weekly Team Office Hours
 
@@ -89,7 +89,7 @@ Binder's current maintainers are as follows:
 (listed alphabetically, with affiliation, and main areas of contribution)
 
 - Jessica Forde (Project Jupyter, Documentation)
-- Tim Head (Wild Tree Tech, )
+- Tim Head (Wild Tree Tech)
 - Chris Holdgraf (UC Berkeley, )
 - M Pacer (UC Berkeley, )
 - Yuvi Panda (UC Berkeley, Dev & Ops)
