@@ -5,7 +5,7 @@
 [![Cauldron Stats](https://img.shields.io/badge/community-statistics-orange.svg)](https://cauldron.io/dashboards/jupyterhub)
 
 
-
+**Documentation status for several repositories**
 |JupyterHub   |Z2JH   |TLJH   | BinderHub  | repo2docker  | binder docs |
 |---|---|---|---|---|---|
 |[![Documentation Status](https://readthedocs.org/projects/jupyterhub/badge/?version=latest)](https://jupyterhub.readthedocs.org/en/latest/?badge=latest)   |[![Documentation Status](https://readthedocs.org/projects/zero-to-jupyterhub/badge/?version=latest)](https://zero-to-jupyterhub.readthedocs.org/en/latest/?badge=latest)   | [![Documentation Status](https://readthedocs.org/projects/the-littlest-jupyterhub/badge/?version=latest)](https://the-littlest-jupyterhub.readthedocs.org/en/latest/?badge=latest)  | [![Documentation Status](https://readthedocs.org/projects/binderhub/badge/?version=latest)](https://binderhub.readthedocs.org/en/latest/?badge=latest)  |  [![Documentation Status](https://readthedocs.org/projects/repo2docker/badge/?version=latest)](https://repo2docker.readthedocs.org/en/latest/?badge=latest) | [![Documentation Status](https://readthedocs.org/projects/binder/badge/?version=latest)](https://binder.readthedocs.org/en/latest/?badge=latest)  |
