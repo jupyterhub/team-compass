@@ -8,8 +8,10 @@
 **Documentation status for several repositories**
 
 |JupyterHub   |Z2JH   |TLJH   | BinderHub  | repo2docker  | binder docs |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |[![Documentation Status](https://readthedocs.org/projects/jupyterhub/badge/?version=latest)](https://jupyterhub.readthedocs.org/en/latest/?badge=latest)   |[![Documentation Status](https://readthedocs.org/projects/zero-to-jupyterhub/badge/?version=latest)](https://zero-to-jupyterhub.readthedocs.org/en/latest/?badge=latest)   | [![Documentation Status](https://readthedocs.org/projects/the-littlest-jupyterhub/badge/?version=latest)](https://the-littlest-jupyterhub.readthedocs.org/en/latest/?badge=latest)  | [![Documentation Status](https://readthedocs.org/projects/binderhub/badge/?version=latest)](https://binderhub.readthedocs.org/en/latest/?badge=latest)  |  [![Documentation Status](https://readthedocs.org/projects/repo2docker/badge/?version=latest)](https://repo2docker.readthedocs.org/en/latest/?badge=latest) | [![Documentation Status](https://readthedocs.org/projects/mybinder/badge/?version=latest)](https://mybinder.readthedocs.org/en/latest/?badge=latest)  |
+|[changelog](https://github.com/jupyterhub/jupyterhub/blob/master/docs/source/changelog.md)   |[changelog](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/master/CHANGELOG.md) |   |   |  |   |
+
 
 **Next Monthly videoconference meeting: February 8, 2018, 6pm Zurich time** [Videoconference link](https://calpoly.zoom.us/my/jupyter)
 
