@@ -77,7 +77,7 @@ as follows:
 
 (listed alphabetically, with affiliation, and main areas of contribution)
 
-- Matthias Bussonnier ([@carreau](https://github.com/carreau), UC Berkeley, Development)
+- Matthias Bussonnier ([@carreau](https://github.com/carreau), UC Merced, Development)
 - Jessica Forde (Project Jupyter, Documentation)
 - Chris Holdgraf (UC Berkeley, )
 - Yuvi Panda (UC Berkeley, Operational Scalability)
