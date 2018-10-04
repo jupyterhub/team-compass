@@ -82,6 +82,7 @@ as follows:
 - Chris Holdgraf (UC Berkeley, )
 - Yuvi Panda (UC Berkeley, Operational Scalability)
 - Min Ragan-Kelley (Simula, Development)
+- Erik Sundell (Sandvik CODE, Operational Scalability)
 - Carol Willing (Cal Poly, )
 
 
