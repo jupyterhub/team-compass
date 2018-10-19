@@ -31,7 +31,7 @@ Most of the Team Compass lives in this website:
 Currently, the JupyterHub team is keeping track of the goings-on in the community
 via the following main channels:
 
-* A monthly team meeting
+* A monthly team meeting on the third Thursday of every month
 * Issues / PRs in the JupyterHub repositories
 * The JupyterHub / Binder Gitter channels
 
