@@ -7,6 +7,15 @@ with the JupyterHub community. For more some more technical information
 and links to various JupyterHub repositories, see the
 `Team Compass README <https://github.com/jupyterhub/team-compass>`_.
 
+Site contents
+=============
+
+.. toctree::
+   :maxdepth: 2
+   
+   team
+   meetings
+   
 Why have a Team Compass?
 ========================
 
@@ -30,15 +39,6 @@ While we value each others individual strengths and contributions, we succeed
 or fail as a team. Whether taking corrective actions for a bug or being
 recognized for good work, the team, instead of an individual, shoulders
 the burden and success.
-
-Site contents
-=============
-
-.. toctree::
-   :maxdepth: 3
-   
-   meetings
-   team
 
 Code of Conduct
 ===============
