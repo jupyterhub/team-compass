@@ -56,3 +56,8 @@ Here are some useful links:
 * [**Videoconference link**](https://calpoly.zoom.us/my/jupyter) provides access to the meeting.
 * [**The monthly meeting archive**](http://jupyterhub-team-compass.readthedocs.io/en/latest/monthly-meeting/monthly_report_index.html) has the contents / summary of each meeting.
 * [**The meeting agenda template**](https://hackmd.io/yLEoYgH8TcelS_EaXKJ6Hg?both) is used to structure the conversation each month.
+
+### The JupyterHub and Binder core teams
+
+The list of "core" members of the JupyterHub and Binder projects can be found on
+[the team-compass website](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html).
