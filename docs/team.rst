@@ -41,7 +41,7 @@ by an open community of contributors. Here is JupyterHub's current team:
    "Yuvi Panda", "", "UC Berkeley", "💻🚇"
    "Min Ragan-Kelley", "", "Simula", "💻🚇"
    "Erik Sundell", "", "Sandvik CODE", "💻🚇"
-   "Carol Willing", "", "Cal Poly", ""
+   "Carol Willing", "`@willingc <https://github.com/willingc>`_", "Project Jupyter", "Python, Community"
 
 This team is accompanied by a much larger group of contributors to JupyterHub
 and Project Jupyter as a whole. If you would like to be listed here, please
@@ -64,7 +64,7 @@ Binder's current maintainers are as follows:
    "M Pacer", "", "Netflix", ""
    "Yuvi Panda", "", "UC Berkeley", "💻🚇"
    "Min Ragan-Kelley", "", "Simula", "💻🚇"
-   "Carol Willing", "", "Cal Poly", ""
+   "Carol Willing", "`@willingc <https://github.com/willingc>`_", "Project Jupyter", "Python, Community"
 
 
 This team is accompanied by a much larger group of contributors to Binder,
