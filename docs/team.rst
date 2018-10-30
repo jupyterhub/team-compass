@@ -20,8 +20,16 @@ How can I be a part of these teams?
 If you'd like to be included in any of the lists below, take the following steps:
 
 1. Fork `the team-compass repository <https://github.com/jupyterhub/team-compass>`_
-2. In one of the sections below, add yourself and (optionally) your affiliation to the list.
-3. Pick **up to four emojis** from the `Kent Dodds all contributors list <https://github.com/kentcdodds/all-contributors#emoji-key>`_ and add them after your name.
+2. Add your name and information to either the JupyterHub or the Binder team YAML files.
+   Here are some links to the latest ones:
+   
+   * `JupyterHub team data <team/contributors-jupyterhub.yaml>`_
+   * `BinderHub team data <team/contributors-binder.yaml>`_
+
+3. Under the ``contributions:`` section, choose four words. If you choose
+   words from the :ref:`emoji_keys` list, they'll be replaced with their emoji from
+   from the `Kent Dodds all contributors list <https://github.com/kentcdodds/all-contributors#emoji-key>`_.
+
 4. Make a Pull Request to this repository!
 
 JupyterHub team
@@ -32,16 +40,7 @@ by an open community of contributors. Here is JupyterHub's current team:
 
 (listed alphabetically, with affiliation, and main areas of contribution)
 
-.. csv-table::
-   :header: "Name", "Link", "Organization", "Contributions"
-
-   "Matthias Bussonnier", "`@carreau <https://github.com/carreau>`_", "UC Merced", "💻🚇"
-   "Jessica Forde", "", "Project Jupyter", 📖
-   "Chris Holdgraf", "`@choldgraf <https://github.com/choldgraf>`_", "UC Berkeley", "💻🤔📖💬"
-   "Yuvi Panda", "", "UC Berkeley", "💻🚇"
-   "Min Ragan-Kelley", "", "Simula", "💻🚇"
-   "Erik Sundell", "", "Sandvik CODE", "💻🚇"
-   "Carol Willing", "`@willingc <https://github.com/willingc>`_", "Project Jupyter", "Python, Community"
+.. include:: team/contributors-jupyterhub.txt
 
 This team is accompanied by a much larger group of contributors to JupyterHub
 and Project Jupyter as a whole. If you would like to be listed here, please
@@ -54,19 +53,20 @@ Binder's current maintainers are as follows:
 
 (listed alphabetically, with affiliation, and main areas of contribution)
 
-
-.. csv-table::
-   :header: "Name", "Link", "Organization", "Contributions"
-
-   "Jessica Forde", "", "Project Jupyter", 📖
-   "Tim Head", "", "Wild Tree Tech", ""
-   "Chris Holdgraf", "`@choldgraf <https://github.com/choldgraf>`_", "UC Berkeley", "💻🤔📢💬"
-   "M Pacer", "", "Netflix", ""
-   "Yuvi Panda", "", "UC Berkeley", "💻🚇"
-   "Min Ragan-Kelley", "", "Simula", "💻🚇"
-   "Carol Willing", "`@willingc <https://github.com/willingc>`_", "Project Jupyter", "Python, Community"
-
+.. include:: team/contributors-binder.txt
 
 This team is accompanied by a much larger group of contributors to Binder,
 JupyterHub, and Project Jupyter as a whole. If you would like to be listed
 here, please submit a pull request with your information.
+
+.. _emoji_keys:
+
+Emoji keys
+----------
+
+You may notice that some of the team-members have "emojis" to reflect their
+contributions in JupyterHub. These are from the `Kent Dodds "all contributors spec" <LINK>`_.
+Below is a short table to show what each emoji represents.
+
+.. csv-table::
+   :file: team/contributor_key.csv
