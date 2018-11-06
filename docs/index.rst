@@ -15,7 +15,8 @@ Site contents
    
    team
    meetings
-   
+   milestones
+
 Why have a Team Compass?
 ========================
 
