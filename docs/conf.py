@@ -216,7 +216,7 @@ N_PER_ROW = 4
 yaml = yaml.YAML()
 keyvals = pd.read_csv('./team/contributor_key.csv', index_col=0)
 
-template = '<td align="center" class="contrib_entry"><a href="{HANDLE_URL}"><img src="{AVATAR_URL}" class="headshot" alt="{NAME}" /><br /><p class="name"><b>{NAME}</b></p></a><p>{AFFILIATION}</p>{CONTRIBUTIONS}</td>'
+template = '<td align="center" class="contrib_entry"><a href="{HANDLE_URL}"><img src="{AVATAR_URL}" class="headshot" alt="{NAME}" /><br /><p class="name"><b>{NAME}</b></p></a><p class="contrib_affiliation" >{AFFILIATION}</p><p class="contributions">{CONTRIBUTIONS}</p></td>'
 
 def _generate_contributors(contributors, keys):
     s = ['<table class="docutils contributors">', '<tr class="row-even">']
@@ -231,11 +231,11 @@ def _generate_contributors(contributors, keys):
             if contrib in keys.index:
                 text = keyvals.loc[contrib, 'image']
                 desc = keyvals.loc[contrib, 'description']
-                contrib_text += ['<p title={TOOLTIP} class="contribs">{CONTRIB}</p>'.format(TOOLTIP=desc, CONTRIB=text)]
+                contrib_text += ['<span title={TOOLTIP} class="contribs">{CONTRIB}</span>'.format(TOOLTIP=desc, CONTRIB=text)]
             else:
-                contrib_text += ['<p class="contribs">{CONTRIB}</p>'.format(CONTRIB=contrib)]
+                contrib_text += ['<span class="contribs contribs_text">{CONTRIB}</span>'.format(CONTRIB=contrib)]
 
-        contrib_text = '<p class="contribs">,</p>'.join(contrib_text)
+        contrib_text = '<span class="contribs">,</span>'.join(contrib_text)
 
         # Find user gravatar url
         avatar_url = 'https://github.com/{HANDLE}.png?size=200'.format(HANDLE=person['handle'].lstrip('@'))

@@ -1,11 +1,15 @@
 .contrib_entry p {
     margin: 2px;
     text-align: center;
-    font-size: .7em;
 }
 
-.contrib_entry p.name, .contrib_entry p.contribs {
-    font-size: .9em;
+p.contrib_affiliation {
+    font-size: .7em;
+    font-weight: bold;
+}
+
+.contribs_text {
+    font-size: .8em;
 }
 
 .contrib_entry p.contribs {
