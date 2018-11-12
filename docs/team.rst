@@ -23,14 +23,14 @@ If you'd like to be included in any of the lists below, take the following steps
 2. Add your name and information to either the JupyterHub or the Binder team YAML files.
    Here are some links to the latest ones:
    
-   * `JupyterHub team data <team/contributors-jupyterhub.yaml>`_
-   * `BinderHub team data <team/contributors-binder.yaml>`_
+   * `JupyterHub team data <https://github.com/jupyterhub/team-compass/tree/master/docs/team/contributors-jupyterhub.yaml>`_
+   * `BinderHub team data <https://github.com/jupyterhub/team-compass/tree/master/docs/team/contributors-binder.yaml>`_
 
 3. Under the ``contributions:`` section, choose four words. If you choose
    words from the :ref:`emoji_keys` list, they'll be replaced with their emoji from
    from the `Kent Dodds all contributors list <https://github.com/kentcdodds/all-contributors#emoji-key>`_.
 
-4. Make a Pull Request to this repository!
+4. Make a Pull Request to this repository! The table will be updated the next time the docs are built.
 
 JupyterHub team
 ---------------

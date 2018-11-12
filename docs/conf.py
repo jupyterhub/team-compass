@@ -216,7 +216,7 @@ N_PER_ROW = 4
 yaml = yaml.YAML()
 keyvals = pd.read_csv('./team/contributor_key.csv', index_col=0)
 
-template = '<td align="center" class="contrib_entry"><a href="{HANDLE_URL}"><img src="{AVATAR_URL}" alt="{NAME}" /><br /><p class="name"><b>{NAME}</b></p></a><p>{AFFILIATION}</p>{CONTRIBUTIONS}</td>'
+template = '<td align="center" class="contrib_entry"><a href="{HANDLE_URL}"><img src="{AVATAR_URL}" class="headshot" alt="{NAME}" /><br /><p class="name"><b>{NAME}</b></p></a><p>{AFFILIATION}</p>{CONTRIBUTIONS}</td>'
 
 def _generate_contributors(contributors, keys):
     s = ['<table class="docutils contributors">', '<tr class="row-even">']
