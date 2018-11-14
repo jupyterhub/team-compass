@@ -1,0 +1,34 @@
+- name: Matthias Busonnier
+  handle: "@carreau"
+  affiliation: UC Merced
+  contributions: code,infra
+
+- name: Jessica Forde
+  handle: "@jzf2101"
+  affiliation: UC Berkeley
+  contributions: doc
+
+- name: Chris Holdgraf
+  handle: "@choldgraf"
+  affiliation: Berkeley Institute for Data Science
+  contributions: code,ideas,doc,question
+
+- name: Yuvi Panda
+  handle: "@yuvipanda"
+  affiliation: UC Berkeley
+  contributions: "code,infra"
+
+- name: Min Ragan-Kelley
+  handle: "@minrk"
+  affiliation: Simula
+  contributions: code,infra
+
+- name: Erik Sundell
+  handle: "@consideRatio"
+  affiliation: Sandvik CODE
+  contributions: code,infra
+
+- name: Carol Willing
+  handle: "@willingc"
+  affiliation: Project Jupyter
+  contributions: Python,Community
