@@ -1,0 +1,8 @@
+.. raw:: html
+
+   <table class="docutils contributors">
+   <tr class="row-even">
+   <td align="center" class="contrib_entry"><a href="https://github.com/@choldgraf"><img src="https://github.com/choldgraf.png?size=200" alt="Chris Holdgraf" /><br /><p class="name"><b>Chris Holdgraf</b></p><p>@choldgraf</p></a><p>Berkeley Institute for Data Science</p><p class="contribs">data</p><p class="contribs">,</p><p title=code class="contribs">💻</p></td>
+   <td align="center" class="contrib_entry"><a href="https://github.com/@choldgraf"><img src="https://github.com/choldgraf.png?size=200" alt="Chris Holdgraf" /><br /><p class="name"><b>Chris Holdgraf</b></p><p>@choldgraf</p></a><p>Berkeley Institute for Data Science</p><p class="contribs">data</p><p class="contribs">,</p><p title=code class="contribs">💻</p></td>
+   <td align="center" class="contrib_entry"><a href="https://github.com/@choldgraf"><img src="https://github.com/choldgraf.png?size=200" alt="Chris Holdgraf" /><br /><p class="name"><b>Chris Holdgraf</b></p><p>@choldgraf</p></a><p>Berkeley Institute for Data Science</p><p class="contribs">data</p><p class="contribs">,</p><p title=code class="contribs">💻</p></td>
+   </table>
