@@ -22,4 +22,4 @@ To generate the agenda for a new meeting, see the `Monthly Meeting Agenda Templa
    March 2018 <2018-03-21.md>
    February 2018 <2018-02-08.md>
    January 2018 <2018-01-04_report.md>
-   Monthly meeting template <https://raw.githubusercontent.com/jupyterhub/team-compass/master/docs/monthly-meeting/monthly-meeting-template.md>_
+   Monthly meeting template <https://raw.githubusercontent.com/jupyterhub/team-compass/master/docs/monthly-meeting/monthly-meeting-template.md>
