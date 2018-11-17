@@ -241,7 +241,7 @@ def _generate_contributors(contributors, keys):
         avatar_url = 'https://github.com/{HANDLE}.png?size=200'.format(HANDLE=person['handle'].lstrip('@'))
 
         # Add user
-        s += [template.format(HANDLE=person['handle'], HANDLE_URL="https://github.com/"+person['handle'],
+        s += [template.format(HANDLE=person['handle'], HANDLE_URL="https://github.com/{HANDLE}".format(HANDLE=person['handle'].lstrip('@')),
                               AFFILIATION=person['affiliation'],
                               AVATAR_URL=avatar_url, NAME=person['name'], CONTRIBUTIONS=contrib_text)]
     s += ['</table>']
