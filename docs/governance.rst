@@ -39,6 +39,7 @@ The authoritative list of members and their roles (alphabetical sorting):
 * Min Ragan-Kelley (team leader)
 * Yuvi Panda (red)
 * Erik Sundell (blue)
+* Carol Willing (red)
 * Your Name (red or blue)
 
 Team privileges
