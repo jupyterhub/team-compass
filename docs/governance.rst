@@ -4,6 +4,9 @@ Binder Project Governance
 The following sections describe governance and high-level principles
 surrounding the Binder Project.
 
+The Binder Project is a member of Project Jupyter, which is a fiscally
+sponsored project of NumFocus, a US 501c3 non-profit.
+
 Project mission
 ~~~~~~~~~~~~~~~
 
