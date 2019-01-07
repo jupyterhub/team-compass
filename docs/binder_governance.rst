@@ -88,7 +88,8 @@ Team roles
    expect red members to teach and grow other members so that they can
    pass their organizational responsibilities on to them. This encourages
    us to increase diversity, reduce burn-out and allow team members to
-   shift their focus in reaction to changing life circumstances.
+   shift their focus in reaction to changing life circumstances. Your change
+   of focus will be announced at the next monthly team meeting.
 -  Blue member. This is where the journey of a new team member starts.
    You spend a large
    part of your time facilitating contributions from others to the
@@ -101,6 +102,11 @@ Team roles
    After a while of doing so the team will ask if you want to become a
    red member and, if you agree, recognise you as such at a monthly team
    meeting.
+-  Green member. Your life situation has changed so that you prefer to
+   (temporarily) not take on the rights and responsibilities of being an
+   active member. You can return to active membership by resuming your
+   community activities. Your return will be announced at the next monthly
+   team meeting.
 
 There are no other specific roles, but we may revisit this in the
 future.
