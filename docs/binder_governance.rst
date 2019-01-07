@@ -89,7 +89,7 @@ Team roles
    pass their organizational responsibilities on to them. This encourages
    us to increase diversity, reduce burn-out and allow team members to
    shift their focus in reaction to changing life circumstances.
--  Blue Member. This is where the journey of a new team member starts.
+-  Blue member. This is where the journey of a new team member starts.
    You spend a large
    part of your time facilitating contributions from others to the
    project (e.g. reviewing work, answering questions, maintaining
@@ -109,7 +109,9 @@ How decisions are made
 ~~~~~~~~~~~~~~~~~~~~~~
 
 The Binder Project team will make decisions `as colleagues`_ and by
-attempting to reach consensus among team members. If this is not
+attempting to reach consensus among team members (similar to a
+`lazy consensus <http://en.osswiki.info/concepts/lazy_consensus>`_ model that
+encourages active participation from team members). If this is not
 possible, then the team leader can use their power to make a decision.
 
 There is currently no formal specification for this decision process.
