@@ -12,8 +12,9 @@ Project mission
 
 The mission of the Binder Project is to create, advance, and promote
 open technology that makes it easy for people to connect their data
-science communication, education, and scientific reproducibility work
-with computational environments which can run their work.
+science communications, educational materials, and scientific work
+with computational environments where their work can be run and
+shared with others.
 
 The Binder Project pursues this mission by advancing the tools
 surrounding BinderHub, an open-source tool for hosting ad-hoc
