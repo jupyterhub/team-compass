@@ -77,11 +77,11 @@ This list is non-complete.
 Team roles
 ~~~~~~~~~~
 
--  Team leader. This is a person who has impasse-breaking authority to
+-  **Team leader.** This is a person who has impasse-breaking authority to
    make decisions if the team can not agree. This authority should
    be used exceedingly sparingly. The team leader is expected to grow
    team members so that they can pass on their position to them.
--  Red member. You spend a large part of your time coordinating and
+-  **Red member.** You spend a large part of your time coordinating and
    promoting the Binder Project as well as the service at
    ``mybinder.org``. You are expected to coordinate your actions with
    other red members so that the project presents a coherent position
@@ -92,7 +92,7 @@ Team roles
    us to increase diversity, reduce burn-out and allow team members to
    shift their focus in reaction to changing life circumstances. Your change
    of focus will be announced at the next monthly team meeting.
--  Blue member. This is where the journey of a new team member starts.
+-  **Blue member.** This is where the journey of a new team member starts.
    You spend a large
    part of your time facilitating contributions from others to the
    project (e.g. reviewing work, answering questions, maintaining
@@ -104,7 +104,7 @@ Team roles
    After a while of doing so the team will ask if you want to become a
    red member and, if you agree, recognise you as such at a monthly team
    meeting.
--  Green member. Your life situation has changed so that you prefer to
+-  **Green member.** Your life situation has changed so that you prefer to
    (temporarily) not take on the rights and responsibilities of being an
    active member. You can return to active membership by resuming your
    community activities. Your return will be announced at the next monthly
