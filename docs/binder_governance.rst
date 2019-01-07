@@ -37,6 +37,7 @@ time.
 
 The authoritative list of members and their roles (alphabetical sorting):
 * Tim Head (red)
+* Lindsey Heagy (blue)
 * Chris Holdgraf (red)
 * Yuvi Panda (red)
 * Min Ragan-Kelley (team leader)
