@@ -59,11 +59,16 @@ Each member of the Binder Project team is expected to spend a
 technology used by Project Binder as well as maintaining
 ``mybinder.org``. This might mean contributing features, making patches,
 responding to issues, reviewing PRs, teaching about BinderHub, making
-organizational connections, welcoming new contributors, or evangelizing
+organizational connections, welcoming new contributors, diversifying
+the team, growing the community, creating an open project culture, evangelizing
 and helping others deploy BinderHub. They should be receptive to
 comments and ideas on the GitHub issues or in the Binder gitter channel.
 They should strive to make project decisions that reflect these
 community opinions.
+
+Team members are expected to pass on their authority and responsibility
+to others by creating a open, transparent and inclusive culture for users,
+team members, future team members and the community at large.
 
 This list is non-complete.
 
