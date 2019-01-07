@@ -36,8 +36,9 @@ time.
 
 The authoritative list of members and their roles (alphabetical sorting):
 * Tim Head (red)
-* Min Ragan-Kelley (team leader)
+* Chris Holdgraf (red)
 * Yuvi Panda (red)
+* Min Ragan-Kelley (team leader)
 * Erik Sundell (blue)
 * Carol Willing (red)
 * Your Name (red or blue)
