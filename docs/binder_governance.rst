@@ -121,7 +121,7 @@ There is no limit to the size of the team.
 
 There is no hard cap on the number of senior members that can exist,
 though this will be re-evaluate if the group becomes big enough to be
-unwieldy. We see the ideal number of senior members to be around 6-10
+unwieldy. We see the ideal number of red team members to be around 6-10
 people.
 
 Modus operandi
