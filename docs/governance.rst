@@ -81,7 +81,7 @@ Team roles
    monthly team calls. Being a red member is not a life sentence. We
    expect red members to teach and grow other members so that they can
    pass their organizational responsibilities on to them. This encourages
-   is to increase diversity, reduce burn-out and allow team members to
+   us to increase diversity, reduce burn-out and allow team members to
    shift their focus in reaction to changing life circumstances.
 -  Blue Member. This is where the journey of a new team member starts.
    You spend a large
