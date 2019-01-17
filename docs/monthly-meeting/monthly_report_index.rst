@@ -13,6 +13,7 @@ To generate the agenda for a new meeting, see the `Monthly Meeting Agenda Templa
    :maxdepth: 1
    :caption: Monthly reports
 
+   January 2019 <2019-01-17.md>
    December 2018 <2018-12-20.md>
    November 2018 <2018-11-15.md>
    October 2018 <2018-10-18.md>
