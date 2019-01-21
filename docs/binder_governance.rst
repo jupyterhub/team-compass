@@ -44,6 +44,8 @@ The authoritative list of members and their roles (alphabetical sorting):
 * Zach Sailer (blue)
 * Erik Sundell (blue)
 * Carol Willing (red)
+* Jessica Forde (red)
+* M Pacer (blue)
 * Your Name (red or blue)
 
 Team privileges
