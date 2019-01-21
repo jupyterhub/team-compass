@@ -1,3 +1,5 @@
+.. _binder-governance:
+
 Binder Project Governance
 =========================
 
@@ -22,6 +24,8 @@ environments in the cloud. The project also serves as the primary
 maintainer of ``mybinder.org``, a public service and demonstration of
 the BinderHub technology.
 
+.. _team-membership:
+
 Membership
 ~~~~~~~~~~
 
@@ -35,16 +39,8 @@ Currently, the Binder Project team overlaps 100% with `the BinderHub
 team`_. However, these two groups may diverge in their membership over
 time.
 
-The authoritative list of members and their roles (alphabetical sorting):
-* Tim Head (red)
-* Lindsey Heagy (blue)
-* Chris Holdgraf (red)
-* Yuvi Panda (red)
-* Min Ragan-Kelley (team leader)
-* Zach Sailer (blue)
-* Erik Sundell (blue)
-* Carol Willing (red)
-* Your Name (red or blue)
+The authoritative list of members and their roles (alphabetical sorting)
+can be found at the :ref:`binder-team` section.
 
 Team privileges
 ~~~~~~~~~~~~~~~

@@ -8,31 +8,25 @@ There are lots of ways to contribute to the JupyterHub community.
 Code, community interaction, documentation, bug testing, bug fixes, teaching,
 proslytizing, etc...we recognize any and all contributions!
 
-This page describes "self-described core" team members of the JupyterHub community.
-These are people that spend a significant amount of their time contributing
-to the projects and community under the JupyterHub umbrella.
+This page describes "self-described core" team members of the JupyterHub
+community. These are people that spend a significant amount of their
+time contributing to the projects and community under the JupyterHub umbrella.
 
-Min Ragan-Kelley acts as the team lead for the JupyterHub organization.
+Note that these teams are accompanied by a much larger group of contributors
+to Binder, JupyterHub, and Project Jupyter as a whole.
 
-How can I be a part of these teams?
------------------------------------
+**If you'd like to be included in the teams below**:
 
-If you'd like to be included in any of the lists below, take the following steps:
+* For JupyterHub, submit a pull request to add your name and information to
+  the `JupyterHub team data <https://github.com/jupyterhub/team-compass/tree/master/docs/team/contributors-jupyterhub.yaml>`_
+  YAML file.
+* For Binder, check out the :ref:`team-membership` section of the
+  :ref:`binder-governance` document for information about how you can join the
+  Binder core team.
 
-1. Fork `the team-compass repository <https://github.com/jupyterhub/team-compass>`_
-2. Add your name and information to either the JupyterHub or the Binder team YAML files.
-   Here are some links to the latest ones:
-   
-   * `JupyterHub team data <https://github.com/jupyterhub/team-compass/tree/master/docs/team/contributors-jupyterhub.yaml>`_
-   * `BinderHub team data <https://github.com/jupyterhub/team-compass/tree/master/docs/team/contributors-binder.yaml>`_
+.. _jupyterhub-team:
 
-3. Under the ``contributions:`` section, choose four words. If you choose
-   words from the :ref:`emoji_keys` list, they'll be replaced with their emoji from
-   from the `Kent Dodds all contributors list <https://github.com/kentcdodds/all-contributors#emoji-key>`_.
-
-4. Make a Pull Request to this repository! The table will be updated the next time the docs are built.
-
-JupyterHub team
+JupyterHub Team
 ---------------
 
 JupyterHub is part of `Project Jupyter <http://jupyter.org/>`_ and is developed
@@ -40,24 +34,22 @@ by an open community of contributors. Here is JupyterHub's current team:
 
 (listed alphabetically, with affiliation, and main areas of contribution)
 
+Min Ragan-Kelley acts as the team lead for the JupyterHub organization.
+
 .. include:: team/contributors-jupyterhub.txt
 
-This team is accompanied by a much larger group of contributors to JupyterHub
-and Project Jupyter as a whole. If you would like to be listed here, please
-submit a pull request with your information.
+.. _binder-team:
 
-Binder team
+Binder Team
 -----------
 
-Binder's current maintainers are as follows:
+Binder's governance and team structure is defined in the
+:ref:`binder-governance` page. Below we list the current team members
+of Binder.
 
 (listed alphabetically, with affiliation, and main areas of contribution)
 
 .. include:: team/contributors-binder.txt
-
-This team is accompanied by a much larger group of contributors to Binder,
-JupyterHub, and Project Jupyter as a whole. If you would like to be listed
-here, please submit a pull request with your information.
 
 .. _emoji_keys:
 
