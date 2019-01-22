@@ -25,10 +25,35 @@ td.contrib_entry {
     text-align: center;
 }
 
+td.contrib_entry a {
+    text-decoration: none;
+}
+
 td.contrib_entry img {
     max-width: 120px;
 }
 
 table.contributors {
     margin: 0px auto;
+}
+
+/* Team colors */
+p.team {
+    font-size: .8em;
+}
+
+p.team-blue {
+    color: blue;
+}
+
+p.team-red {
+    color: red;
+}
+
+p.team-green {
+    color: green;
+}
+
+p.team-lead {
+    font-weight: bold;
 }

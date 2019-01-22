@@ -1,3 +1,4 @@
+# Use ALPHABETICAL ORDER please :-)
 - name: Matthias Busonnier
   handle: "@carreau"
   affiliation: UC Merced
@@ -23,6 +24,11 @@
   affiliation: Simula
   contributions: code,infra
 
+- name: Zach Sailer
+  handle: "@Zsailer"
+  affiliation: Project Jupyter
+  contributions: code,ideas,question
+
 - name: Erik Sundell
   handle: "@consideRatio"
   affiliation: Sandvik CODE
@@ -32,8 +38,3 @@
   handle: "@willingc"
   affiliation: Project Jupyter
   contributions: Python,Community
-
-- name: Zach Sailer
-  handle: "@Zsailer"
-  affiliation: Project Jupyter
-  contributions: code,ideas,question

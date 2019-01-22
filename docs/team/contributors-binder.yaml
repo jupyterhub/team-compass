@@ -1,39 +1,62 @@
+# Use ALPHABETICAL ORDER please :-)
 - name: Jessica Forde
   handle: "@jzf2101"
   affiliation: UC Berkeley
   contributions: doc
+  team: red
 
 - name: Tim Head
   handle: "@betatim"
   affiliation: Wild Tree Tech
   contributions: ""
+  team: red
 
 - name: Lindsey Heagy
   handle: "@lheagy"
   affiliation: UC Berkeley
   contributions: ideas,example
+  team: blue
 
 - name: Chris Holdgraf
   handle: "@choldgraf"
   affiliation: Berkeley Institute for Data Science
   contributions: code,ideas,doc,question
+  team: red
 
 - name: M Pacer
   handle: "@mpacer"
   affiliation: Netflix
   contributions: ""
+  team: blue
 
 - name: Yuvi Panda
   handle: "@yuvipanda"
   affiliation: UC Berkeley
   contributions: "code,infra"
+  team: red
 
 - name: Min Ragan-Kelley
   handle: "@minrk"
   affiliation: Simula
   contributions: data,code
+  team: lead
+
+- name: Zach Sailer
+  handle: "@Zsailer"
+  affiliation: Project Jupyter
+  contributions: code,ideas,question
+  team: blue
+
+- name: Erik Sundell
+  handle: "@consideRatio"
+  affiliation: Sandvik CODE
+  contributions: code,infra
+  team: blue
 
 - name: Carol Willing
   handle: "@willingc"
   affiliation: Project Jupyter
   contributions: Python,Community
+  team: red
+
+# Green team members at the end, also alphabetical
