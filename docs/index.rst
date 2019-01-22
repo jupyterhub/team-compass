@@ -12,10 +12,11 @@ Site contents
 
 .. toctree::
    :maxdepth: 2
-   
+
    team
    meetings
    milestones
+   binder_governance
 
 Why have a Team Compass?
 ========================
