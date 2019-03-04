@@ -12,16 +12,14 @@ Most of the Team Compass lives in this website:
 
 ## Team information
 
-[![weekly agenda](https://img.shields.io/badge/agenda-this%20week-blue.svg)](https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view)
-[![Documentation Status](http://readthedocs.org/projects/jupyterhub-team-compass/badge/?version=latest)](http://jupyterhub-team-compass.readthedocs.io/en/latest/?badge=latest)
-[![Cauldron Stats](https://img.shields.io/badge/community-statistics-orange.svg)](https://cauldron.io/dashboards/jupyterhub)
-
+[![team website](https://img.shields.io/badge/team-website-orange.svg)](https://jupyterhub-team-compass.readthedocs.io/en/latest/)
+[![monthly agenda](https://img.shields.io/badge/agenda-this%20month-blue.svg)](https://hackmd.io/u2ghJJUCRWK-zRidCFid_Q?view)
 
 **Documentation status for several repositories**
 
-|JupyterHub   |Z2JH   |TLJH   | BinderHub  | repo2docker  | binder docs |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|[![Documentation Status](https://readthedocs.org/projects/jupyterhub/badge/?version=latest)](https://jupyterhub.readthedocs.org/en/latest/?badge=latest)   |[![Documentation Status](https://readthedocs.org/projects/zero-to-jupyterhub/badge/?version=latest)](https://zero-to-jupyterhub.readthedocs.org/en/latest/?badge=latest)   | [![Documentation Status](https://readthedocs.org/projects/the-littlest-jupyterhub/badge/?version=latest)](https://the-littlest-jupyterhub.readthedocs.org/en/latest/?badge=latest)  | [![Documentation Status](https://readthedocs.org/projects/binderhub/badge/?version=latest)](https://binderhub.readthedocs.org/en/latest/?badge=latest)  |  [![Documentation Status](https://readthedocs.org/projects/repo2docker/badge/?version=latest)](https://repo2docker.readthedocs.org/en/latest/?badge=latest) | [![Documentation Status](https://readthedocs.org/projects/mybinder/badge/?version=latest)](https://mybinder.readthedocs.org/en/latest/?badge=latest)  |
+|JupyterHub   |Z2JH   |TLJH   | BinderHub  | repo2docker  | binder docs | team compass |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[![Documentation Status](https://readthedocs.org/projects/jupyterhub/badge/?version=latest)](https://jupyterhub.readthedocs.org/en/latest/?badge=latest)   |[![Documentation Status](https://readthedocs.org/projects/zero-to-jupyterhub/badge/?version=latest)](https://zero-to-jupyterhub.readthedocs.org/en/latest/?badge=latest)   | [![Documentation Status](https://readthedocs.org/projects/the-littlest-jupyterhub/badge/?version=latest)](https://the-littlest-jupyterhub.readthedocs.org/en/latest/?badge=latest)  | [![Documentation Status](https://readthedocs.org/projects/binderhub/badge/?version=latest)](https://binderhub.readthedocs.org/en/latest/?badge=latest)  |  [![Documentation Status](https://readthedocs.org/projects/repo2docker/badge/?version=latest)](https://repo2docker.readthedocs.org/en/latest/?badge=latest) | [![Documentation Status](https://readthedocs.org/projects/mybinder/badge/?version=latest)](https://mybinder.readthedocs.org/en/latest/?badge=latest)  | [![Documentation Status](http://readthedocs.org/projects/jupyterhub-team-compass/badge/?version=latest)](http://jupyterhub-team-compass.readthedocs.io/en/latest/?badge=latest) |
 |[changelog](https://github.com/jupyterhub/jupyterhub/blob/master/docs/source/changelog.md)   |[changelog](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/master/CHANGELOG.md) |   |   |  |   |
 
 ---
@@ -55,6 +53,7 @@ Here are some useful links:
 
 * [**Videoconference link**](https://calpoly.zoom.us/my/jupyter) provides access to the meeting.
 * [**The monthly meeting archive**](http://jupyterhub-team-compass.readthedocs.io/en/latest/monthly-meeting/monthly_report_index.html) has the contents / summary of each meeting.
+* [**The monthly meeting agenda**](https://hackmd.io/u2ghJJUCRWK-zRidCFid_Q?view) will be filled in during the meeting.
 * [**The meeting agenda template**](https://hackmd.io/yLEoYgH8TcelS_EaXKJ6Hg?both) is used to structure the conversation each month.
 
 ### The JupyterHub and Binder core teams
