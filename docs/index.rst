@@ -17,6 +17,7 @@ Site contents
    meetings
    milestones
    binder_governance
+   tools
 
 Why have a Team Compass?
 ========================
