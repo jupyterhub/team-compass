@@ -2,6 +2,14 @@
 Team Compass for JupyterHub and Binder
 ======================================
 
+.. image:: https://img.shields.io/badge/team-website-orange.svg
+   :target: https://jupyterhub-team-compass.readthedocs.io/en/latest/
+   :alt: team website
+
+.. image:: https://img.shields.io/badge/agenda-this%20month-blue.svg
+   :target: https://hackmd.io/u2ghJJUCRWK-zRidCFid_Q?view
+   :alt: monthly agenda
+
 This page contains links to the notes from team meetings
 with the JupyterHub community. For more some more technical information
 and links to various JupyterHub repositories, see the
