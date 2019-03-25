@@ -15,7 +15,7 @@ If you'd prefer not to write code, you can help out the JupyterHub community by
 providing feedback in issues, participating in the [JupyterHub Discourse](https://discourse.jupyter.org),
 sharing your experience with JupyterHub tools in an issue, improving documentation,
 helping others with their problems, telling others about JupyterHub tools, and
-coming to weekly meetings. There are lots of others ways to contribute without writing code -
+coming to monthly meetings. There are lots of others ways to contribute without writing code -
 we are happy to have any and all contributions!
 
 If you'd like to write code, and have experience in some of the tools that JupyterHub uses
