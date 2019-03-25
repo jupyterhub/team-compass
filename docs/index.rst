@@ -22,6 +22,7 @@ Site contents
    :maxdepth: 2
 
    team
+   contributing
    meetings
    milestones
    binder_governance
