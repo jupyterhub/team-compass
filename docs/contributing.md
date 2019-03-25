@@ -11,13 +11,25 @@ here are a few resources to get you started.
 
 Absolutely ✅. There are always ways to contribute to this community!
 
-If you have experience
-in some of the things that JupyterHub uses (e.g., shared infrastructure, dev-ops, kubernetes)
-then we would love your support in keeping these tools a useful resource for the community.
+If you'd prefer not to write code, you can help out the JupyterHub community by
+providing feedback in issues, participating in the [JupyterHub Discourse](https://discourse.jupyter.org),
+sharing your experience with JupyterHub tools in an issue, improving documentation,
+helping others with their problems, telling others about JupyterHub tools, and
+coming to weekly meetings. There are lots of others ways to contribute without writing code -
+we are happy to have any and all contributions!
+
+If you'd like to write code, and have experience in some of the tools that JupyterHub uses
+(e.g., shared infrastructure, dev-ops, kubernetes), then we would love your support in keeping
+these tools a useful resource for the community. Try finding the
+[![Help Wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)][link_helpwanted] tag
+in a repository and please ping a JupyterHub team member if you'd like any assistance!
 
 If you don't have experience in these topics, then **contributing to JupyterHub is a great way to learn**.
-If you're not sure where to start, check out the **Good First Issue** button below and we'll help you
-along your journey to learning about the JupyterHub stack.
+The JupyterHub community works hard to share its knowledge of both JupyterHub tools and the
+general problems that they try to solve, and we'd be happy to help you out.
+If you're not sure where to start, look for the [![Good First Issue](https://img.shields.io/badge/-good%20first%20issue-blueviolet.svg)][link_goodfirstissue]
+tag to begin your journey  learning about the JupyterHub stack.
+
 
 ## Get connected
 
@@ -46,7 +58,7 @@ You'll use [Markdown][markdown] to chat in issues and pull requests on GitHub.
 You can think of Markdown as a few little symbols around your text that will allow GitHub
 to render the text with formatting.
 For example you could write words as bold (`**bold**`), or in italics (`*italics*`),
-or as a [link][rick_roll] (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
+or as a [link][rick_roll] (`[link](https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 
 GitHub has a helpful page on
 [getting started with writing and formatting Markdown on GitHub][writing_formatting_github].
