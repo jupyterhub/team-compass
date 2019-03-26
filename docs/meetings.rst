@@ -1,6 +1,8 @@
-====================
-Team meeting reports
-====================
+.. _team-meetings:
+
+==================================
+Team meetings and meetings reports
+==================================
 
 The JupyterHub team has a video meeting on the **third Thursday of every month**.
 Below are links to the notes from each of these meetings over the last several
