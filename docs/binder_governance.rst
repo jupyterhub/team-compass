@@ -61,9 +61,23 @@ responding to issues, reviewing PRs, teaching about BinderHub, making
 organizational connections, welcoming new contributors, diversifying
 the team, growing the community, creating an open project culture, evangelizing
 and helping others deploy BinderHub. They should be receptive to
-comments and ideas on the GitHub issues or in the Binder gitter channel.
+comments and ideas on the GitHub issues, in the Binder gitter channel, and
+on the [discourse forum](http://discourse.jupyter.org/).
 They should strive to make project decisions that reflect these
 community opinions.
+
+Team members are expected to keep themselves informed about issues and PRs on
+the [team-compass repository](https://github.com/jupyterhub/team-compass). We
+use this repository for important discussions and decision making, sometimes
+with a timeframe of ~48h. One way to keep yourself informed is to "watch"
+(button in the top right corner of the GitHub UI). You are free to use other
+mechanisms that work for you.
+
+In return for expecting everyone on the team to "watch" (or equivalent) this
+repository please think about the fact that ~15 or more people receive a
+notification each time something is posted here. In a group of N people,
+speak 1/Nth of the time. Emoji reactions are a good way to signal
+agreement/disagreement/I've seen this/etc that does not trigger a notification.
 
 Team members are expected to pass on their authority and responsibility
 to others by creating a open, transparent and inclusive culture for users,
