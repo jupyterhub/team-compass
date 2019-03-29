@@ -73,11 +73,9 @@ with a timeframe of ~48h. One way to keep yourself informed is to "watch"
 (button in the top right corner of the GitHub UI). You are free to use other
 mechanisms that work for you.
 
-In return for expecting everyone on the team to "watch" (or equivalent) this
-repository please think about the fact that ~15 or more people receive a
-notification each time something is posted here. In a group of N people,
-speak 1/Nth of the time. Emoji reactions are a good way to signal
-agreement/disagreement/I've seen this/etc that does not trigger a notification.
+Because we ask all team members
+to watch this repository, please be respectful of others' time and attention,
+and try to keep conversations on-topic
 
 Team members are expected to pass on their authority and responsibility
 to others by creating a open, transparent and inclusive culture for users,
