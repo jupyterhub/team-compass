@@ -49,7 +49,7 @@ significant amount of time (at least a few months).
 
 The mission of the operator should be aligned with the mission of the Binder
 Project laid out in :ref:`binder-governance`. By allocating a sub-domain the
-project wants to recognise those who publicly support the project inn order
+project wants to recognise those who publicly support the project in order
 to advance our mission.
 
 If you would like to obtain a sub-domain that points at your public BinderHub
