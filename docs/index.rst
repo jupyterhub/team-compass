@@ -26,6 +26,7 @@ Site contents
    meetings
    milestones
    binder/governance
+   binder/subdomains
    tools
 
 Why have a Team Compass?
