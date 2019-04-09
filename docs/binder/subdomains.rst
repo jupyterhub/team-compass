@@ -52,6 +52,10 @@ Project laid out in :ref:`binder-governance`. By allocating a sub-domain the
 project wants to recognise those who publicly support the project in order
 to advance our mission.
 
+If the BinderHub stops being functional, or is deemed to not behave in an
+acceptable way, the subdomain may be reclaimed at any time, redirecting back
+to the root mybinder.org.
+
 If you would like to obtain a sub-domain that points at your public BinderHub
 please `open a new issue on our repository <https://github.com/jupyterhub/team-compass/issues/new>`_
 mentioning who you are, what you do and where we can find your BinderHub.
