@@ -3,7 +3,7 @@
 Subdomains on mybinder.org
 ==========================
 
-The following sections describe how the project allocates sub-domains of
+The following section describes how the project allocates sub-domains of
 mybinder.org to other BinderHubs.
 
 There are other subdomains of mybinder.org which are used by the project itself
@@ -20,7 +20,7 @@ operating the BinderHub. For example a hub operated by "Rubber Duck Inc" should
 use their preferred company name acronym or `rubberduck.mybinder.org`. It
 should not be `woodenhorse.mybinder.org` or something similarly unrelated.
 
-The following paragraphs describe the spirit and "should dos" under which
+The following paragraphs describe the spirit and "should do's" under which
 Project Binder will consider allocating a sub-domain to a BinderHub.
 
 Project Binder expects that organisations of the following kind will want to
