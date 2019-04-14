@@ -59,3 +59,6 @@ to the root mybinder.org.
 If you would like to obtain a sub-domain that points at your public BinderHub
 please `open a new issue on our repository <https://github.com/jupyterhub/team-compass/issues/new>`_
 mentioning who you are, what you do and where we can find your BinderHub.
+
+We look forward to new partnerships and your interest in helping advance the
+mission of Project Binder.
