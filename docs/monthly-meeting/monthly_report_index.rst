@@ -12,7 +12,8 @@ To generate the agenda for a new meeting, see the `Monthly Meeting Agenda Templa
 .. toctree::
    :maxdepth: 1
    :caption: Monthly reports
-
+   
+   May 2019 <2019-05-16.md>
    April 2019 <2019-04-11.md>
    March 2019 <2019-03-21.md>
    February 2019 <2019-02-21.md>
