@@ -50,6 +50,8 @@ Team privileges
 -  merge privileges on the project repositories
 -  red members can nominate other individuals to team membership
 
+.. _binder-team-responsibilities:
+
 Team responsibilities
 ~~~~~~~~~~~~~~~~~~~~~
 

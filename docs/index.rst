@@ -25,6 +25,7 @@ Site contents
    contributing
    meetings
    milestones
+   team/adding-members
    binder/governance
    binder/subdomains
    tools
