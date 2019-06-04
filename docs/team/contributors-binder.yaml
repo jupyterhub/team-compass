@@ -8,7 +8,7 @@
 - name: Sarah Gibson
   handle: "@sgibson91"
   affiliation: The Alan Turing Institute
-  contributions: ""
+  contributions: question,doc,tutorial
   team: blue
 
 - name: Tim Head
