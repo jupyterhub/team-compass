@@ -4,6 +4,12 @@
   affiliation: UC Berkeley
   contributions: doc
   team: red
+  
+- name: Sarah Gibson
+  handle: "@sgibson91"
+  affiliation: The Alan Turing Institute
+  contributions: question,doc,tutorial
+  team: blue
 
 - name: Tim Head
   handle: "@betatim"
