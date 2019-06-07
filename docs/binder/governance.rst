@@ -64,12 +64,12 @@ organizational connections, welcoming new contributors, diversifying
 the team, growing the community, creating an open project culture, evangelizing
 and helping others deploy BinderHub. They should be receptive to
 comments and ideas on the GitHub issues, in the Binder gitter channel, and
-on the [discourse forum](http://discourse.jupyter.org/).
+on the `discourse forum <http://discourse.jupyter.org/>`_.
 They should strive to make project decisions that reflect these
 community opinions.
 
 Team members are expected to keep themselves informed about issues and PRs on
-the [team-compass repository](https://github.com/jupyterhub/team-compass). We
+the `team-compass repository <https://github.com/jupyterhub/team-compass>`_. We
 use this repository for important discussions and decision making, sometimes
 with a timeframe of ~48h. One way to keep yourself informed is to "watch"
 (button in the top right corner of the GitHub UI). You are free to use other
