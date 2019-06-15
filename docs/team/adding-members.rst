@@ -5,7 +5,7 @@ Adding and onboarding new team members
 This page contains information about adding new team members and onboarding
 them.
 
-Adding a new team members
+Adding a new team member
 =========================
 
 For someone to become a team member, they should already be a consistent,
