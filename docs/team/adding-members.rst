@@ -10,7 +10,7 @@ Adding a new team member
 
 For someone to become a team member, they should already be a consistent,
 positive, productive member of the community. Newcomers are encouraged to
-become team members, but after they've shown a sustained interest in
+become team members, after they've shown a sustained interest in
 engaging with the community. Moreover, team members should be interested in
 **continuing their engagement** over a long-ish period of time, generally
 putting in more time and effort than non-team members. This doesn't have to
