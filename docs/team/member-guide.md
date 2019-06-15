@@ -16,9 +16,6 @@ a quick list to get you started.
 * [**The JupyterHub Team Compass issues**](https://github.com/jupyterhub/team-compass/issues)
   are where we often discuss specific, actionable things related to the *team*
   (e.g., discussing whether to change something in the team-compass repo).
-* [**The JupyterHub internal Discourse category**](https://discourse.jupyter.org/c/jupyterhub/internal)
-  is a place to have more general conversations between team members. It's only
-  viewable by members of the [JupyterHub Team Discourse Group](https://discourse.jupyter.org/g/jupyterhub-team).
 * **The JupyterHub gitter channels** are used to have synchronous conversation
   for several projects. If a conversation will likely span multiple hours,
   or is relevant to many people, consider opening a thread in Discourse or
@@ -59,11 +56,9 @@ a few things that you should do as a new team member:
    
 1. **"Watch" the [team compass repository](https://github.com/jupyterhub/team-compass)**
    so that you're notified when team conversations are happening.
-2. **"Watch" the [Discourse jupyterhub team category](https://discourse.jupyter.org/c/jupyterhub/internal)**
-   for the same reason.
-3. **Semi-regularly attend team meetings**. You can find a calendar of upcoming
+2. **Semi-regularly attend team meetings**. You can find a calendar of upcoming
    meetings [on the team meetings page](https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings.html).
-4. **Follow the [Binder team responsibilities](https://jupyterhub-team-compass.readthedocs.io/en/latest/binder/governance.html#team-responsibilities) guidelines**.
+3. **Follow the [Binder team responsibilities](https://jupyterhub-team-compass.readthedocs.io/en/latest/binder/governance.html#team-responsibilities) guidelines**.
    While this is scoped for the Binder team, it is a good rubric to follow for
    JupyterHub as well.
    
@@ -77,6 +72,9 @@ Having merge rights is both a privilege and a responsibility - please be
 thoughtful when using it! To that extent, here are a few guidelines when
 deciding to merge things into one of our repositories:
 
+* **Use your best judgment**. As a member of the JupyterHub teams, we trust
+  your judgment, and we ask you to use your best judgment in deciding when to
+  take an action.
 * **Make sure it's quality code**. We know this is somewhat subjective, but
   ensure that the code is well-organized and thoughtfully-written, that any
   new features are documented, and that it abides by best-practices in Python,
@@ -94,3 +92,10 @@ deciding to merge things into one of our repositories:
   pinging people that you think might be interested in a question, and
   give it a few extra days before merging if you think a topic will be
   complex enough to warrant discussion.
+* **Don't be afraid to merge!** We know this is a bit counter-intuitive
+  given what we just said, but don't be afraid to merge new code. If you
+  think a change is really complex or potentially controversial, give it
+  some time, but for most changes it is fine to just go ahead and merge.
+  Again, we trust your judgment, and we don't want these guidelines to become
+  a burden that slows down development.
+  
