@@ -44,7 +44,7 @@ documentation, code, etc are always welcome, along with anything in the
 guide in the team-compass.
    
 Don't forget that, as a member of the team, you're representing the community
-when you interact with people online. Try to keep a friendly, positive
+when you interact with people (online and offline). Try to keep a friendly, positive
 attitude, and be welcoming and helpful in bringing others into the community
 and answering their questions.
    
