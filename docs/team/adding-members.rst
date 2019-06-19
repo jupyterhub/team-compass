@@ -99,7 +99,7 @@ is a template message to send. It checks off all of the boxes in the
    Hello <name>, and welcome to the JupyterHub team! 🎉🎉🎉
    
    We are really excited for you to join the community. To help you get started,
-   check out the [jupyterhub team member guide](https://jupyterhub-team-compass.readthedocs.io/team/member-guide.html)
+   check out the [jupyterhub team member guide](https://jupyterhub-team-compass.readthedocs.io/en/latest/team/member-guide.html)
    as well as the [BinderHub team responsibilities](https://jupyterhub-team-compass.readthedocs.io/en/latest/binder/governance.html#team-responsibilities)
    page.
 
