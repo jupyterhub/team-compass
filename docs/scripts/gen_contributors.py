@@ -17,7 +17,7 @@ keyvals = pd.read_csv(op.join(path_data, 'contributor_key.csv'), index_col=0)
 template_start = '<td align="center" class="contrib_entry"><a href="{HANDLE_URL}"><img src="{AVATAR_URL}" class="headshot" alt="{NAME}" /><br /><p class="name"><b>{NAME}</b></p></a><p class="contrib_affiliation">{AFFILIATION}</p>'
 template_contributions = '<p class="contributions">{CONTRIBUTIONS}</p></td>'
 templates = {'jupyterhub': template_start + template_contributions,
-             'binder': template_start + '<a href="binder_governance.html#team-roles"><p class="team team-{TEAM}">team {TEAM}</p></a>' + template_contributions}
+             'binder': template_start + '<a href="governance.html#team-roles"><p class="team team-{TEAM}">team {TEAM}</p></a>' + template_contributions}
 
 def _generate_contributors(contributors, keys, kind):
     """Generate an HTML list of contributors, given a dataframe of their information."""
