@@ -30,6 +30,7 @@ Site contents
    binder/governance
    binder/subdomains
    tools
+   talking
 
 Why have a Team Compass?
 ========================
