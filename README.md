@@ -57,8 +57,10 @@ are archived in the [weekly reports archive](http://jupyterhub-team-compass.read
 
 ### Team Meetings
 
-**The JupyterHub Team meetings occur on the 3rd Thursday of every month at 6pm Zurich time [your timezone](http://arewemeetingyet.com/Zurich/2018-10-18/18:00/t/Binder%20and%20JupyterHub%20team%20meeting)**. These are open to the community,
-and we'd love for you to join!
+**The JupyterHub Team meetings occur on the 3rd Thursday of every month,
+alternating at UTC 07:00 ([your timezone](http://arewemeetingyet.com/UTC/2019-08-15/07:00/q/Binder%20and%20JupyterHub%20team%20meeting))
+and UTC 17:00 ([your timezone](http://arewemeetingyet.com/UTC/2019-07-18/17:00/q/Binder%20and%20JupyterHub%20team%20meeting))**.
+These are open to the community and we'd love for you to join!
 
 Here are some useful links:
 
