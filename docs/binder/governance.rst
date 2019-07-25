@@ -97,24 +97,14 @@ Team roles
    ``mybinder.org``. You are expected to coordinate your actions with
    other red members so that the project presents a coherent position
    towards the outside. You are expected to prepare and attend the
-   monthly team calls. Being a red member is not a life sentence. We
-   expect red members to teach and grow other members so that they can
-   pass their organizational responsibilities on to them. This encourages
-   us to increase diversity, reduce burn-out and allow team members to
-   shift their focus in reaction to changing life circumstances. Your change
-   of focus will be announced at the next monthly team meeting.
+   monthly team calls.
 -  **Blue member.** This is where the journey of a new team member starts.
    You spend a large
    part of your time facilitating contributions from others to the
    project (e.g. reviewing work, answering questions, maintaining
-   project infrastructure). We expect blue members to teach and grow
-   contributors that can become blue members. This encourages diversity
-   of the team. After building a good understanding of the technology
+   project infrastructure). After building a good understanding of the technology
    and social structure of the project you can change to a red member by
    volunteering for tasks which a red member is expected to perform.
-   After a while of doing so the team will ask if you want to become a
-   red member and, if you agree, recognise you as such at a monthly team
-   meeting.
 -  **Green member.** Your life situation has changed so that you prefer to
    (temporarily) not take on the rights and responsibilities of being an
    active member. You can return to active membership by resuming your
@@ -123,6 +113,24 @@ Team roles
 
 There are no other specific roles, but we may revisit this in the
 future.
+
+A note on team membership and growth over time
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Being a team member is not a life sentence. We
+expect team members to teach and grow other members so that they can
+pass their organizational responsibilities on to them. This encourages
+us to increase diversity, reduce burn-out and allow team members to
+shift their focus in reaction to changing life circumstances.
+
+We ask that team members commit themselves in ~1 year cycles for new
+team members, and for shorter cycles if you are transitioning from the
+green team. If at any time a team member feels that they would
+like to take a break from active team membership, they're can choose
+to join the "green team" by making a
+pull request to the `JupyterHub team membership <https://github.com/jupyterhub/team-compass/blob/master/docs/team/contributors-jupyterhub.yaml>`_
+or `Binder team membership <https://github.com/jupyterhub/team-compass/blob/master/docs/team/contributors-binder.yaml>`_
+files.
 
 How decisions are made
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -151,6 +159,6 @@ Modus operandi
 All team business is conducted in public.
 
 .. _as colleagues: https://en.wikipedia.org/wiki/Collegiality
-.. _privileges: https://hackmd.io/UYG1jAM9TO-bqm9yNdXyYA?both#Team-privileges
-.. _responsibilities: https://hackmd.io/UYG1jAM9TO-bqm9yNdXyYA?both#Team-expectations
+.. _privileges: https://jupyterhub-team-compass.readthedocs.io/en/latest/binder/governance.html#team-privileges
+.. _responsibilities: https://jupyterhub-team-compass.readthedocs.io/en/latest/binder/governance.html#team-expectations
 .. _the BinderHub team: https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team

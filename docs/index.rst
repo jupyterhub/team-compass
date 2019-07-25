@@ -15,22 +15,39 @@ with the JupyterHub community. For more some more technical information
 and links to various JupyterHub repositories, see the
 `Team Compass README <https://github.com/jupyterhub/team-compass>`_.
 
-Site contents
-=============
+Team Compass Resources
+======================
+
+The following pages contain information about the JupyterHub/Binder
+teams, resources for community members, and team practices for
+governance and planning.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: The JupyterHub Teams
 
    team
    contributing
    meetings
-   milestones
-   team/adding-members
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Team Guides and Resources
+
    team/member-guide
-   binder/governance
-   binder/subdomains
    tools
    talking
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Governance and roadmaps
+
+   team/adding-members
+   binder/governance
+   binder/subdomains
+   milestones
+
+
 
 Why have a Team Compass?
 ========================

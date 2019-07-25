@@ -1,8 +1,8 @@
 .. _core_team:
 
-========================
-The JupyterHub Community
-========================
+=======================================
+The JupyterHub Core Teams and Community
+=======================================
 
 There are lots of ways to contribute to the JupyterHub community.
 Code, community interaction, documentation, bug testing, bug fixes, teaching,
