@@ -126,7 +126,7 @@ shift their focus in reaction to changing life circumstances.
 We ask that team members commit themselves in ~1 year cycles for new
 team members, and for shorter cycles if you are transitioning from the
 green team. If at any time a team member feels that they would
-like to take a break from active team membership, they're can choose
+like to take a break from active team membership, they can choose
 to join the "green team" by making a
 pull request to the `JupyterHub team membership <https://github.com/jupyterhub/team-compass/blob/master/docs/team/contributors-jupyterhub.yaml>`_
 or `Binder team membership <https://github.com/jupyterhub/team-compass/blob/master/docs/team/contributors-binder.yaml>`_
