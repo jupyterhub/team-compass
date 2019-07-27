@@ -82,7 +82,7 @@ pass their organizational responsibilities on to them. This encourages
 us to increase diversity, reduce burn-out and allow team members to
 shift their focus in reaction to changing life circumstances.
 
-We ask that team members commit themselves in ~1 year cycles for new
+We ask that team members commit themselves in ~6 month cycles for new
 team members, and for shorter cycles if you are transitioning from the
 green team. If at any time a team member feels that they would
 like to take a break from active team membership, they're can choose

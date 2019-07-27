@@ -68,7 +68,7 @@ on the `discourse forum <http://discourse.jupyter.org/>`_.
 They should strive to make project decisions that reflect these
 community opinions.
 
-Team members are expected to keep themselves informed about issues and PRs on
+Team members are expected to *keep themselves informed about issues and PRs* on
 the `team-compass repository <https://github.com/jupyterhub/team-compass>`_. We
 use this repository for important discussions and decision making, sometimes
 with a timeframe of ~48h. One way to keep yourself informed is to "watch"
@@ -77,11 +77,18 @@ mechanisms that work for you.
 
 Because we ask all team members
 to watch this repository, please be respectful of others' time and attention,
-and try to keep conversations on-topic
+and try to keep conversations on-topic.
 
 Team members are expected to pass on their authority and responsibility
 to others by creating a open, transparent and inclusive culture for users,
 team members, future team members and the community at large.
+
+We ask that you can commit to the above responsibilities for
+**at least 6 months** when joining the team. Training and mentoring new
+team members is an investment by the existing team, and team
+membership requires commitment from both sides. Beyond 6 months, if active
+team membership is no longer possible for you, you can always
+join the green team! See :ref:`binder/time`.
 
 This list is non-complete.
 
@@ -114,6 +121,8 @@ Team roles
 There are no other specific roles, but we may revisit this in the
 future.
 
+.. _binder/time:
+
 A note on team membership and growth over time
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -123,7 +132,7 @@ pass their organizational responsibilities on to them. This encourages
 us to increase diversity, reduce burn-out and allow team members to
 shift their focus in reaction to changing life circumstances.
 
-We ask that team members commit themselves in ~1 year cycles for new
+We ask that team members commit themselves in ~6 month cycles for new
 team members, and for shorter cycles if you are transitioning from the
 green team. If at any time a team member feels that they would
 like to take a break from active team membership, they can choose
