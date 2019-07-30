@@ -85,7 +85,7 @@ team members, future team members and the community at large.
 
 We ask that you can commit to the above responsibilities for
 **at least 6 months** when joining the team. Training and mentoring new
-team members is an investment by the existing team, and team
+team members is an investment by the existing team, hence team
 membership requires commitment from both sides. Beyond 6 months, if active
 team membership is no longer possible for you, you can always
 join the green team! See :ref:`binder/time`.
