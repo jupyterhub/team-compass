@@ -64,7 +64,7 @@ a few things that you should do as a new team member:
    While this is scoped for the Binder team, it is a good rubric to follow for
    JupyterHub as well.
 4. **Commit at least 6 months to team membership**. Training and mentoring new
-   team members is an investment by the existing team, and team
+   team members is an investment by the existing team, hence team
    membership requires commitment from both sides. Beyond 6 months, if active
    team membership is no longer possible for you, you can always
    join the green team!
