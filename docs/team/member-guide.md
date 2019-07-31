@@ -1,14 +1,14 @@
-# JupyterHub team guide
-      
+# JupyterHub and Binder team guide
+
 This page holds resources for members of the JupyterHub and Binder teams.
 They're meant to guide team members to be happy, productive members of the
 team!
 
 ## What are the team resources?
-   
+
 There are a few resources that are particularly useful for team members. Here's
 a quick list to get you started.
-   
+
 * [**The JupyterHub Team Compass**](https://jupyterhub-team-compass.readthedocs.io/en/latest/contributing.html)
   is a repository with lots of information about team-related things. It has
   development tips, information about team meetings, milestones and roadmaps,
@@ -36,24 +36,26 @@ a quick list to get you started.
   the team. You can put whatever you'd like here, just try to keep it organized :-)
 
 ## How can I help?
-   
+
 As a member of the team, you are encouraged to continue
 helping in the same ways that you already have. Your contributions to
 documentation, code, etc are always welcome, along with anything in the
 ["how can I contribute"](https://jupyterhub-team-compass.readthedocs.io/en/latest/contributing.html)
-guide in the team-compass.
-   
+guide in the team-compass. If you're on the Binder team, then check out
+[the Binder team responsibilities](https://jupyterhub-team-compass.readthedocs.io/en/latest/binder/governance.html#team-responsibilities)
+page for more information.
+
 Don't forget that, as a member of the team, you're representing the community
 when you interact with people (online and offline). Try to keep a friendly, positive
 attitude, and be welcoming and helpful in bringing others into the community
 and answering their questions.
-   
+
 ### Are there any specific responsibilies?
-   
+
 We don't want team membership to
 be a big burden (many of us have one or more other jobs too!) but there are
 a few things that you should do as a new team member:
-   
+
 1. **"Watch" the [team compass repository](https://github.com/jupyterhub/team-compass)**
    so that you're notified when team conversations are happening.
 2. **Semi-regularly attend team meetings**. You can find a calendar of upcoming
@@ -61,7 +63,12 @@ a few things that you should do as a new team member:
 3. **Follow the [Binder team responsibilities](https://jupyterhub-team-compass.readthedocs.io/en/latest/binder/governance.html#team-responsibilities) guidelines**.
    While this is scoped for the Binder team, it is a good rubric to follow for
    JupyterHub as well.
-   
+4. **Commit at least 6 months to team membership**. Training and mentoring new
+   team members is an investment by the existing team, hence team
+   membership requires commitment from both sides. Beyond 6 months, if active
+   team membership is no longer possible for you, you can always
+   join the green team!
+
 ## When should I merge a pull request?
 
 As a team member, you're encouraged to help others contribute to the project
@@ -98,4 +105,3 @@ deciding to merge things into one of our repositories:
   some time, but for most changes it is fine to just go ahead and merge.
   Again, we trust your judgment, and we don't want these guidelines to become
   a burden that slows down development.
-  

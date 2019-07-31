@@ -68,7 +68,7 @@ on the `discourse forum <http://discourse.jupyter.org/>`_.
 They should strive to make project decisions that reflect these
 community opinions.
 
-Team members are expected to keep themselves informed about issues and PRs on
+Team members are expected to *keep themselves informed about issues and PRs* on
 the `team-compass repository <https://github.com/jupyterhub/team-compass>`_. We
 use this repository for important discussions and decision making, sometimes
 with a timeframe of ~48h. One way to keep yourself informed is to "watch"
@@ -77,11 +77,18 @@ mechanisms that work for you.
 
 Because we ask all team members
 to watch this repository, please be respectful of others' time and attention,
-and try to keep conversations on-topic
+and try to keep conversations on-topic.
 
 Team members are expected to pass on their authority and responsibility
 to others by creating a open, transparent and inclusive culture for users,
 team members, future team members and the community at large.
+
+We ask that you can commit to the above responsibilities for
+**at least 6 months** when joining the team. Training and mentoring new
+team members is an investment by the existing team, hence team
+membership requires commitment from both sides. Beyond 6 months, if active
+team membership is no longer possible for you, you can always
+join the green team! See :ref:`binder/time`.
 
 This list is non-complete.
 
@@ -97,24 +104,14 @@ Team roles
    ``mybinder.org``. You are expected to coordinate your actions with
    other red members so that the project presents a coherent position
    towards the outside. You are expected to prepare and attend the
-   monthly team calls. Being a red member is not a life sentence. We
-   expect red members to teach and grow other members so that they can
-   pass their organizational responsibilities on to them. This encourages
-   us to increase diversity, reduce burn-out and allow team members to
-   shift their focus in reaction to changing life circumstances. Your change
-   of focus will be announced at the next monthly team meeting.
+   monthly team calls.
 -  **Blue member.** This is where the journey of a new team member starts.
    You spend a large
    part of your time facilitating contributions from others to the
    project (e.g. reviewing work, answering questions, maintaining
-   project infrastructure). We expect blue members to teach and grow
-   contributors that can become blue members. This encourages diversity
-   of the team. After building a good understanding of the technology
+   project infrastructure). After building a good understanding of the technology
    and social structure of the project you can change to a red member by
    volunteering for tasks which a red member is expected to perform.
-   After a while of doing so the team will ask if you want to become a
-   red member and, if you agree, recognise you as such at a monthly team
-   meeting.
 -  **Green member.** Your life situation has changed so that you prefer to
    (temporarily) not take on the rights and responsibilities of being an
    active member. You can return to active membership by resuming your
@@ -123,6 +120,26 @@ Team roles
 
 There are no other specific roles, but we may revisit this in the
 future.
+
+.. _binder/time:
+
+A note on team membership and growth over time
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Being a team member is not a life sentence. We
+expect team members to teach and grow other members so that they can
+pass their organizational responsibilities on to them. This encourages
+us to increase diversity, reduce burn-out and allow team members to
+shift their focus in reaction to changing life circumstances.
+
+We ask that team members commit themselves in ~6 month cycles for new
+team members, and for shorter cycles if you are transitioning from the
+green team. If at any time a team member feels that they would
+like to take a break from active team membership, they can choose
+to join the "green team" by making a
+pull request to the `JupyterHub team membership <https://github.com/jupyterhub/team-compass/blob/master/docs/team/contributors-jupyterhub.yaml>`_
+or `Binder team membership <https://github.com/jupyterhub/team-compass/blob/master/docs/team/contributors-binder.yaml>`_
+files.
 
 How decisions are made
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -151,6 +168,6 @@ Modus operandi
 All team business is conducted in public.
 
 .. _as colleagues: https://en.wikipedia.org/wiki/Collegiality
-.. _privileges: https://hackmd.io/UYG1jAM9TO-bqm9yNdXyYA?both#Team-privileges
-.. _responsibilities: https://hackmd.io/UYG1jAM9TO-bqm9yNdXyYA?both#Team-expectations
+.. _privileges: https://jupyterhub-team-compass.readthedocs.io/en/latest/binder/governance.html#team-privileges
+.. _responsibilities: https://jupyterhub-team-compass.readthedocs.io/en/latest/binder/governance.html#team-expectations
 .. _the BinderHub team: https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html#binder-team
