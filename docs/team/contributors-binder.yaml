@@ -4,76 +4,76 @@
   affiliation: UC Berkeley
   contributions: doc
   team: red
-  last-check-in: 2018-11
+  last-check-in: 2019-10
 
 - name: Sarah Gibson
   handle: "@sgibson91"
   affiliation: The Alan Turing Institute
   contributions: question,doc,tutorial
   team: blue
-  last-check-in: 2019-05
+  last-check-in: 2019-10
 
 - name: Tim Head
   handle: "@betatim"
   affiliation: Wild Tree Tech
   contributions: ""
   team: red
-  last-check-in: 2018-11
+  last-check-in: 2019-10
 
 - name: Lindsey Heagy
   handle: "@lheagy"
   affiliation: UC Berkeley
   contributions: ideas,example
   team: blue
-  last-check-in: 2019-01
+  last-check-in: 2019-10
 
 - name: Chris Holdgraf
   handle: "@choldgraf"
   affiliation: Berkeley Institute for Data Science
   contributions: code,ideas,doc,question
   team: red
-  last-check-in: 2018-11
+  last-check-in: 2019-10
 
 - name: M Pacer
   handle: "@mpacer"
   affiliation: Netflix
   contributions: ""
   team: blue
-  last-check-in: 2018-11
+  last-check-in: 2019-10
 
 - name: Yuvi Panda
   handle: "@yuvipanda"
   affiliation: UC Berkeley
   contributions: "code,infra"
   team: blue
-  last-check-in: 2018-11
+  last-check-in: 2019-10
 
 - name: Min Ragan-Kelley
   handle: "@minrk"
   affiliation: Simula
   contributions: data,code
   team: lead
-  last-check-in: 2018-11
+  last-check-in: 2019-10
 
 - name: Zach Sailer
   handle: "@Zsailer"
   affiliation: Project Jupyter
   contributions: code,ideas,question
   team: blue
-  last-check-in: 2019-01
+  last-check-in: 2019-10
 
 - name: Erik Sundell
   handle: "@consideRatio"
   affiliation: Sandvik CODE
   contributions: code,infra
   team: blue
-  last-check-in: 2019-01
+  last-check-in: 2019-10
 
 - name: Carol Willing
   handle: "@willingc"
   affiliation: Project Jupyter
   contributions: Python,Community
   team: red
-  last-check-in: 2018-11
+  last-check-in: 2019-10
 
 # Green team members at the end, also alphabetical

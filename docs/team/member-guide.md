@@ -116,9 +116,8 @@ a burden or a time sink. While we ask for a minimum 6 month commitment when
 you join a JupyterHub or Binder team, we don't expect this commitment to
 last forever.
 
-In order to ensure that team membership is still the best option for you,
-we try to conduct regular "check-ins" approximately once every 6 months.
-Its goal is to make sure that you're happy in your current position with the JupyterHub project,
+We try to conduct regular "check-ins" for team members approximately once every 6 months.
+The goal is to make sure that you're happy in your current position with the JupyterHub project,
 and discuss whether you'd like to continue in your current role, transition to
 a different role, or transition to the green team.
 
@@ -137,7 +136,7 @@ Please respond below if you're interested in either:
 * Moving to the green team
 
 There's no pressure one way or another, this is just to check that you're still
-comfortable with the role, responsibilities, etc for your current position.
+comfortable with the role and responsibilities for your current position.
 ```
 
 There's no pressure or expectation associated with these check-ins, their goal
