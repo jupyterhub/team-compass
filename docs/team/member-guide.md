@@ -71,6 +71,10 @@ a few things that you should do as a new team member:
 5. **Let us know if you'll be unavailable** or out of town for an extended period
    of time. It's no problem if you need to focus on other things for a bit, but it's
    helpful for the team to know who will be around.
+   To do so, [open an issue in the team-compass](https://github.com/jupyterhub/team-compass/issues/new).
+   If it's something you'd rather not mention to the public then
+   send an email to one of the team members letting them know, and they
+   can communicate it to the others.
 
 ## When should I merge a pull request?
 
