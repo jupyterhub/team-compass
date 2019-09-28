@@ -3,43 +3,61 @@
   handle: "@carreau"
   affiliation: UC Merced
   contributions: code,infra
+  team: jupyterhub
+  last-check-in: 2019-10
 
 - name: Georgiana Dolocan
   handle: "@GeorgianaElena"
   affiliation: Simula
   contributions: code
+  team: jupyterhub
+  last-check-in: 2019-10
 
 - name: Jessica Forde
   handle: "@jzf2101"
   affiliation: UC Berkeley
   contributions: doc
+  team: jupyterhub
+  last-check-in: 2019-10
 
 - name: Chris Holdgraf
   handle: "@choldgraf"
   affiliation: Berkeley Institute for Data Science
   contributions: code,ideas,doc,question
+  team: jupyterhub
+  last-check-in: 2019-10
 
 - name: Yuvi Panda
   handle: "@yuvipanda"
   affiliation: UC Berkeley
   contributions: "code,infra"
+  team: jupyterhub
+  last-check-in: 2019-10
 
 - name: Min Ragan-Kelley
   handle: "@minrk"
   affiliation: Simula
   contributions: code,infra
+  team: jupyterhub
+  last-check-in: 2019-10
 
 - name: Zach Sailer
   handle: "@Zsailer"
   affiliation: Project Jupyter
   contributions: code,ideas,question
+  team: jupyterhub
+  last-check-in: 2019-10
 
 - name: Erik Sundell
   handle: "@consideRatio"
   affiliation: Sandvik CODE
   contributions: code,infra
+  team: jupyterhub
+  last-check-in: 2019-10
 
 - name: Carol Willing
   handle: "@willingc"
   affiliation: Project Jupyter
   contributions: Python,Community
+  team: jupyterhub
+  last-check-in: 2019-10
