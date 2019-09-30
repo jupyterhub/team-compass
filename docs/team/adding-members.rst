@@ -64,7 +64,7 @@ issue and the team member is now ready to go!
    
    **Membership**
    
-   - [ ] Add them to the [binderhub google group](https://groups.google.com/forum/#!forum/binderhub-dev)
+   - [ ] Add them to the [binderhub google group](https://groups.google.com/forum/#!forum/binder-team)
    - [ ] Add them to the [binderhub team in the github organization](https://github.com/orgs/jupyterhub/teams/binder-team)
    - [ ] Add them to the [Discourse jupyterhub group](https://discourse.jupyter.org/g/jupyterhub-team)
    
