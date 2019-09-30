@@ -13,7 +13,7 @@ To generate the agenda for a new meeting, see the `Monthly Meeting Agenda Templa
    :maxdepth: 1
    :caption: Monthly reports
    
-   
+   September 2019 <2019-09-19.md>
    August 2019 <2019-08-15.md>
    July 2019 <2019-07-18.md>
    June 2019 <2019-06-19.md>
