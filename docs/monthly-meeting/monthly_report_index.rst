@@ -12,7 +12,8 @@ To generate the agenda for a new meeting, see the `Monthly Meeting Agenda Templa
 .. toctree::
    :maxdepth: 1
    :caption: Monthly reports
-   
+
+   October 2019 <2019-10-17.md>
    September 2019 <2019-09-19.md>
    August 2019 <2019-08-15.md>
    July 2019 <2019-07-18.md>
