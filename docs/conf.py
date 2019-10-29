@@ -89,9 +89,7 @@ def setup(app):
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-import alabaster_jupyterhub
-html_theme = 'alabaster_jupyterhub'
-html_theme_path = [alabaster_jupyterhub.get_html_theme_path()]
+html_theme = 'pandas_sphinx_theme'
 
 # Logo
 html_logo = '_static/logo.png'

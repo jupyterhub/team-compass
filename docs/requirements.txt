@@ -1,6 +1,6 @@
 sphinx
 recommonmark
 sphinx_copybutton
-alabaster_jupyterhub
+git+https://github.com/pandas-dev/pandas-sphinx-theme.git@master
 pandas
 ruamel.yaml
