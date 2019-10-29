@@ -23,31 +23,11 @@ teams, resources for community members, and team practices for
 governance and planning.
 
 .. toctree::
-   :maxdepth: 1
-   :caption: The JupyterHub Teams
+   :maxdepth: 2
 
-   team
-   contributing
-   meetings
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Team Guides and Resources
-
-   team/member-guide
-   tools
-   talking
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Governance and roadmaps
-
-   team/adding-members
-   binder/governance
-   binder/subdomains
-   milestones
-
-
+   index-team_info
+   index-team_guides
+   index-team_governance
 
 Why have a Team Compass?
 ========================
