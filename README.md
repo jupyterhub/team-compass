@@ -31,6 +31,8 @@ TLJH   | [![Documentation Status](https://readthedocs.org/projects/the-littlest-
  repo2docker  |  [![Documentation Status](https://readthedocs.org/projects/repo2docker/badge/?version=latest)](https://repo2docker.readthedocs.org/en/latest/?badge=latest) | [![codecov](https://codecov.io/gh/jupyter/repo2docker/branch/master/graph/badge.svg)](https://codecov.io/gh/jupyter/repo2docker) |
  binder docs | [![Documentation Status](https://readthedocs.org/projects/mybinder/badge/?version=latest)](https://mybinder.readthedocs.org/en/latest/?badge=latest)  |   |
  team compass | [![Documentation Status](http://readthedocs.org/projects/jupyterhub-team-compass/badge/?version=latest)](http://jupyterhub-team-compass.readthedocs.io/en/latest/?badge=latest) |  |
+mybinder.org SRE |  [![Documentation Status](http://readthedocs.org/projects/mybinder-sre/badge/?version=latest)](https://mybinder-sre.readthedocs.io/en/latest/?badge=latest) |  |
+
 
 
 ---
