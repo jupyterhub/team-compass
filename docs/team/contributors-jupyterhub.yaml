@@ -26,6 +26,13 @@
   contributions: code,ideas,doc,question
   team: jupyterhub
   last-check-in: 2019-10
+  
+- name: Simon Li
+  handle: "@manics"
+  affiliation: 
+  contributions: 
+  team: jupyterhub
+  last-check-in: 2019-11
 
 - name: Yuvi Panda
   handle: "@yuvipanda"
