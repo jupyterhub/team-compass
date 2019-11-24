@@ -28,6 +28,7 @@ governance and planning.
    index-team_info
    index-team_guides
    index-team_governance
+   index-building_blocks
 
 Why have a Team Compass?
 ========================
