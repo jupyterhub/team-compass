@@ -20,13 +20,6 @@
   team: red
   last-check-in: 2019-10
 
-- name: Lindsey Heagy
-  handle: "@lheagy"
-  affiliation: UC Berkeley
-  contributions: ideas,example
-  team: blue
-  last-check-in: 2019-10
-
 - name: Chris Holdgraf
   handle: "@choldgraf"
   affiliation: Berkeley Institute for Data Science
@@ -38,13 +31,6 @@
   handle: "@mpacer"
   affiliation: Netflix
   contributions: ""
-  team: blue
-  last-check-in: 2019-10
-
-- name: Yuvi Panda
-  handle: "@yuvipanda"
-  affiliation: UC Berkeley
-  contributions: "code,infra"
   team: blue
   last-check-in: 2019-10
 
@@ -77,3 +63,16 @@
   last-check-in: 2019-10
 
 # Green team members at the end, also alphabetical
+- name: Lindsey Heagy
+  handle: "@lheagy"
+  affiliation: UC Berkeley
+  contributions: ideas,example
+  team: green
+  last-check-in: 2019-10
+
+- name: Yuvi Panda
+  handle: "@yuvipanda"
+  affiliation: UC Berkeley
+  contributions: "code,infra"
+  team: green
+  last-check-in: 2019-10
