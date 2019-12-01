@@ -20,13 +20,20 @@
   team: jupyterhub
   last-check-in: 2019-10
 
+- name: Tim Head
+  handle: "@betatim"
+  affiliation: Wild Tree Tech
+  contributions: bizdev, code, ideas, talk
+  team: jupyterhub
+  last-check-in: 2019-12
+
 - name: Chris Holdgraf
   handle: "@choldgraf"
   affiliation: Berkeley Institute for Data Science
   contributions: code,ideas,doc,question
   team: jupyterhub
   last-check-in: 2019-10
-  
+
 - name: Simon Li
   handle: "@manics"
   affiliation: Open Microscopy Environment, University of Dundee
