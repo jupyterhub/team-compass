@@ -50,15 +50,27 @@ specified.
 ```
 
 
-[![TravisCI build status](https://img.shields.io/travis/jupyterhub/configurable-http-proxy/master?logo=travis)](https://travis-ci.org/jupyterhub/configurable-http-proxy)
+[![CircleCI build status](https://img.shields.io/circleci/build/github/jupyterhub/jupyterhub?logo=circleci)](https://circleci.com/gh/jupyterhub/jupyterhub)
 ```markdown
-[![TravisCI build status](https://img.shields.io/travis/jupyterhub/configurable-http-proxy/master?logo=travis)](https://travis-ci.org/jupyterhub/configurable-http-proxy)
+[![CircleCI build status](https://img.shields.io/circleci/build/github/jupyterhub/jupyterhub?logo=circleci)](https://circleci.com/gh/jupyterhub/jupyterhub)
 ```
 
 
-[![DockerHub build status](https://img.shields.io/docker/build/jupyterhub/configurable-http-proxy?logo=docker&label=build)](https://hub.docker.com/r/jupyterhub/configurable-http-proxy/tags)
+[![TravisCI build status](https://img.shields.io/travis/jupyterhub/jupyterhub/master?logo=travis)](https://travis-ci.org/jupyterhub/jupyterhub)
 ```markdown
-[![DockerHub build status](https://img.shields.io/docker/build/jupyterhub/configurable-http-proxy?logo=docker&label=build)](https://hub.docker.com/r/jupyterhub/configurable-http-proxy/tags)
+[![TravisCI build status](https://img.shields.io/travis/jupyterhub/jupyterhub/master?logo=travis)](https://travis-ci.org/jupyterhub/jupyterhub)
+```
+
+
+[![AzurePipelines build status](https://img.shields.io/azure-devops/build/jupyter/repo2docker/1?logo=azure-pipelines)](https://dev.azure.com/jupyter/repo2docker/_build)
+```markdown
+[![AzurePipelines build status](https://img.shields.io/azure-devops/build/jupyter/repo2docker/1?logo=azure-pipelines)](https://dev.azure.com/jupyter/repo2docker/_build)
+```
+
+
+[![DockerHub build status](https://img.shields.io/docker/build/jupyterhub/jupyterhub?logo=docker&label=build)](https://hub.docker.com/r/jupyterhub/jupyterhub/tags)
+```markdown
+[![DockerHub build status](https://img.shields.io/docker/build/jupyterhub/jupyterhub?logo=docker&label=build)](https://hub.docker.com/r/jupyterhub/jupyterhub/tags)
 ```
 
 
