@@ -83,15 +83,15 @@ specified.
 
 ### Package
 
-[![Latest PyPI version](https://img.shields.io/pypi/v/oauthenticator?logo=pypi)](https://pypi.python.org/pypi/oauthenticator)
+[![Latest PyPI version](https://img.shields.io/pypi/v/jupyterhub?logo=pypi)](https://pypi.python.org/pypi/jupyterhub)
 ```markdown
-[![Latest PyPI version](https://img.shields.io/pypi/v/oauthenticator?logo=pypi)](https://pypi.python.org/pypi/oauthenticator)
+[![Latest PyPI version](https://img.shields.io/pypi/v/jupyterhub?logo=pypi)](https://pypi.python.org/pypi/jupyterhub)
 ```
 
 
-[![Latest conda-forge version](https://img.shields.io/conda/vn/conda-forge/oauthenticator?logo=conda-forge)](https://www.npmjs.com/package/oauthenticator)
+[![Latest conda-forge version](https://img.shields.io/conda/vn/conda-forge/jupyterhub?logo=conda-forge)](https://www.npmjs.com/package/jupyterhub)
 ```markdown
-[![Latest conda-forge version](https://img.shields.io/conda/vn/conda-forge/oauthenticator?logo=conda-forge)](https://www.npmjs.com/package/oauthenticator)
+[![Latest conda-forge version](https://img.shields.io/conda/vn/conda-forge/jupyterhub?logo=conda-forge)](https://www.npmjs.com/package/jupyterhub)
 ```
 
 
@@ -121,9 +121,9 @@ specified.
 
 ### Community
 
-[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/issues)
+[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/jupyterhub/jupyterhub/issues)
 ```markdown
-[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/issues)
+[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/jupyterhub/jupyterhub/issues)
 ```
 
 
