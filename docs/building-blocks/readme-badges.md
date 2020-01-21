@@ -56,9 +56,14 @@ specified.
 ```
 
 
-[![TravisCI build status](https://img.shields.io/travis/jupyterhub/jupyterhub/master?logo=travis)](https://travis-ci.org/jupyterhub/jupyterhub)
+[![TravisCI (.org) build status](https://img.shields.io/travis/jupyterhub/jupyterhub/master?logo=travis)](https://travis-ci.org/jupyterhub/jupyterhub)
 ```markdown
-[![TravisCI build status](https://img.shields.io/travis/jupyterhub/jupyterhub/master?logo=travis)](https://travis-ci.org/jupyterhub/jupyterhub)
+[![TravisCI (.org) build status](https://img.shields.io/travis/jupyterhub/jupyterhub/master?logo=travis)](https://travis-ci.org/jupyterhub/jupyterhub)
+```
+
+[![TravisCI (.com) build status](https://img.shields.io/travis/com/jupyterhub/jupyterhub/master?logo=travis)](https://travis-ci.com/jupyterhub/jupyterhub)
+```markdown
+[![TravisCI (.com) build status](https://img.shields.io/travis/com/jupyterhub/jupyterhub/master?logo=travis)](https://travis-ci.com/jupyterhub/jupyterhub)
 ```
 
 
