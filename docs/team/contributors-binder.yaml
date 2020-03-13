@@ -41,13 +41,6 @@
   team: lead
   last-check-in: 2019-10
 
-- name: Zach Sailer
-  handle: "@Zsailer"
-  affiliation: Project Jupyter
-  contributions: code,ideas,question
-  team: blue
-  last-check-in: 2019-10
-
 - name: Erik Sundell
   handle: "@consideRatio"
   affiliation: Sandvik CODE
@@ -74,5 +67,12 @@
   handle: "@yuvipanda"
   affiliation: UC Berkeley
   contributions: "code,infra"
+  team: green
+  last-check-in: 2019-10
+
+- name: Zach Sailer
+  handle: "@Zsailer"
+  affiliation: Project Jupyter
+  contributions: code,ideas,question
   team: green
   last-check-in: 2019-10
