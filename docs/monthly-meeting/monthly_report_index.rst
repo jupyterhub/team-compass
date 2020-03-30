@@ -13,6 +13,7 @@ To generate the agenda for a new meeting, see the `Monthly Meeting Agenda Templa
    :maxdepth: 1
    :caption: Monthly reports
 
+   March 2020 <2020-03-19.md>
    February 2020 <2020-02-20.md>
    January 2020 <2020-01-16.md>
    December 2019 <2019-12-19.md>
