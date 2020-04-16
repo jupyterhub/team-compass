@@ -51,7 +51,8 @@ transition easier for both developers and users, we have plugged into the reposi
 of the JupyterHub organization a [support bot](https://github.com/jupyterhub/.github/blob/master/.github/support.yml).
 The bot will post a short and sweet message to inform the contributor about our communication policy
 and will then close the issue. This support bot will act each time the `support` label is added
-to an issue.
+to an issue. Don't worry if you mistakenly label an issue as `support`. The action is reversible
+and removing the label will reopen the issue.
 
 We kindly encourage everybody to use the bot, if during this transition phase, any issues that
 should be on Discourse, are opened on GitHub.
