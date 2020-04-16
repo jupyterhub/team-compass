@@ -46,7 +46,7 @@ In this respect, we are using:
 2. The [Discourse forum](http://discourse.jupyter.org/) for general discussions, support
 questions, or just as a place where we can inspire each other.
 
-To support our effors in organizing the communication channels and make the
+To support our efforts in organizing the communication channels and make the
 transition easier for both developers and users, we have plugged into the repositories
 of the JupyterHub organization a [support bot](https://github.com/jupyterhub/.github/blob/master/.github/support.yml).
 The bot will post a short and sweet message to inform the contributor about our communication policy
