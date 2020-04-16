@@ -49,6 +49,8 @@ questions, or just as a place where we can inspire each other.
 To support our efforts in organizing the communication channels and make the
 transition easier for both developers and users, we have plugged into the repositories
 of the JupyterHub organization a [support bot](https://github.com/jupyterhub/.github/blob/master/.github/support.yml).
+
+**To trigger the support bot on an issue**, add the `support` label to an issue.
 The bot will post a short and sweet message to inform the contributor about our communication policy
 and will then close the issue. This support bot will act each time the `support` label is added
 to an issue. Don't worry if you mistakenly label an issue as `support`. The action is reversible
