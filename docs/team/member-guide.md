@@ -50,6 +50,13 @@ To support our efforts in organizing the communication channels and make the
 transition easier for both developers and users, we have plugged into the repositories
 of the JupyterHub organization a [support bot](https://github.com/jupyterhub/.github/blob/master/.github/support.yml).
 
+---
+Currently, the bot will only check the following repositories:
+* [binderhub](https://github.com/jupyterhub/binderhub)
+* [jupyterhub](https://github.com/jupyterhub/jupyterhub)
+* [the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub)
+---
+
 **To trigger the support bot on an issue**, add the `support` label to an issue.
 The bot will post a short and sweet message to inform the contributor about our communication policy
 and will then close the issue. This support bot will act each time the `support` label is added
