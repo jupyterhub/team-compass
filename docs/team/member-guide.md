@@ -35,6 +35,27 @@ a quick list to get you started.
   is a place to store documents, presentations, images, etc that are useful to
   the team. You can put whatever you'd like here, just try to keep it organized :-)
 
+### General policy about communication channels
+
+We are trying to organize our discussions in order to help both contributors and
+maintainers find and choose the right communication channels and have a positive experience :-)
+
+In this respect, we are using:
+1. GitHub issues for specific discussions related to changing a repository's content
+(e.g. feature requests, bug reports).
+2. The [Discourse forum](http://discourse.jupyter.org/) for general discussions, support
+questions, or just as a place where we can inspire each other.
+
+To support our effors in organizing the communication channels and make the
+transition easier for both developers and users, we have plugged into the repositories
+of the JupyterHub organization a [support bot](https://github.com/jupyterhub/.github/blob/master/.github/support.yml).
+The bot will post a short and sweet message to inform the contributor about our communication policy
+and will then close the issue. This support bot will act each time the `support` label is added
+to an issue.
+
+We kindly encourage everybody to use the bot, if during this transition phase, any issues that
+should be on Discourse, are opened on GitHub.
+
 ## How can I help?
 
 As a member of the team, you are encouraged to continue
