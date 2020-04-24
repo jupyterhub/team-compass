@@ -40,7 +40,7 @@ The process and governance for both Binder and JupyterHub can be found in the
 
 .. TODO: Include Binder / JupyterHub team focus in the HTML somehow
 
-Here is the current JupyterHub/Binder team:
+Here is the current JupyterHub team:
 
 (listed alphabetically, with affiliation, and main areas of contribution)
 
