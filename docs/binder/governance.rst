@@ -40,7 +40,7 @@ team`_. However, these two groups may diverge in their membership over
 time.
 
 The authoritative list of members and their roles (alphabetical sorting)
-can be found at the :ref:`binder-team` section.
+can be found at the :ref:`jupyterhub-team` section.
 
 Team privileges
 ~~~~~~~~~~~~~~~
