@@ -34,7 +34,7 @@ overlapping team membership. Both are part of `Project Jupyter <http://jupyter.o
 and are developed by an open community of contributors.
 
 The process and governance for both Binder and JupyterHub can be found in the
-:ref:`jupyterhub-governance` :ref:`binder-governance` pages.
+:ref:`jupyterhub-governance` and :ref:`binder-governance` pages.
 
 .. TODO: Update the governance page so that it isn't binder-specific
 
