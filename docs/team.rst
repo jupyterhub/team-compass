@@ -1,8 +1,8 @@
 .. _core_team:
 
-=======================================
-The JupyterHub Core Teams and Community
-=======================================
+====================
+JupyterHub Core Team
+====================
 
 There are lots of ways to contribute to the JupyterHub community.
 Code, community interaction, documentation, bug testing, bug fixes, teaching,
@@ -29,27 +29,24 @@ to Binder, JupyterHub, and Project Jupyter as a whole.
 JupyterHub Team
 ---------------
 
-JupyterHub is part of `Project Jupyter <http://jupyter.org/>`_ and is developed
-by an open community of contributors. Here is JupyterHub's current team:
+The JupyterHub team is roughly comprised of two different projects with heavily-
+overlapping team membership. Both are part of `Project Jupyter <http://jupyter.org/>`_
+and are developed by an open community of contributors.
+
+The process and governance for both Binder and JupyterHub can be found in the
+:ref:`jupyterhub-governance` and :ref:`binder-governance` pages.
+
+.. TODO: Update the governance page so that it isn't binder-specific
+
+.. TODO: Include Binder / JupyterHub team focus in the HTML somehow
+
+Here is the current JupyterHub team:
 
 (listed alphabetically, with affiliation, and main areas of contribution)
 
 Min Ragan-Kelley acts as the team lead for the JupyterHub organization.
 
 .. include:: team/contributors-jupyterhub.txt
-
-.. _binder-team:
-
-Binder Team
------------
-
-Binder's governance and team structure is defined in the
-:ref:`binder-governance` page. Below we list the current team members
-of Binder.
-
-(listed alphabetically, with affiliation, and main areas of contribution)
-
-.. include:: team/contributors-binder.txt
 
 .. _emoji_keys:
 

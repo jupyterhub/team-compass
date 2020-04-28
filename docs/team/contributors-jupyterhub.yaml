@@ -3,68 +3,112 @@
   handle: "@carreau"
   affiliation: UC Merced
   contributions: code,infra
-  team: jupyterhub
+  team: blue
+  focus: jupyterhub
   last-check-in: 2019-10
 
 - name: Georgiana Dolocan
   handle: "@GeorgianaElena"
   affiliation: Simula
   contributions: code
-  team: jupyterhub
+  team: blue
+  focus: jupyterhub
   last-check-in: 2019-10
 
 - name: Jessica Forde
   handle: "@jzf2101"
   affiliation: UC Berkeley
   contributions: doc
-  team: jupyterhub
+  team: red
+  focus: jupyterhub, binder
+  last-check-in: 2019-10
+
+- name: Sarah Gibson
+  handle: "@sgibson91"
+  affiliation: The Alan Turing Institute
+  contributions: question,doc,tutorial
+  team: blue
+  focus: binder
   last-check-in: 2019-10
 
 - name: Tim Head
   handle: "@betatim"
   affiliation: Wild Tree Tech
-  contributions: bizdev, code, ideas, talk
-  team: jupyterhub
+  contributions: bizdev, code, fundingFinding, ideas, talk, infra
+  team: red
+  focus: jupyterhub, binder
   last-check-in: 2019-12
 
 - name: Chris Holdgraf
   handle: "@choldgraf"
-  affiliation: Berkeley Institute for Data Science
+  affiliation: Berkeley Statistics
   contributions: code,ideas,doc,question
-  team: jupyterhub
+  team: red
+  focus: jupyterhub, binder
   last-check-in: 2019-10
 
 - name: Simon Li
   handle: "@manics"
   affiliation: Open Microscopy Environment, University of Dundee
   contributions: code,question
-  team: jupyterhub
+  team: blue
+  focus: jupyterhub
   last-check-in: 2019-11
+
+- name: M Pacer
+  handle: "@mpacer"
+  affiliation: Netflix
+  contributions: ""
+  team: blue
+  focus: binder
+  last-check-in: 2019-10
 
 - name: Yuvi Panda
   handle: "@yuvipanda"
   affiliation: UC Berkeley
   contributions: "code,infra"
-  team: jupyterhub
+  team: blue
+  focus: jupyterhub
   last-check-in: 2019-10
 
 - name: Min Ragan-Kelley
   handle: "@minrk"
   affiliation: Simula
   contributions: code,infra
-  team: jupyterhub
+  team: lead
+  focus: jupyterhub, binder
   last-check-in: 2019-10
 
 - name: Erik Sundell
   handle: "@consideRatio"
   affiliation: Sandvik CODE
   contributions: code,infra
-  team: jupyterhub
+  team: blue
+  focus: jupyterhub, binder
   last-check-in: 2019-10
 
 - name: Carol Willing
   handle: "@willingc"
   affiliation: Project Jupyter
   contributions: Python,Community
-  team: jupyterhub
+  team: red
+  focus: jupyterhub, binder
+  last-check-in: 2019-10
+
+
+# Green team members at the end, also alphabetical
+- name: Lindsey Heagy
+  handle: "@lheagy"
+  affiliation: UC Berkeley
+  contributions: ideas,example
+  team: green
+  focus: binder
+  last-check-in: 2019-10
+
+- name: Zach Sailer
+  handle: "@Zsailer"
+  affiliation: Project Jupyter
+  contributions: code,ideas,question
+  team: green
+  focus: binder
   last-check-in: 2019-10
