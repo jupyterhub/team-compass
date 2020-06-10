@@ -1,8 +1,8 @@
 .. _talking:
 
-================================================
-Talking about the JupyterHub and Binder Projects
-================================================
+===========================================================
+Resources for giving presentations and talking the Projects
+===========================================================
 
 The JupyterHub and Binder projects are both community-driven. This means that we
 rely on members of the community for spreading the word about these projects as well
@@ -28,7 +28,7 @@ and JupyterHub projects.
    We'll be excited to help you out and follow your talk.
 2. **Follow the Jupyter community conduct guidelines**. When you speak about the
    Jupyter community, you represent that community. This means you should adhere to
-   the standards that the community defines in 
+   the standards that the community defines in
    `the jupyter community code of conduct <https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md>`_.
 3. **Try to stick to the past and present**. We highly encourage folks to talk about
    what the JupyterHub and Binder projects have been up to and where we are now. Talking
