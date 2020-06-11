@@ -1,7 +1,7 @@
 .. _talking:
 
 ===========================================================
-Resources for giving presentations and talking the Projects
+Resources for giving presentations and talks about the Projects
 ===========================================================
 
 The JupyterHub and Binder projects are both community-driven. This means that we
