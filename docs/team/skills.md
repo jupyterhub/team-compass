@@ -6,7 +6,7 @@ apply their skills to the team.
 
 ## Where to start?
 
-The short answer to this question is: it depends :-)  there are many
+The short answer to this question is: follow your interests :-)  There are many
 different ways to contribute to the JupyterHub community - technical, mentorship,
 communications, community work, and documentation are just a few. You can either
 apply your skills to help out, or use it as an opportunity to learn something new!
