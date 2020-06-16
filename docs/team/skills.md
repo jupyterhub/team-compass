@@ -2,7 +2,7 @@
 
 There are many ways that you can contribute to the JupyterHub / Binder projects.
 This page suggests some pathways for community members to learn new skills and
-apply their skills to the team.
+share their skills with the team.
 
 ## Where to start?
 
