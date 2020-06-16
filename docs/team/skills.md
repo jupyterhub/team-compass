@@ -33,7 +33,7 @@ and "places to apply your skills".
 ### JupyterHub-specific knowledge
 
 - **JupyterHub component architecture**. JupyterHub is the underlying tool of many
-  sub-projects in the JupyterHub/Binder ecosystem, and it's good to undertand its
+  sub-projects in the JupyterHub/Binder ecosystem, and it's good to understand its
   structure. This will make it easier to identify what to work on, what folks are
   talking about, and what repo might be the place to look at for a given task.
 - **Code structure of the JupyterHub repository**. Familiarizing yourself with the code structure of
