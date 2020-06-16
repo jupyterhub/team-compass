@@ -90,6 +90,7 @@ to contribute", as well as "ways you can contribute if you have these skills".
   an issue. They are the most common point of interaction with the broader community.
   To improve the content of our issues and facilitate improvements in JupyterHub, it is
   important to be a good listener, and to engage with others sharing their perspective.
+* **Jupyter Community Forum**. The [Discourse forum](https://discourse.jupyter.org/) is busy with questions and discussions about Jupyter. Support for using JupyterHub is handled through the forum in preference to GitHub issues which are reserved for bug reports and discussion related to technical development. Any help you can offer to other users is very welcome, and the forum is also a great place to exchange knowledge.
 
 ## A note on complexity of tasks
 
