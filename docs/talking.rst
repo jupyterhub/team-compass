@@ -63,4 +63,4 @@ projects work.
 
 `Check out this community forum thread <https://discourse.jupyter.org/t/binder-jupyterhub-common-questions-and-suggested-answers/1686>`_
 for an ongoing list of common questions and good answers. If you have questions that
-aren't listed there, please add them!
+aren't listed there, please add them.
