@@ -10,9 +10,14 @@ The short answer to this question is: follow your interests :-)  There are many
 different ways to contribute to the JupyterHub community - technical, mentorship,
 communications, community work, and documentation are just a few. You can either
 apply your skills to help out, or use it as an opportunity to learn something new!
+We welcome contributions in any area, but if you can't decide where to start
+why not answer some support questions in the [community forum](https://discourse.jupyter.org/),
+or share you experiences of using Jupyter there.
 
 ## A few general ways to help out
 
+* Hang out in [the Jupyter Community Forum](https://discourse.jupyter.org/) and
+  assist others with questions.
 * Look through the issues in a repository, and help respond to issues that haven't been addressed already
 * Guide an issue's conversation to help form a clear, actionable next step to move the issue forward
 * For general questions about using JupyterHub, assist the person and then improve the documentation
@@ -71,7 +76,10 @@ and "places to apply your skills".
 
 ### Deployment Infrastructure
 
-- **Python**. Most JupyterHub projects are distributed as Python packages on [Pypi](https://pypi.org/). Packages are often installed in [virtual Python environments](https://docs.python-guide.org/dev/virtualenvs/) or [Conda environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+- **Python**. Most JupyterHub projects are distributed as Python packages
+  on [PyPi](https://pypi.org/). Packages are often installed in
+  [virtual Python environments](https://docs.python-guide.org/dev/virtualenvs/)
+  or [Conda environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 - **Docker**. JupyterHub uses Docker throughout its projects to provide environments that
   both JupyterHub and other communities can deploy. Docker is a core part of the Kubernetes
   deployments of JupyterHub, and can also be used to control user environments in a JupyterHub.
@@ -90,7 +98,12 @@ and "places to apply your skills".
   an issue. They are the most common point of interaction with the broader community.
   To improve the content of our issues and facilitate improvements in JupyterHub, it is
   important to be a good listener, a respectful responder, and someone who encourages others to share their perspective.
-* **Jupyter Community Forum**. The [Discourse forum](https://discourse.jupyter.org/) is busy with questions and discussions about Jupyter. Support for using JupyterHub is handled through the forum in preference to GitHub issues which are reserved for bug reports and discussion related to technical development. Any help you can offer to other users is very welcome, and the forum is also a great place to exchange knowledge.
+* **The Jupyter Community Forum**. The [Discourse forum](https://discourse.jupyter.org/)
+  is busy with questions and discussions about Jupyter. Support for deploying, configuring,
+  and generally using JupyterHub is primarily handled through this forum (as opposed
+  to using GitHub issues which are scoped for actionable bug reports and development).
+  Any help you can offer to other users is very welcome, and the forum is also a
+  great place to exchange knowledge.
 
 ## A note on complexity of tasks
 
