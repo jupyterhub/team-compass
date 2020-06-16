@@ -84,7 +84,7 @@ and "places to apply your skills".
 ### Community infrastructure
 
 * **Technical Writing**. Every tool in the JupyterHub ecosystem is documented, and needs
-  clear, concise, well-structured information to help others learn and use it. Any
+  clear, concise, well-structured information to help others. Any
   contributions that improve documentation are appreciated.
 * **Issue guidance and triage**. Almost all enhancements to JupyterHub tools begin with
   an issue. They are the most common point of interaction with the broader community.
