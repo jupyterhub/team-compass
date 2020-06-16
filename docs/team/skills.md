@@ -14,7 +14,7 @@ apply your skills to help out, or use it as an opportunity to learn something ne
 ## A few general ways to help out
 
 * Look through the issues in a repository, and help respond to issues that haven't been addressed already
-* Guide conversation in issues so that they get closer to having a clear, actionable path forward
+* Guide an issue's conversation to help form a clear, actionable next step to move the issue forward
 * For general questions about using JupyterHub, assist the person and then improve the documentation
   so that the answer is easier to find.
 * For issues labeled "bug" try to clarify what is going on, and reproduce the bug on your machine
