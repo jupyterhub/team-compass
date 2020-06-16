@@ -28,7 +28,7 @@ apply your skills to help out, or use it as an opportunity to learn something ne
 ## Things to know about JupyterHub
 
 This section provides a combination of "helpful skills to learn as a contributor"
-to contribute", as well as "ways you can contribute if you have these skills".
+and "places to apply your skills".
 
 ### JupyterHub-specific knowledge
 
