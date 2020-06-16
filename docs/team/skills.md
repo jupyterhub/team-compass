@@ -71,6 +71,7 @@ to contribute", as well as "ways you can contribute if you have these skills".
 
 ### Deployment Infrastructure
 
+- **Python**. Most JupyterHub projects are distributed as Python packages on [Pypi](https://pypi.org/). Packages are often installed in [virtual Python environments](https://docs.python-guide.org/dev/virtualenvs/) or [Conda environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 - **Docker**. JupyterHub uses Docker throughout its projects to provide environments that
   both JupyterHub and other communities can deploy. Docker is a core part of the Kubernetes
   deployments of JupyterHub, and can also be used to control user environments in a JupyterHub.
