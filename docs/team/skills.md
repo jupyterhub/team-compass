@@ -12,7 +12,7 @@ communications, community work, and documentation are just a few. You can either
 apply your skills to help out, or use it as an opportunity to learn something new!
 We welcome contributions in any area, but if you can't decide where to start
 why not answer some support questions in the [community forum](https://discourse.jupyter.org/),
-or share you experiences of using Jupyter there.
+or share your experiences of using Jupyter there.
 
 ## A few general ways to help out
 
