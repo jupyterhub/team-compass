@@ -45,42 +45,42 @@ specified.
 ### Build
 
 [![Documentation build status](https://img.shields.io/readthedocs/jupyterhub?logo=read-the-docs)](https://jupyterhub.readthedocs.org/en/latest/)
-```markdown
+```md
 [![Documentation build status](https://img.shields.io/readthedocs/jupyterhub?logo=read-the-docs)](https://jupyterhub.readthedocs.org/en/latest/)
 ```
 
 
 [![CircleCI build status](https://img.shields.io/circleci/build/github/jupyterhub/jupyterhub?logo=circleci)](https://circleci.com/gh/jupyterhub/jupyterhub)
-```markdown
+```md
 [![CircleCI build status](https://img.shields.io/circleci/build/github/jupyterhub/jupyterhub?logo=circleci)](https://circleci.com/gh/jupyterhub/jupyterhub)
 ```
 
 
 [![TravisCI (.org) build status](https://img.shields.io/travis/jupyterhub/jupyterhub/master?logo=travis)](https://travis-ci.org/jupyterhub/jupyterhub)
-```markdown
+```md
 [![TravisCI (.org) build status](https://img.shields.io/travis/jupyterhub/jupyterhub/master?logo=travis)](https://travis-ci.org/jupyterhub/jupyterhub)
 ```
 
 [![TravisCI (.com) build status](https://img.shields.io/travis/com/jupyterhub/jupyterhub/master?logo=travis)](https://travis-ci.com/jupyterhub/jupyterhub)
-```markdown
+```md
 [![TravisCI (.com) build status](https://img.shields.io/travis/com/jupyterhub/jupyterhub/master?logo=travis)](https://travis-ci.com/jupyterhub/jupyterhub)
 ```
 
 
 [![AzurePipelines build status](https://img.shields.io/azure-devops/build/jupyter/repo2docker/1?logo=azure-pipelines)](https://dev.azure.com/jupyter/repo2docker/_build)
-```markdown
+```md
 [![AzurePipelines build status](https://img.shields.io/azure-devops/build/jupyter/repo2docker/1?logo=azure-pipelines)](https://dev.azure.com/jupyter/repo2docker/_build)
 ```
 
 
 [![DockerHub build status](https://img.shields.io/docker/build/jupyterhub/jupyterhub?logo=docker&label=build)](https://hub.docker.com/r/jupyterhub/jupyterhub/tags)
-```markdown
+```md
 [![DockerHub build status](https://img.shields.io/docker/build/jupyterhub/jupyterhub?logo=docker&label=build)](https://hub.docker.com/r/jupyterhub/jupyterhub/tags)
 ```
 
 
 [![Test coverage of code](https://codecov.io/gh/jupyterhub/jupyterhub/branch/master/graph/badge.svg)](https://codecov.io/gh/jupyterhub/jupyterhub)
-```markdown
+```md
 [![Test coverage of code](https://codecov.io/gh/jupyterhub/jupyterhub/branch/master/graph/badge.svg)](https://codecov.io/gh/jupyterhub/jupyterhub)
 ```
 
@@ -89,37 +89,37 @@ specified.
 ### Package
 
 [![Latest PyPI version](https://img.shields.io/pypi/v/jupyterhub?logo=pypi)](https://pypi.python.org/pypi/jupyterhub)
-```markdown
+```md
 [![Latest PyPI version](https://img.shields.io/pypi/v/jupyterhub?logo=pypi)](https://pypi.python.org/pypi/jupyterhub)
 ```
 
 
 [![Latest conda-forge version](https://img.shields.io/conda/vn/conda-forge/jupyterhub?logo=conda-forge)](https://anaconda.org/conda-forge/jupyterhub)
-```markdown
+```md
 [![Latest conda-forge version](https://img.shields.io/conda/vn/conda-forge/jupyterhub?logo=conda-forge)](https://anaconda.org/conda-forge/jupyterhub)
 ```
 
 
 [![Latest npm version](https://img.shields.io/npm/v/configurable-http-proxy?logo=npm)](https://www.npmjs.com/package/configurable-http-proxy)
-```markdown
+```md
 [![Latest npm version](https://img.shields.io/npm/v/configurable-http-proxy?logo=npm)](https://www.npmjs.com/package/configurable-http-proxy)
 ```
 
 
 [![Latest stable release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=stable&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.stable&colorB=orange&logo=helm)](https://jupyterhub.github.io/helm-chart/)
-```markdown
+```md
 [![Latest stable release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=stable&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.stable&colorB=orange&logo=helm)](https://jupyterhub.github.io/helm-chart/)
 ```
 
 
 [![Latest pre-release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=pre&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.pre&colorB=orange&logo=helm)](https://jupyterhub.github.io/helm-chart/)
-```markdown
+```md
 [![Latest pre-release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=pre&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.pre&colorB=orange&logo=helm)](https://jupyterhub.github.io/helm-chart/)
 ```
 
 
 [![Latest development release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=dev&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.latest&colorB=orange&logo=helm)](https://jupyterhub.github.io/helm-chart/)
-```markdown
+```md
 [![Latest development release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=dev&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.latest&colorB=orange&logo=helm)](https://jupyterhub.github.io/helm-chart/)
 ```
 
@@ -127,18 +127,18 @@ specified.
 ### Community
 
 [![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/jupyterhub/jupyterhub/issues)
-```markdown
+```md
 [![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/jupyterhub/jupyterhub/issues)
 ```
 
 
 [![Discourse](https://img.shields.io/badge/help_forum-discourse-blue?logo=discourse)](https://discourse.jupyter.org/c/jupyterhub)
-```markdown
+```md
 [![Discourse](https://img.shields.io/badge/help_forum-discourse-blue?logo=discourse)](https://discourse.jupyter.org/c/jupyterhub)
 ```
 
 
 [![Gitter](https://img.shields.io/badge/social_chat-gitter-blue?logo=gitter)](https://gitter.im/jupyterhub/jupyterhub)
-```markdown
+```md
 [![Gitter](https://img.shields.io/badge/social_chat-gitter-blue?logo=gitter)](https://gitter.im/jupyterhub/jupyterhub)
 ```

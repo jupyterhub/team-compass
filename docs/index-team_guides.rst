@@ -9,5 +9,5 @@ Guides for JupyterHub teams
 .. toctree::
 
    team/member-guide
-   tools
+   team/skills
    talking
