@@ -21,8 +21,8 @@ The JupyterHub community tries to keep its documentation strong and its code cov
 to contribute is to help improve either of these things. Below is a table of relevant information
 and links for each of these.
 
-| Documentation | Code Coverage | Changelogs
-| :---: | :---: | :---:
+|Name | Documentation | Code Coverage | Changelogs
+| :---: | :---: | :---: | :---:
 JupyterHub   |[![Documentation Status](https://readthedocs.org/projects/jupyterhub/badge/?version=latest)](https://jupyterhub.readthedocs.org/en/latest/?badge=latest)   | [![codecov](https://codecov.io/gh/jupyterhub/jupyterhub/branch/master/graph/badge.svg)](https://codecov.io/gh/jupyterhub/jupyterhub) |[changelog](https://github.com/jupyterhub/jupyterhub/blob/master/docs/source/changelog.md)
 KubeSpawner | [![Documentation Status](http://readthedocs.org/projects/jupyterhub-kubespawner/badge/?version=latest)](https://jupyterhub-kubespawner.readthedocs.io/en/latest/?badge=latest) | [![codecov](https://codecov.io/gh/jupyterhub/kubespawner/branch/master/graph/badge.svg)](https://codecov.io/gh/jupyterhub/kubespawner)
 Z2JH   |[![Documentation Status](https://readthedocs.org/projects/zero-to-jupyterhub/badge/?version=latest)](https://zero-to-jupyterhub.readthedocs.org/en/latest/?badge=latest)   |  |[changelog](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/master/CHANGELOG.md)
