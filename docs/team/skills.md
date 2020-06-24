@@ -116,3 +116,9 @@ you scope the work you'd like to do, and to set expectations.
 
 * The [UC Berkeley JupyterHubs documentation](https://docs.datahub.berkeley.edu/en/latest/pre-reqs.html)
   has a similar scope and set of information.
+
+## Resources for Learning
+
+In this section, we gather some introductory materials for learning the aforementioned tools.
+
+- **[Learning-k8s](https://github.com/knrt10/kubernetes-basicLearning)**: A step-by-step guide to learning the basics of Kubernetes
