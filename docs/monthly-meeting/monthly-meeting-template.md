@@ -8,9 +8,9 @@ tags: binder, meeting, notes
 - **Time:**
   - **Your timezone:**
 - **Video conference link:**
-- **This HackMD:**
+- **This HackMD:** https://hackmd.io/@sgibson91/hubs-team-meeting
 - **GitHub issue:**
-- **Calendar for future meetings:**
+- **Calendar for future meetings:** https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings.html
 
 ## Welcome to the Team Meeting
 
