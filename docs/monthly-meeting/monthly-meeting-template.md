@@ -4,10 +4,13 @@ tags: binder, meeting, notes
 
 # JupyterHub and BinderHub Team Meeting - <Month>
 
-- **Date and Time:**
+- **Date:**
+- **Time:**
   - **Your timezone:**
 - **Video conference link:**
 - **This HackMD:**
+- **GitHub issue:**
+- **Calendar for future meetings:**
 
 ## Welcome to the Team Meeting
 
