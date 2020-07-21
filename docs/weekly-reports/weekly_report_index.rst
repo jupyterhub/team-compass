@@ -3,7 +3,9 @@
 Weekly Reports Archive
 ======================
 
-`Current Agenda <https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view>`_
+.. note::
+   These weekly meetings are a deprecated practice. The Hubs teams (JupyterHub
+   and BinderHub) now meet on a monthly basis, see :ref:`monthly-archive`.
 
 Reports in reverse chronological order
 
