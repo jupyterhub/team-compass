@@ -3,7 +3,7 @@
 Monthly Reports Archive
 =======================
 
-`Current Agenda <https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view>`_
+`Current Agenda <https://hackmd.io/@sgibson91/hubs-team-meeting>`_
 
 Reports in reverse chronological order.
 
