@@ -13,7 +13,7 @@ Most of the Team Compass lives in this website:
 ## Team information
 
 [![team website](https://img.shields.io/badge/team-website-orange.svg)](https://jupyterhub-team-compass.readthedocs.io/en/latest/)
-[![monthly agenda](https://img.shields.io/badge/agenda-this%20month-blue.svg)](https://hackmd.io/u2ghJJUCRWK-zRidCFid_Q?view)
+[![monthly agenda](https://img.shields.io/badge/agenda-this%20month-blue.svg)](https://hackmd.io/@sgibson91/hubs-team-meeting)
 
 **Documentation status and codecov for several repositories**
 
