@@ -81,8 +81,10 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = False
 
+
 def setup(app):
-    app.add_stylesheet('custom.css')
+    app.add_css_file("custom.css")
+
 
 # -- Options for HTML output ----------------------------------------------
 
@@ -111,15 +113,14 @@ html_static_path = ['_static']
 #
 # This is required for the alabaster theme
 # refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars
-html_sidebars = {
-    '**': [
-        'about.html',
-        'navigation.html',
-        'relations.html',  # needs 'show_related': True theme option to display
-        'searchbox.html',
-        'donate.html',
-    ]
-}
+# html_sidebars = {
+#     '**': [
+#         'navigation.html',
+#         'relations.html',  # needs 'show_related': True theme option to display
+#         'searchbox.html',
+#         'donate.html',
+#     ]
+# }
 
 
 # -- Options for HTMLHelp output ------------------------------------------
