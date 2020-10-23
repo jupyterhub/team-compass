@@ -81,8 +81,10 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = False
 
+
 def setup(app):
-    app.add_stylesheet('custom.css')
+    app.add_css_file("custom.css")
+
 
 # -- Options for HTML output ----------------------------------------------
 
