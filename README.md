@@ -48,15 +48,6 @@ via the following main channels:
 
 *Note: any member of the community is welcome to participate in any of the process around discussion, archiving, and planning team meetings. Participate in whatever way works for you! Input is welcome!*
 
-### Weekly Team Reports
-
-The currently-active team report [exists in a HackMD](https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view). Each week, team reports
-are archived in the [weekly reports archive](http://jupyterhub-team-compass.readthedocs.io/en/latest/weekly-reports/weekly_report_index.html). Then, a new report is created with the [team report template](http://jupyterhub-team-compass.readthedocs.io/en/latest/weekly-reports/team-meeting.html).
-
-* [Current week team report](https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view)
-* [Weekly report archive](https://github.com/jupyterhub/team-compass/tree/master/docs/weekly-reports)
-
-
 ### Team Meetings
 
 **The JupyterHub Team meetings occur on the 3rd Thursday of every month,
@@ -75,3 +66,13 @@ Here are some useful links:
 
 The list of "core" members of the JupyterHub and Binder projects can be found on
 [the team-compass website](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html).
+
+### Weekly Team Reports
+
+> :rotating_light: The weekly team reports have been deprecated in favour of the monthly team meeting :rotating_light:
+
+The currently-active team report [exists in a HackMD](https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view). Each week, team reports
+are archived in the [weekly reports archive](http://jupyterhub-team-compass.readthedocs.io/en/latest/weekly-reports/weekly_report_index.html). Then, a new report is created with the [team report template](http://jupyterhub-team-compass.readthedocs.io/en/latest/weekly-reports/team-meeting.html).
+
+* [Current week team report](https://hackmd.io/MYNgpgHATAZgrAIwLQAYCMwAsTNhRJAThBQGYkoATEw0gQxgkroHYg==?view)
+* [Weekly report archive](https://github.com/jupyterhub/team-compass/tree/master/docs/weekly-reports)
