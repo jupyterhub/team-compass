@@ -23,6 +23,7 @@ for information on how to join.
    :caption: Team meetings
 
    monthly-meeting/monthly_report_index
+   monthly-meeting-hpc/monthly_report_index
 
 The JupyterHub team also used to keep weekly reports for what they had
 been up to. We recently switched to Monthly sync-ups instead of weekly
