@@ -9,6 +9,7 @@ Most of the Team Compass lives in this website:
 
 * [The JupyterHub Team Compass](http://jupyterhub-team-compass.readthedocs.io/)
 
+Please familiarise yourself with the [Code of Conduct](https://jupyter.org/conduct/).
 
 ## Team information
 
