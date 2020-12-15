@@ -12,6 +12,8 @@ tags: binder, meeting, notes
 - **GitHub issue:**
 - **Calendar for future meetings:** https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings.html
 
+#### By participating in this meeting, you are agreeing to abide by and uphold the [Code of Conduct](https://jupyter.org/conduct). Please take a second to read through it! :pray:
+
 ## Welcome to the Team Meeting
 
 Hello!
