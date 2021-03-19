@@ -1,6 +1,6 @@
 sphinx>=3
-recommonmark
 sphinx_copybutton
 pydata_sphinx_theme
 pandas
 ruamel.yaml
+myst_parser
