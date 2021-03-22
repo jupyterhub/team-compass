@@ -1,4 +1,5 @@
 ---
+orphan: true
 tags: binder, meeting, notes
 ---
 
