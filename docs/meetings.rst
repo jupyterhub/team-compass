@@ -23,7 +23,6 @@ for information on how to join.
    :caption: Team meetings
 
    monthly-meeting/monthly_report_index
-   monthly-meeting-hpc/monthly_report_index
 
 The JupyterHub team also used to keep weekly reports for what they had
 been up to. We recently switched to Monthly sync-ups instead of weekly
@@ -33,6 +32,17 @@ reports, but below is a list of the weekly reports that we have put together.
    :maxdepth: 2
 
    weekly-reports/weekly_report_index
+
+There is also a working group that meets monthly (see calendar) to discuss
+JupyterHub deployment on HPC systems and the various software projects
+supporting those efforts.  Everyone interested in those topics are welcome to
+attend!
+
+.. toctree::
+   :maxdepth: 2
+   :caption: HPC working group meetings
+
+   monthly-meeting-hpc/monthly_report_index
 
 Updating the team meeting agenda
 ================================
