@@ -6,7 +6,7 @@ on:
   - cron: "0 0 8 */3 *"
 
 jobs:
-  close-sync-issue:
+  close-release-pulse-issue:
     runs-on: ubuntu-latest
     steps:
       - uses: lee-dohm/close-matching-issues@v2

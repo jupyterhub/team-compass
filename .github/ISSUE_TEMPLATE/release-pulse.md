@@ -1,5 +1,5 @@
 ---
-name: ":package: Time for release"
+name: "⏰ Time for release"
 about: Coordinate the release of Z2JH and dependencies 
 labels: release-pulse
 title: "Time for release - {{ date | date('dddd, MMMM Do') }}"
