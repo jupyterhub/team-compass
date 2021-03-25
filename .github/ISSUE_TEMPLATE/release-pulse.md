@@ -2,7 +2,7 @@
 name: ":package: Time for release"
 about: Coordinate the release of Z2JH and dependencies 
 labels: release-pulse
-title: "Release - {{ date | date('dddd, MMMM Do') }}"
+title: "Time for release - {{ date | date('dddd, MMMM Do') }}"
 ---
 
 This is a release reminder to help JupyterHub team members coordinate a new Z2JH release. This issue will be closed at the end of the week.
