@@ -15,23 +15,23 @@ Commits since latest version:
 {{INSERT LATEST OAUTHENTICATOR COMMITS HERE}}
 
 **Make a release** ([release instructions](https://github.com/jupyterhub/oauthenticator/blob/master/RELEASE.md))
-- [ ] A new release has been made :tada:
+- [ ] A new release has been made 🎉
 - [ ] No new PRs had been merged, or a release isn't warranted for some reason
 
 ### Kubespawner
-:eight_pointed_black_star: Commits since latest version:
+Commits since latest version:
 {{INSERT LATEST KUBESPAWNER COMMITS HERE}}
 
-:eight_pointed_black_star: **Make a release** ([release instructions](https://github.com/jupyterhub/kubespawner/blob/master/RELEASE.md))
-- [ ] A new release has been made :tada:
+**Make a release** ([release instructions](https://github.com/jupyterhub/kubespawner/blob/master/RELEASE.md))
+- [ ] A new release has been made 🎉
 - [ ] No new PRs had been merged, or a release isn't warranted for some reason
 
 ### Configurable-Http-Proxy
-:eight_pointed_black_star: Commits since latest version:
+Commits since latest version:
 {{INSERT LATEST CHP COMMITS HERE}}
 
-:eight_pointed_black_star: **Make a release** ([release instructions](https://github.com/jupyterhub/configurable-http-proxy/blob/main/RELEASE.md))
-- [ ] A new release has been made :tada:
+**Make a release** ([release instructions](https://github.com/jupyterhub/configurable-http-proxy/blob/main/RELEASE.md))
+- [ ] A new release has been made 🎉
 - [ ] No new PRs had been merged, or a release isn't warranted for some reason
 
 ## Z2JH
