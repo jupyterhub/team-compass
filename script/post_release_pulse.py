@@ -16,9 +16,9 @@ token = github_token() if "ACCESS_TOKEN" not in os.environ else os.environ["ACCE
 # Initialize the GH API
 api = GhApi(token=token)
 
-# The base template is defined here: https://github.com/GeorgianaElena/team-compass/blob/release-pulse-issue/.github/ISSUE_TEMPLATE/release-pulse.md
+# The base template is defined here: https://github.com/jupyterhub/team-compass/blob/release-pulse-issue/.github/ISSUE_TEMPLATE/release-pulse.md
 # It has placeholders for lists of PRs, commits and latests version and these will be automatically filled in below, then a new issue will be created.
-template = api.repos.get_content("GeorgianaElena", "team-compass", ".github/ISSUE_TEMPLATE/release-pulse.md", "release-pulse-issue")
+template = api.repos.get_content("jupyterhub", "team-compass", ".github/ISSUE_TEMPLATE/release-pulse.md", "release-pulse-issue")
 template = b64decode(template.content).decode("utf-8")
 
 # This removes the header bracketed by ---
@@ -72,6 +72,6 @@ template = template.replace(
 )
 
 # Create an issue
-resp = api.issues.create("GeorgianaElena", "team-compass", title=f"Time for release - {date.today():%b %d, %Y}", body=template, labels=["release-pulse"])
+resp = api.issues.create("jupyterhub", "team-compass", title=f"Time for release - {date.today():%b %d, %Y}", body=template, labels=["release-pulse"])
 url = f"https://github.com/{resp.url.split('repos/')[-1]}"
 print(f"Finished posting release issue to {url} !")
