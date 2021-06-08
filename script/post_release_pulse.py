@@ -31,7 +31,7 @@ template = template.replace(
     latest_tag
 )
 
-unreleased_commits = f"https://github.com/jupyterhub/zero-to-jupyterhub-k8s/compare/{latest_tag}...master"
+unreleased_commits = f"https://github.com/jupyterhub/zero-to-jupyterhub-k8s/compare/{latest_tag}...main"
 template = template.replace(
     "{{INSERT LATEST COMMITS HERE}}",
     unreleased_commits
