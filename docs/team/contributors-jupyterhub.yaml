@@ -25,10 +25,10 @@
 
 - name: Sarah Gibson
   handle: "@sgibson91"
-  affiliation: The Alan Turing Institute
+  affiliation: 2i2c
   contributions: question,doc,tutorial,infra,talk,test
   team: red
-  focus: binder
+  focus: jupyterhub, binder
   last-check-in: 2019-10
 
 - name: Tim Head
