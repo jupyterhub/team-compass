@@ -41,7 +41,7 @@
 
 - name: Chris Holdgraf
   handle: "@choldgraf"
-  affiliation: Berkeley Statistics
+  affiliation: 2i2c
   contributions: code,ideas,doc,question
   team: red
   focus: jupyterhub, binder
