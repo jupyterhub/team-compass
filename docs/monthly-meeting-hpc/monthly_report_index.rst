@@ -12,6 +12,7 @@ To generate the agenda for a new meeting, see the `Monthly Meeting Agenda Templa
    :caption: Monthly reports
 
    July 2021 <2021-07-07.md>
+   June 2021 <2021-06-02.md>
    May 2021 <2021-05-04.md>
    April 2021 <2021-04-07.md>
    March 2021 <2021-03-03.md>
