@@ -13,6 +13,7 @@ To generate the agenda for a new meeting, see the `Monthly Meeting Agenda Templa
    :maxdepth: 1
    :caption: Monthly reports
 
+   August 2021 <2021-08-19.md>
    July 2021 <2021-07-15.md>
    June 2021 <2021-06-17.md>
    May 2021 <2021-05-20.md>
