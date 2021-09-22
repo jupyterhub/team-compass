@@ -61,6 +61,7 @@ issue and the team member is now ready to go!
    - [ ] A gmail account (for GKE credentials + Google team drive)
    - [ ] A [PyPI account](https://pypi.org) (for PyPI access)
    - [ ] A [Discourse account](https://discourse.jupyter.org)
+   - [ ] A [Quay.io account](https://quay.io/)
    
    **Membership**
    
@@ -74,7 +75,8 @@ issue and the team member is now ready to go!
          (binder-prod, binder-staging, binder-sandbox)
    - [ ] Add them as collaborators on the repo2docker and BinderHub PyPI packages
    - [ ] Add them to the [jupyterhub team google drive](https://drive.google.com/drive/folders/0B8VZ4vaOYWZ3a2dyeEp6NzBKbnM?usp=sharing)
-   
+   - [ ] Add them to [our Quay.io Image Registry](https://quay.io/organization/jupyterhub)).
+
    **Learning**
    
    - [ ] Send them [a short onboarding message](https://jupyterhub-team-compass.readthedocs.io/team/adding-members.html#an-official-onboarding-message)
