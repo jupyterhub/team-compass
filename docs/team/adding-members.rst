@@ -74,7 +74,6 @@ issue and the team member is now ready to go!
          (binder-prod, binder-staging, binder-sandbox)
    - [ ] Add them as collaborators on the repo2docker and BinderHub PyPI packages
    - [ ] Add them to the [jupyterhub team google drive](https://drive.google.com/drive/folders/0B8VZ4vaOYWZ3a2dyeEp6NzBKbnM?usp=sharing)
-   - [ ] Add them to [our Quay.io Image Registry](https://quay.io/organization/jupyterhub)).
 
    **Learning**
    
