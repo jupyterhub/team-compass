@@ -11,14 +11,13 @@ This organization is where we do most of the code-related work for the project, 
 ## Image registry on quay.io
 
 We have [a quay.io organization](https://quay.io/organization/jupyterhub) for hosting Docker images.
-This is used to push new images for tools like BinderHub and JupyterHub for Kubernetes.
+This is used for the repo2docker base image.
 If you do not have access to this organization and require it, ask a team member to add you.
 
 ## Image registry on Dockerhub
 
 We have [a DockerHub organization](https://hub.docker.com/r/jupyterhub/jupyterhub/) for hosting Docker images.
-This was used more heavily in the past, but due to recent DockerHub pricing changes it is no longer a sustainable option.
-However, we're listing it here since some of our images are still hosted there.
+BinderHub and JupyterHub images are pushed to DockerHub as that still works, though we are considering publishing these images to use quay.io as well.
 
 ## Google Cloud Project
 
