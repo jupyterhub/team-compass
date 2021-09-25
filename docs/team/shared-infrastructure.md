@@ -12,7 +12,7 @@ This organization is where we do most of the code-related work for the project, 
 
 We have [a quay.io organization](https://quay.io/organization/jupyterhub) for hosting Docker images.
 This is used to push new images for tools like BinderHub and JupyterHub for Kubernetes.
-If you do not have access to this organization, ask a team member to add you.
+If you do not have access to this organization and require it, ask a team member to add you.
 
 ## Image registry on Dockerhub
 
