@@ -61,7 +61,6 @@ issue and the team member is now ready to go!
    - [ ] A gmail account (for GKE credentials + Google team drive)
    - [ ] A [PyPI account](https://pypi.org) (for PyPI access)
    - [ ] A [Discourse account](https://discourse.jupyter.org)
-   - [ ] A [Quay.io account](https://quay.io/)
    
    **Membership**
    
