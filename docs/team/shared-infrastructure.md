@@ -18,6 +18,7 @@ If you do not have access to this organization and require it, ask a team member
 
 We have [a DockerHub organization](https://hub.docker.com/r/jupyterhub/jupyterhub/) for hosting Docker images.
 BinderHub and JupyterHub images are pushed to DockerHub as that still works, though we are considering publishing these images to use quay.io as well.
+If you do not have access to this organization and require it, ask a team member to add you.
 
 ## Google Cloud Project
 
