@@ -14,7 +14,7 @@ We have [a quay.io organization](https://quay.io/organization/jupyterhub) for ho
 This is used for the repo2docker base image.
 If you do not have access to this organization and require it, ask a team member to add you.
 
-## Image registry on Dockerhub
+## Image registry on DockerHub
 
 We have [a DockerHub organization](https://hub.docker.com/r/jupyterhub/jupyterhub/) for hosting Docker images.
 BinderHub and JupyterHub images are pushed to DockerHub as that still works, though we are considering publishing these images to use quay.io as well.
