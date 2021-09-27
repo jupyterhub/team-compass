@@ -106,6 +106,15 @@ a few things that you should do as a new team member:
    If it's something you'd rather not mention to the public then
    send an email to one of the team members letting them know, and they
    can communicate it to the others.
+6. **Foster open and inclusive discussion**. As a team member, you are
+   responsible for ensuring that conversation in our communities is positive
+   and inclusive. Open public issues to discuss things with the team. Try to
+   do most communication in public spaces where others can join, or
+   report back to team members if important conversations happened offline.
+   When creating issues, provide enough context so that others can understand
+   and provide their input. Encourage feedback and input from others
+   often, and be patient when merging code - it is almost better to
+   wait a bit for an approve than to self-merge.
 
 ## When should I merge a pull request?
 
