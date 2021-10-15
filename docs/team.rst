@@ -54,7 +54,7 @@ Emoji keys
 ----------
 
 You may notice that some of the team-members have "emojis" to reflect their
-contributions in JupyterHub. These are from the `Kent Dodds "all contributors spec" <LINK>`_.
+contributions in JupyterHub. These are from the `Kent Dodds "all contributors spec" <https://allcontributors.org/>`_.
 Below is a short table to show what each emoji represents.
 
 .. csv-table::
