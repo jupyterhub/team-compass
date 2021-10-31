@@ -10,6 +10,7 @@ Guides for JupyterHub teams
 
    team/member-guide
    team/skills
+   team/repository-code-standards
    team/adding-members
    team/shared-infrastructure
    talking
