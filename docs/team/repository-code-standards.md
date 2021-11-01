@@ -23,10 +23,11 @@ When working with an existing repo, please balance the benefits of adding a tool
 
 ## Configuration of a tool
 
-Use your judgment as to whether to apply a strict or lenient configuration for linting code.
-Example configurations are in
-  - JupyterHub (A large repository which was converted and therefore has a fairly lax configuration)
-  - **TODO: Repository where pre-commit/flake8 was enforced near the start so has a strict configuration**
+In general using the default settings for tools is preferred, but use your judgment as to whether to apply a stricter or more lenient configuration for linting code.
+Example configurations are in:
+
+  - [JupyterHub](https://github.com/jupyterhub/jupyterhub/) (a large repository which was converted and therefore has a fairly lax configuration)
+  - [nativeauthenticator](https://github.com/jupyterhub/nativeauthenticator) (a fairly strict configuration)
 
 Other linters, autoformatters and tools can be added to other repos on an ad-hoc basis if it's not too disruptive- this is a good way to try out new tools.
 In general, big changes should not be made to high profile repos without prior discussion.
