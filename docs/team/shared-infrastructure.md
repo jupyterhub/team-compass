@@ -20,8 +20,33 @@ We have [a DockerHub organization](https://hub.docker.com/r/jupyterhub/jupyterhu
 BinderHub and JupyterHub images are pushed to DockerHub as that still works, though we are considering publishing these images to use quay.io as well.
 If you do not have access to this organization and require it, ask a team member to add you.
 
-## Google Cloud Project
+## `mybinder.org` infrastructure
+
+The `mybinder.org` service has a few pieces related to the domain that are described below:
+
+### Ownership of the `mybinder.org` domain
+
+The `mybinder.org` domain is owned by Chris Holdgraf ([@choldgraf](https://github.com/choldgraf)).
+The registrar for this domain is [BlueHost](https://bluehost.com).
+The email address with contact information for the domain is `binder-team@googlegroups.com`.
+
+```{admonition} TODO
+In the future we wish to transfer ownership of this domain away from Chris's personal account.
+However, it is unclear what is the best way to do this right now, and so we are waiting for clarification from the Jupyter project at-large about how the project itself can own mybinder.org instead of Chris.
+```
+
+### DNS entries for `mybinder.org`
+
+The DNS for `mybinder.org` is handled by [CloudFlare](https://www.cloudflare.com/), by a central Jupyter account.
+
+(shared:gcp)=
+### Google Cloud Project
 
 The Binder Team uses a Google Cloud Project called `binderhub`.
 This project runs the BinderHub deployment that is found at `gke.mybinder.org`.
 The project is currently funded from a grant from Google.
+
+### Other cloud deployments in the federation
+
+There are a number of other cloud deployments in the BinderHub federation, but these are not centrally managed by the Binder Team.
+Instead, they are managed by the individuals and organizations that represent each of the BinderHubs in the federation.
