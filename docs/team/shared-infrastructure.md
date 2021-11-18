@@ -32,7 +32,7 @@ The email address with contact information for the domain is `binder-team@google
 
 ```{admonition} TODO
 In the future we wish to transfer ownership of this domain away from Chris's personal account.
-However, it is unclear what is the best way to do this right now, and so we are waiting for clarification from the Jupyter project at-large about how the project itself can own mybinder.org instead of Chris.
+However, it is unclear what is the best way to do this right now, and so we are waiting for clarification from the Jupyter project at-large about how the project itself can own mybinder.org instead of Chris. We also plan to use a contact email for this domain that has fewer people on it than the entire team, but are using `binder-team@googlegroups.com` as a stop-gap measure for now to increase our bus factor.
 ```
 
 ### DNS entries for `mybinder.org`
