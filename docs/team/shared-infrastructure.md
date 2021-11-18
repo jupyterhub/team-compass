@@ -1,4 +1,4 @@
-# Our Shared Infrastructure
+# Shared accounts and infrastructure
 
 There are a few services and infrastructure that the JupyterHub team has access to.
 Some of these are useful for our development workflows, while others are used as a part of services that we run.
