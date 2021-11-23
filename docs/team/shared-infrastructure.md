@@ -40,11 +40,11 @@ However, it is unclear what is the best way to do this right now, and so we are 
 The DNS for `mybinder.org` is handled by [CloudFlare](https://www.cloudflare.com/), by a central Jupyter account.
 
 (shared:gcp)=
-### Google Cloud Project
+### Google Cloud Platform (GCP) Project
 
-The Binder Team uses a Google Cloud Project called `binderhub`.
-This project runs the BinderHub deployment that is found at `gke.mybinder.org`.
-The project is currently funded from a grant from Google.
+The Binder Team uses a GCP project with id [`binderhub-288415`](https://console.cloud.google.com/home/dashboard?project=binderhub-288415) to host `gke.mybinder.org` and top level federation services at `mybinder.org`. The `binderhub-288415` GCP project resides in the GCP organization [`jupyter.org`](https://console.cloud.google.com/iam-admin/iam?organizationId=920697752286).
+
+The `binderhub-288415` GCP project is currently funded by a grant from Google, as represented as GCP credits. The credits belong to billing account belonging to the GCP organization `jupyter.org`, as can be seen [under its billing section](https://console.cloud.google.com/billing?organizationId=920697752286).
 
 ### Other cloud deployments in the federation
 
