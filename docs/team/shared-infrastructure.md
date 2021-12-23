@@ -20,6 +20,19 @@ We have [a DockerHub organization](https://hub.docker.com/r/jupyterhub/jupyterhu
 BinderHub and JupyterHub images are pushed to DockerHub as that still works, though we are considering publishing these images to use quay.io as well.
 If you do not have access to this organization and require it, ask a team member to add you.
 
+## Documentation and ReadTheDocs
+
+In general the JupyterHub team encourages the use of [ReadTheDocs](https://readthedocs.org).
+This is a service that hosts documentation stored in online repositories.
+
+For example, you can find the JupyterHub documentation at [jupyterhub.readthedocs.io](https://jupyterhub.readthedocs.io).
+And the JupyterHub ReadTheDocs dashboard is at [readthedocs.org/projects/jupyterhub/](https://readthedocs.org/projects/jupyterhub/).
+
+To get access to a documentation page for a JupyterHub repository, you'll need to be added by someone with the right privileges.
+New users may be added by an admin via the {guilabel}`Admin` -> {guilabel}`Maintainers` menu.
+
+In addition, ReadTheDocs offers [Pull Request previews](https://docs.readthedocs.io/en/stable/pull-requests.html) for changes to documentation, which may be enabled via the instructions [on this page](https://docs.readthedocs.io/en/stable/pull-requests.html).
+
 ## `mybinder.org` infrastructure
 
 The `mybinder.org` service has a few pieces related to the domain that are described below:
