@@ -1,4 +1,4 @@
 _build
-docs/team/contributors-*.txt
+docs/_data/contributors/contributors-jupyterhub.txt
 .ipynb_checkpoints
 .vscode

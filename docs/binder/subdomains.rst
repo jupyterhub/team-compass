@@ -48,7 +48,7 @@ The operator has to be committed to and able to operate a public BinderHub for a
 significant amount of time (at least a few months).
 
 The mission of the operator should be aligned with the mission of the Binder
-Project laid out in :ref:`binder-governance`. By allocating a sub-domain the
+Project laid out in :ref:`binder-mission`. By allocating a sub-domain the
 project wants to recognise those who publicly support the project in order
 to advance our mission.
 

@@ -1,16 +1,16 @@
 .. _guides_index:
 
-===========
-Team Guides
-===========
+==============
+Team Resources
+==============
 
-Guides for JupyterHub teams
+Resources and guides for team members to help us coordinate and work together more effectively.
 
 .. toctree::
 
    team/member-guide
-   team/skills
    team/repository-code-standards
    team/adding-members
    team/shared-infrastructure
    talking
+   building-blocks/index
