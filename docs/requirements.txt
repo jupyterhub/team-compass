@@ -1,6 +1,6 @@
+myst_parser
+pandas
+pydata_sphinx_theme
 sphinx>=4
 sphinx_copybutton
-pydata_sphinx_theme
-pandas
-ruamel.yaml
-myst_parser
+sphinx_design
