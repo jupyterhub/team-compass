@@ -39,7 +39,7 @@ are a few places where we have conversations and discussion.
 * [The Jupyter Community Discourse](https://discourse.jupyter.org) is a general watering hole for
   the Jupyter community. The JupyterHub team uses this for most conversation, and tries to keep its
   repositories focused around more actionable items.
-* [The JupyterHub team meeting](../meetings) takes place once a month, and is open to anybody who
+* [The JupyterHub team meeting](../meetings/index) takes place once a month, and is open to anybody who
   would like to attend. We try to use this as an opportunity to sync-up and connect with the community.
 * The [JupyterHub Gitter channel](https://gitter.im/jupyterhub/jupyterhub) and [Binder gitter channel](https://gitter.im/jupyterhub/binder)
   are for in-person conversation. In general, if conversations last beyond a few seconds, we highly encourage you

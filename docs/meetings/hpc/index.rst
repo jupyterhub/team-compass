@@ -1,4 +1,4 @@
-.. _monthly-archive:
+.. _monthly-archive-hpc:
 
 Monthly Reports Archive (HPC)
 =============================

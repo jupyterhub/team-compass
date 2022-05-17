@@ -23,4 +23,5 @@ help:
 live:
 	sphinx-autobuild \
 		--ignore */_data/contributors/contributors-jupyterhub.txt \
-		. _build/html/
+		--ignore */_build/ \
+		. _build/html
