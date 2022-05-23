@@ -43,7 +43,7 @@ mybinder.org SRE |  [![Documentation Status](http://readthedocs.org/projects/myb
 Currently, the JupyterHub team is keeping track of the goings-on in the community
 via the following main channels:
 
-* A monthly team meeting on the third Thursday of every month
+* A monthly team meeting on the third Tuesday of every month
 * Issues / PRs in the JupyterHub repositories
 * The JupyterHub / Binder Gitter channels
 
@@ -51,7 +51,7 @@ via the following main channels:
 
 ### Team Meetings
 
-**The JupyterHub Team meetings occur on the 3rd Thursday of every month,
+**The JupyterHub Team meetings occur on the 3rd Tuesday of every month,
 alternating at UTC 07:00 ([your timezone](http://arewemeetingyet.com/UTC/2019-08-15/07:00/q/Binder%20and%20JupyterHub%20team%20meeting))
 and UTC 17:00 ([your timezone](http://arewemeetingyet.com/UTC/2019-07-18/17:00/q/Binder%20and%20JupyterHub%20team%20meeting))**.
 These are open to the community and we'd love for you to join!
