@@ -5,17 +5,25 @@ Adding and onboarding new team members
 This page contains information about adding new team members and onboarding
 them.
 
-Adding a new team member
-=========================
+What to consider when adding a team member
+==========================================
 
-For someone to become a team member, they should already be a consistent,
-positive, productive member of the community. Newcomers are encouraged to
-become team members, after they've shown a sustained interest in
-engaging with the community. Moreover, team members should be interested in
-**continuing their engagement** over a long-ish period of time, generally
-putting in more time and effort than non-team members. This doesn't have to
-mean contributing code - it can be assisting others in forums/issues, reviewing
-pull requests, participating in team meetings, etc.
+We have a few teams within the JupyterHub community, with varying degrees of
+expectations and responsibilities.
+
+For someone to join a team, they should be a consistent,
+positive, productive member of the community.
+Moreover, team members should be interested in
+**continuing their engagement** over a long-ish period of time
+
+.. seealso::
+   
+   - :doc:`structure` lists our teams, and the responsibilities and expectations
+     that come with each. See .
+   - :doc:`../contribute/index` is a guide for newcomers who would like to begin contributing.
+
+General process for adding team members
+=======================================
 
 Any new team members must be "championed" by a pre-existing team member. This
 is a person who recommends that the new person be invited to join the team.
@@ -26,7 +34,7 @@ This process takes the following steps:
    the process.
 2. If there seems to be team consensus,
    the champion contacts the potential new team member and ask if they are
-   interested. Don't forget to run them by the :ref:`binder-team-responsibilities`
+   interested. Don't forget to run them by the responsibilities in the :doc:`structure`
    page to make sure they understand what they're signing up for.
    If so, then move to the next step.
 3. The champion opens a new issue in the `team compass repository <https://github.com/jupyterhub/team-compass>`_.
@@ -37,7 +45,6 @@ This process takes the following steps:
 5. If there are no objections that haven't been resolved, the new team member
    is welcomed into the community as an official team member!
 6. Finally, make sure to follow the steps in :ref:`onboarding`.
-
 
 .. _onboarding:
 

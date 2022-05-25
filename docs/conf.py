@@ -31,7 +31,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.mathjax', 'myst_parser']
+extensions = ['sphinx_copybutton', "sphinx_design", 'sphinx.ext.mathjax', 'myst_parser']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -45,7 +45,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Team Compass'
-copyright = '2017, JupyterHub Team and Binder Team'
+copyright = '2022, JupyterHub Team and Binder Team'
 author = 'JupyterHub Team and Binder Team'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -101,100 +101,29 @@ html_favicon = '_static/favicon.png'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-
-# Custom sidebar templates, must be a dictionary that maps document names
-# to template names.
-#
-# This is required for the alabaster theme
-# refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars
-# html_sidebars = {
-#     '**': [
-#         'navigation.html',
-#         'relations.html',  # needs 'show_related': True theme option to display
-#         'searchbox.html',
-#         'donate.html',
-#     ]
-# }
-
-
-# -- Options for HTMLHelp output ------------------------------------------
-
-# Output file base name for HTML help builder.
-htmlhelp_basename = 'TeamCompassdoc'
-
-
-# -- Options for LaTeX output ---------------------------------------------
-
-latex_elements = {
-    # The paper size ('letterpaper' or 'a4paper').
-    #
-    # 'papersize': 'letterpaper',
-
-    # The font size ('10pt', '11pt' or '12pt').
-    #
-    # 'pointsize': '10pt',
-
-    # Additional stuff for the LaTeX preamble.
-    #
-    # 'preamble': '',
-
-    # Latex figure (float) alignment
-    #
-    # 'figure_align': 'htbp',
+html_theme_options = {
+    "use_edit_page_button": True,
+    "google_analytics_id": "UA-101904940-3",
+    "github_url": "https://github.com/jupyterhub/team-compass",
+    "twitter_url": "https://twitter.com/projectjupyter",
+    "icon_links": [
+        {
+            "name": "JupyterHub Forum Topic",
+            "url": "https://discourse.jupyter.org/c/jupyterhub/10",
+            "icon": "fab fa-discourse",
+        }
+   ],
+   "navbar_end": ["navbar-icon-links"],
 }
 
-# Grouping the document tree into LaTeX files. List of tuples
-# (source start file, target name, title,
-#  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-    (master_doc, 'TeamCompass.tex', 'Team Compass Documentation',
-     'JupyterHub Team and Binder Team', 'manual'),
-]
-
-
-# -- Options for manual page output ---------------------------------------
-
-# One entry per manual page. List of tuples
-# (source start file, name, description, authors, manual section).
-man_pages = [
-    (master_doc, 'teamcompass', 'Team Compass Documentation',
-     [author], 1)
-]
-
-
-# -- Options for Texinfo output -------------------------------------------
-
-# Grouping the document tree into Texinfo files. List of tuples
-# (source start file, target name, title, author,
-#  dir menu entry, description, category)
-texinfo_documents = [
-    (master_doc, 'TeamCompass', 'Team Compass Documentation',
-     author, 'TeamCompass', 'One line description of project.',
-     'Miscellaneous'),
-]
-
-
-
-# -- Options for Epub output ----------------------------------------------
-
-# Bibliographic Dublin Core info.
-epub_title = project
-epub_author = author
-epub_publisher = author
-epub_copyright = copyright
-
-# The unique identifier of the text. This can be a ISBN number
-# or the project homepage.
-#
-# epub_identifier = ''
-
-# A unique identification for the text.
-#
-# epub_uid = ''
-
-# A list of files that should not be packed into the epub file.
-epub_exclude_files = ['search.html']
+html_context = {
+    "github_user": "jupyterhub",
+    "github_repo": "team-compass",
+    "github_version": "master",
+    "doc_path": "doc",
+    "source_suffix": source_suffix,
+}
 
 # -- Update contributor lists --------------------------------------------
-import subprocess
-subprocess.run(['python', 'scripts/gen_contributors.py'], check=True)
+from subprocess import run
+run(['python', '_data/contributors/gen_contributors.py'], check=True)

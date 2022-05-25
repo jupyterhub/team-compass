@@ -1,4 +1,4 @@
-# JupyterHub and Binder team guide
+# Team member guide
 
 This page holds resources for members of the JupyterHub and Binder teams.
 They're meant to guide team members to be happy, productive members of the

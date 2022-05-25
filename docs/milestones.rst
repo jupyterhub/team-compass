@@ -25,33 +25,33 @@ often require discussion before distilling them down into specific issues.
 
 Below are links for the upcoming **milestones** and **roadmaps** in several repositories. 
 
-`jupyterhub <https://github.com/jupyter/repo2docker>`_
+`jupyterhub <https://github.com/jupyter/repo2docker>`__
 =======================================================
 
-* `roadmap <https://github.com/jupyterhub/jupyterhub/blob/master/docs/source/contributing/roadmap.md>`_
-* `milestones <https://github.com/jupyterhub/jupyterhub/milestones?direction=asc&sort=due_date>`_
+* `roadmap <https://github.com/jupyterhub/jupyterhub/blob/master/docs/source/contributing/roadmap.md>`__
+* `milestones <https://github.com/jupyterhub/jupyterhub/milestones?direction=asc&sort=due_date>`__
 
 
-`BinderHub <https://github.com/jupyterhub/binderhub>`_
-======================================================
-
-* `milestones <https://github.com/jupyterhub/binderhub/milestones>`_
-
-
-`Zero to JupyterHub for Kubernetes <https://github.com/jupyterhub/zero-to-jupyterhub-k8s>`_
-===========================================================================================
-
-* `milestones <https://github.com/jupyterhub/zero-to-jupyterhub-k8s/milestones>`_
-
-
-`The Littlest JupyterHub <https://github.com/jupyterhub/the-littlest-jupyterhub>`_
-==================================================================================
-
-* `milestones <https://github.com/jupyterhub/the-littlest-jupyterhub/milestones>`_
-
-
-`repo2docker <https://github.com/jupyter/repo2docker>`_
+`BinderHub <https://github.com/jupyterhub/binderhub>`__
 =======================================================
 
-* `roadmap <https://github.com/jupyter/repo2docker/blob/master/docs/source/contributing/roadmap.md>`_
-* `milestones <https://github.com/jupyter/repo2docker/milestones>`_
+* `milestones <https://github.com/jupyterhub/binderhub/milestones>`__
+
+
+`Zero to JupyterHub for Kubernetes <https://github.com/jupyterhub/zero-to-jupyterhub-k8s>`__
+============================================================================================
+
+* `milestones <https://github.com/jupyterhub/zero-to-jupyterhub-k8s/milestones>`__
+
+
+`The Littlest JupyterHub <https://github.com/jupyterhub/the-littlest-jupyterhub>`__
+===================================================================================
+
+* `milestones <https://github.com/jupyterhub/the-littlest-jupyterhub/milestones>`__
+
+
+`repo2docker <https://github.com/jupyter/repo2docker>`__
+========================================================
+
+* `roadmap <https://github.com/jupyter/repo2docker/blob/master/docs/source/contributing/roadmap.md>`__
+* `milestones <https://github.com/jupyter/repo2docker/milestones>`__

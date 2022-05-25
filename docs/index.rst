@@ -25,10 +25,10 @@ governance and planning.
 .. toctree::
    :maxdepth: 2
 
-   index-team_info
+   team/index
    index-team_guides
    index-team_governance
-   index-building_blocks
+   contribute/index
 
 Why have a Team Compass?
 ========================
