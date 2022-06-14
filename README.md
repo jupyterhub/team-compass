@@ -14,7 +14,7 @@ Most of the Team Compass lives in this website:
 
 ## Team Meetings
 
-See [our team meetings page](https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings.html) for information about team meetings and how to join.
+See [our team meetings page](https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings/index.html) for information about team meetings and how to join.
 
 ## Team Membership
 
