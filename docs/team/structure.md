@@ -63,7 +63,7 @@ For example:
 - **Mentor contributors**. Share skills and knowledge, look for opportunities to let others earn and receive responsibility. Grow our tema.
 - **Review pull requests**. Look over the changes others propose in repositories, provide feedback that improves them, and invite others to join you.
 - **Ensure healthy communication**. Put extra effort into building a healthy, productive, friendly community dynamic amongst our community members.
-- **Attend our meetings**. Try to attend our [Team Meetings](../meetings.rst) whenever you can.
+- **Attend our meetings**. Try to attend our [Team Meetings](../meetings/index) whenever you can.
 
 Maintainers generally have heightened privileges (e.g., "Moderator" privileges in a forum, or "Administrator" privileges on a repository).
 They also inherit all responsibilities from the JupyterHub Contributors team.
