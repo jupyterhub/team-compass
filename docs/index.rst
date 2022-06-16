@@ -26,6 +26,7 @@ governance and planning.
    :maxdepth: 2
 
    team/index
+   meetings/index
    index-team_guides
    index-team_governance
    contribute/index
