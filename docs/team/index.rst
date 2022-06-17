@@ -10,7 +10,7 @@ For information about what these teams mean and how you can join, see :doc:`stru
 For more information about the team, see the sections to the left:
 
 .. toctree::
-   :hidden:
+   :maxdepth: 2
 
    structure
    ../meetings/index
