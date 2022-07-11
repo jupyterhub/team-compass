@@ -11,6 +11,8 @@ To generate the agenda for a new meeting, see the `Monthly Meeting Agenda Templa
    :maxdepth: 1
    :caption: Monthly reports
 
+   July 2022 <2022-07-06.md>
+   June 2022 <2022-06-01.md>
    May 2022 <2022-05-04.md>
    April 2022 <2022-04-06.md>
    March 2022 <2022-03-02.md>
