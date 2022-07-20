@@ -33,6 +33,16 @@ New users may be added by an admin via the {guilabel}`Admin` -> {guilabel}`Maint
 
 In addition, ReadTheDocs offers [Pull Request previews](https://docs.readthedocs.io/en/stable/pull-requests.html) for changes to documentation, which may be enabled via the instructions [on this page](https://docs.readthedocs.io/en/stable/pull-requests.html).
 
+## Figma page for designing images and logos
+
+We have a [JupyterHub Figma Project](https://www.figma.com/file/20E31Z8TV1HLvDPn3ckTRR/Jupyter-Design-Assets?node-id=0%3A1) that can be used to quickly generate logos and images for use in our tools and documentation.
+This is available to anybody with the link to edit, and you can ask in the team compass if you'd like to be added as an administrator.
+
+It contains a variety of design assets from many projects, here's a preview below.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F20E31Z8TV1HLvDPn3ckTRR%2FJupyter-Design-Assets%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+
 ## `mybinder.org` infrastructure
 
 The `mybinder.org` service has a few pieces related to the domain that are described below:
