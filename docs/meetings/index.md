@@ -11,7 +11,7 @@ These meetings are open to anyone, particularly those who are interested in join
 There are two meeting calendars worth following:
 
 - [**The JupyterHub meeting calendar**](https://calendar.google.com/calendar/embed?src=aqpkui5q7oi32pk9tcp53hnssc%40group.calendar.google.com&ctz=America%2FLos_Angeles): meeting times for the JupyterHub community.
-- [**The Jupyter meeting calendar**](https://docs.jupyter.org/en/latest/community/content-community.html#jupyter-community-meetings): meeting times for all sub-communities within Jupyter.
+- [**The Jupyter meeting calendar**](https://jupyter.org/community#calendar): meeting times for all sub-communities within Jupyter.
 
 The JupyterHub meeting calendar is embedded below for quick reference:
 
