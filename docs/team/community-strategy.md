@@ -21,4 +21,4 @@ We have funding to support four Outreachy interns per year (two per cohort, and 
 
 The next round of Outreachy interns will be placed between December, 2022 and March, 2023 and I have been organising mentors and projects to be involved with this round.
 I am participating as a mentor in this round to **learn** about requirements and barriers for JupyterHub members to participate in organising such mentorship-based approaches into the community.
-I will then generate some documentation based on my learnings and move to an "overseer" role for future cohorts.
+I will then generate some documentation based on my learnings, as well as pulling from the groundbreaking work of the Open Life Science team, and move to an "overseer" role for future cohorts.
