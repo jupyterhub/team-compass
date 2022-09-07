@@ -14,3 +14,4 @@ Resources and guides for team members to help us coordinate and work together mo
    team/shared-infrastructure
    talking
    building-blocks/index
+   team/community-strategy
