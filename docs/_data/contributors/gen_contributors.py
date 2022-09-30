@@ -1,10 +1,10 @@
 """Generate HTML Contributors tables for team pages
 """
-import pandas as pd
-import os
 from pathlib import Path
-from yaml import safe_load
 from textwrap import dedent, indent
+
+import pandas as pd
+from yaml import safe_load
 
 # Load data that we'll use for the table
 path_data = Path(__file__).parent
@@ -19,22 +19,38 @@ snippet = dedent("""
     """)
 
 inactive_contributors = []
+
+team_titles = {
+    "council": "JupyterHub Council",
+    "maintainers": "Maintainers",
+    "mybinder": "mybinder.org operators",
+}
+
+inactive_contributors = []
 for contributor in contributors:
-    if contributor["status"] == "inactive":
+    if contributor.get("status", "active") == "inactive":
         inactive_contributors.append(contributor)
         continue
+
 
     # Pull out the contribution image
     contributions = []
     for contribution in contributor["contributions"].split(','):
+        contribution = contribution.strip()
         if contribution in keyvals.index:
             contribution = keyvals.loc[contribution]["image"]
         contributions.append(contribution)
     contributions = ", ".join(contributions)
 
-    
+    teams = []
+    for team in contributor.get("teams") or []:
+        teams.append(f"**{team_titles.get(team, team)}**")
+    teams = ", ".join(teams)
+
     # Create the card rST. Needs to be indented underneath its parent
-    snippet += indent(dedent(f"""
+    snippet += indent(
+        dedent(
+            f"""
 
     .. grid-item-card::
        :class-header: bg-light
@@ -44,23 +60,50 @@ for contributor in contributors:
        **{contributor["name"]}**
 
        ^^^
-        
+
        .. image:: https://github.com/{contributor["handle"]}.png?size=125
 
-       **@{contributor["handle"]}**
- 
+       `@{contributor["handle"]} <https://github.com/{contributor["handle"]}>`_
+
        {contributions}
+
+       {teams}
 
        +++
        {contributor["affiliation"]}
-    """), "   ")
+    """
+        ),
+        "   ",
+    )
 
-# Add text about inactive contributors
+# team_titles = {
+#     "council": "JupyterHub Council",
+#     "maintainers": "Maintainers",
+#     "mybinder": "mybinder.org operators",
+#     "inactive": "Inactive team members",
+# }
+# # make sure we know what the teams are
+# assert set(teams).issubset(set(team_titles))
 
-snippet += "\n**Inactive Contributors**:\n\n"
-for ii, contributor in enumerate(inactive_contributors):
-    inactive_contributors[ii] = f'**{contributor["name"]}** `(@{contributor["handle"]}) <https://github.com/{contributor["handle"]}>`_'
-snippet += ", ".join(inactive_contributors)
+
+def _short_contributor(contributor):
+    return f'**{contributor["name"]}** (`@{contributor["handle"]} <https://github.com/{contributor["handle"]}>`_)'
+
+
+# for name, title in team_titles.items():
+#     team_members = teams.get(name, [])
+#     if not team_members:
+#         continue
+#     snippet += f"\n{title}\n{'~' * len(title)}\n\n"
+#     snippet += ", ".join(map(_short_contributor, team_members))
+#     snippet += "\n\n"
+#
+# # Add text about inactive contributors
+#
+
+inactive = "Inactive Team members"
+snippet += f"\n{inactive}\n{'^' * len(inactive)}\n\n"
+snippet += ", ".join(map(_short_contributor, inactive_contributors))
 
 # Write a snippet that we will include in our docs
-path_contributor_data.with_suffix(".txt").write_text(snippet)
+path_contributor_data.with_suffix(".txt").write_text(snippet + "\n")
