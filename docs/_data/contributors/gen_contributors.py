@@ -90,6 +90,8 @@ def _short_contributor(contributor):
     return f'**{contributor["name"]}** (`@{contributor["handle"]} <https://github.com/{contributor["handle"]}>`_)'
 
 
+# TODO: if we want separate lists for each team
+
 # for name, title in team_titles.items():
 #     team_members = teams.get(name, [])
 #     if not team_members:
