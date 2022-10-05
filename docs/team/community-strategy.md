@@ -3,7 +3,7 @@
 This page contains information regarding activities undertaken and community strategies developed by the Community Strategic Lead.
 [Sarah Gibson](https://github.com/sgibson91) is currently serving in this role as of August 2022, for a period of two years.
 
-This role and related activities are funded by a CZI EOSS DEI grant, administered by NumFOCUS.
+This role and related activities are funded by [a CZI EOSS DEI grant](https://drive.google.com/file/d/124LWcFe8Hq2n_3l4jAgDgJ1lpXRzV1Kc/view?usp=sharing), administered by [NumFOCUS](https://numfocus.org).
 
 ```{admonition} Work in Progress
 The work represented on this page is under active development and we will update information as soon as we are able to as we iterate.
