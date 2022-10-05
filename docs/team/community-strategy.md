@@ -17,7 +17,7 @@ Additionally, you can find information on other related activities via the [![cs
 
 ### 2022-09-07: 2 month strategy so far
 
-One strategy is to develop onboarding pathways through Outreachy,then into Contributor in Residence, and finally as a fully-fledged community member.
+One strategy is to develop onboarding pathways through Outreachy, then into Contributor in Residence, and finally as a fully-fledged community member.
 We have funding to support four Outreachy interns per year (two per cohort, and cohorts happen twice per year) and "promote" one of the four from Y1 into CIR for Y2.
 
 The next round of Outreachy interns will be placed between December, 2022 and March, 2023 and I have been organising mentors and projects to be involved with this round.
