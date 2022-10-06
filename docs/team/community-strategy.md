@@ -10,8 +10,8 @@ The work represented on this page is under active development and we will update
 ```
 
 <!-- Using a raw link here as a PyData Sphinx theme release will format them for us: https://pydata-sphinx-theme.readthedocs.io/en/latest/user_guide/theme-elements.html#link-shortening-for-git-repository-services -->
-Some information is being shared in https://github.com/jupyterhub/team-compass/issues/536, which will be migrated here over time.
-Additionally, you can find information on other related activities via the [![csl-label](https://img.shields.io/github/labels/jupyterhub/team-compass/community-strategic-lead)](https://github.com/jupyterhub/team-compass/issues?q=label%3Acommunity-strategic-lead) label.
+Some information is being shared in <https://github.com/jupyterhub/team-compass/issues/536>, which will be migrated here over time.
+Additionally, you can find information on other related activities via the [`community-strategic-lead`](https://github.com/search?q=org%3Ajupyterhub+label%3Acommunity-strategic-lead) label or on the related [project board](https://github.com/orgs/jupyterhub/projects/3/views/1).
 
 ## Community Strategy Updates
 
