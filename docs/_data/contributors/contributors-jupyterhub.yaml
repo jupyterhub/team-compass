@@ -43,7 +43,7 @@
 
 - name: Simon Li
   handle: "manics"
-  affiliation: Open Microscopy Environment, University of Dundee
+  affiliation: University of Dundee
   contributions: code,question
   focus: jupyterhub
   teams:
@@ -70,7 +70,7 @@
 
 - name: Erik Sundell
   handle: "consideRatio"
-  affiliation: Sandvik CODE
+  affiliation: Sundell Open Source
   contributions: code,infra
   focus: jupyterhub, binder
   teams:
