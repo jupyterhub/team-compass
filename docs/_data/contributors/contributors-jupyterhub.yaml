@@ -25,7 +25,7 @@
 
 - name: Tim Head
   handle: "betatim"
-  affiliation: Wild Tree Tech
+  affiliation: NVIDIA
   contributions: bizdev, code, fundingFinding, ideas, talk, infra
   focus: jupyterhub, binder
   teams:
