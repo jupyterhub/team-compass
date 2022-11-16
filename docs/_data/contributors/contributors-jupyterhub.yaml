@@ -59,6 +59,15 @@
     - council
   last-check-in: 2022-09
 
+- name: Fernando Pérez
+  handle: "fperez"
+  affiliation: UC Berkeley, LBL
+  contributions: funding,vision,large-usage settings, scientific communities
+  focus: jupyterhub
+  teams:
+    - council
+  last-check-in: 2022-09
+
 - name: Min Ragan-Kelley
   handle: "minrk"
   affiliation: Simula
