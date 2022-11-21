@@ -41,6 +41,15 @@
     - council
   last-check-in: 2022-09
 
+- name: Paul Ivanov
+  handle: "ivanov"
+  affiliation: Project Jupyter
+  contributions: ideas,question
+  focus: jupyterhub, binder
+  teams:
+    - council
+  last-check-in: 2022-09
+
 - name: Simon Li
   handle: "manics"
   affiliation: University of Dundee
