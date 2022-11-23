@@ -2,8 +2,8 @@
 
 # -- General configuration ------------------------------------------------
 extensions = ["sphinx_copybutton", "sphinx_design", "sphinx.ext.mathjax", "myst_parser"]
-templates_path = ["_templates"]
-source_suffix = [".rst"]
+templates_path = []
+source_suffix = [".rst", ".md"]
 root_doc = "index"
 
 # General information about the project.
@@ -38,14 +38,13 @@ html_theme_options = {
             "icon": "fab fa-discourse",
         }
     ],
-    "navbar_end": ["navbar-icon-links"],
 }
 
 html_context = {
     "github_user": "jupyterhub",
     "github_repo": "team-compass",
-    "github_version": "master",
-    "doc_path": "doc",
+    "github_version": "main",
+    "doc_path": "docs",
     "source_suffix": source_suffix,
 }
 

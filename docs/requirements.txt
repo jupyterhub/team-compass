@@ -1,7 +1,6 @@
 myst_parser
 pandas
 pydata_sphinx_theme
-sphinx>=4
 sphinx-autobuild
 sphinx_copybutton
 sphinx_design
