@@ -5,6 +5,15 @@
 # no team means inactive
 
 # Use ALPHABETICAL ORDER please :-)
+- name: Damian Avila
+  handle: "damianavila"
+  affiliation: Project Jupyter, 2i2c and UMSI
+  contributions: question, communities
+  focus: jupyterhub, binder
+  teams:
+    - council
+  last-check-in: 2022-09
+
 - name: Georgiana Dolocan
   handle: "GeorgianaElena"
   affiliation: 2i2c
