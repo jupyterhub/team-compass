@@ -1,4 +1,4 @@
-# Skills and ways to contribute
+# Useful skills and ways to contribute
 
 There are many ways that you can contribute to the JupyterHub / Binder projects.
 This page suggests some pathways for community members to learn new skills and
@@ -112,13 +112,12 @@ all obvious. If you'd like to make a contribution and you're not sure where to s
 a good rule of thumb is to open an issue or reach out to another team member to help
 you scope the work you'd like to do, and to set expectations.
 
-## Links
-
-* The [UC Berkeley JupyterHubs documentation](https://docs.datahub.berkeley.edu/en/latest/pre-reqs.html)
-  has a similar scope and set of information.
-
-## Resources for Learning
+## Resources for learning
 
 In this section, we gather some introductory materials for learning the aforementioned tools.
 
-- **[Learning-k8s](https://github.com/knrt10/kubernetes-basicLearning)**: A step-by-step guide to learning the basics of Kubernetes
+* The [UC Berkeley JupyterHubs documentation](https://docs.datahub.berkeley.edu/en/latest/pre-reqs.html)
+  has a similar scope and set of information.
+* **[Learning-k8s](https://github.com/knrt10/kubernetes-basicLearning)**: A step-by-step guide to learning the basics of Kubernetes
+* [**The mybinder SRE guide**](https://mybinder-sre.readthedocs.io/en/latest/) is a set of resources for running mybinder.org.
+  It contains tips, snippets, lessons-learned etc for running a large, public kubernetes cluster.

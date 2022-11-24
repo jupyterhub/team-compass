@@ -8,6 +8,11 @@ Some of these are useful for our development workflows, while others are used as
 We have [a GitHub organization](https://github.com/jupyterhub/) for hosting all of our code repositories.
 This organization is where we do most of the code-related work for the project, and where we have discussions and coordination.
 
+## Google Drive
+
+We have a [**JupyterHub Team Google Drive**](https://drive.google.com/drive/u/1/folders/0B8VZ4vaOYWZ3X29KTzZSemlNSG8) to store documents, presentations, images, etc that are useful to the team.
+You can put whatever you'd like here, just try to keep it organized :-)
+
 ## Image registry on quay.io
 
 We have [a quay.io organization](https://quay.io/organization/jupyterhub) for hosting Docker images.
@@ -41,7 +46,6 @@ This is available to anybody with the link to edit, and you can ask in the team 
 It contains a variety of design assets from many projects, here's a preview below.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F20E31Z8TV1HLvDPn3ckTRR%2FJupyter-Design-Assets%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
-
 
 ## `mybinder.org` infrastructure
 

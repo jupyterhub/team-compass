@@ -10,13 +10,11 @@ Team Compass for JupyterHub and Binder
    :target: https://hackmd.io/u2ghJJUCRWK-zRidCFid_Q?view
    :alt: monthly agenda
 
-This page contains links to the notes from team meetings
-with the JupyterHub community. For more some more technical information
-and links to various JupyterHub repositories, see the
-`Team Compass README <https://github.com/jupyterhub/team-compass>`_.
+Our Team Compass contains team practices, policies, and resources to help one another align and contribute.
+It also has helpful information for team members, like shared infrastructure and accounts, resources to learn how to contribute, etc.
 
-Team Compass Resources
-======================
+We use [**Team Compass issues**](https://github.com/jupyterhub/team-compass/issues)
+to discuss specific, actionable things related to the *team* (e.g., discussing whether to change something in the team-compass repo).
 
 The following pages contain information about the JupyterHub/Binder
 teams, resources for community members, and team practices for
@@ -26,8 +24,8 @@ governance and planning.
    :maxdepth: 2
 
    team/index
+   index-team_policies
    index-team_guides
-   contribute/index
 
 Why have a Team Compass?
 ========================

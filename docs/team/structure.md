@@ -1,10 +1,45 @@
-# Team structure
+# Team structure and responsibilities
 
 This page describes the team structure that we use in the JupyterHub community, as well as how you can get involved.
 
 ```{admonition} Contribute and join 💗
-For more information about how you can join the team, see [our contribution guide](../contribute/index.md).
+For more information about how you can contribute to the team, see [our contribution guide](../index-team_guides).
 ```
+
+## Expectations of all team members
+
+We don't want team membership to
+be a big burden (many of us have one or more other jobs too!) but there are
+a few things that you should do as a new team member:
+
+1. **"Watch" the [team compass repository](https://github.com/jupyterhub/team-compass)**
+   so that you're notified when team conversations are happening.
+2. **Semi-regularly attend team meetings**. You can find a calendar of upcoming
+   meetings [on the team meetings page](https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings.html).
+3. **Follow the [Binder team responsibilities](https://jupyterhub-team-compass.readthedocs.io/en/latest/binder/governance.html#team-responsibilities) guidelines**.
+   While this is scoped for the Binder team, it is a good rubric to follow for
+   JupyterHub as well.
+4. **Commit at least 6 months to team membership**. Training and mentoring new
+   team members is an investment by the existing team, hence team
+   membership requires commitment from both sides. Beyond 6 months, if active
+   team membership is no longer possible for you, you can always
+   join the green team!
+5. **Let us know if you'll be unavailable** or out of town for an extended period
+   of time. It's no problem if you need to focus on other things for a bit, but it's
+   helpful for the team to know who will be around.
+   To do so, [open an issue in the team-compass](https://github.com/jupyterhub/team-compass/issues/new).
+   If it's something you'd rather not mention to the public then
+   send an email to one of the team members letting them know, and they
+   can communicate it to the others.
+6. **Foster open and inclusive discussion**. As a team member, you are
+   responsible for ensuring that conversation in our communities is positive
+   and inclusive. Open public issues to discuss things with the team. Try to
+   do most communication in public spaces where others can join, or
+   report back to team members if important conversations happened offline.
+   When creating issues, provide enough context so that others can understand
+   and provide their input. Encourage feedback and input from others
+   often, and be patient when merging code - it is almost better to
+   wait a bit for an approve than to self-merge.
 
 ## Our teams
 

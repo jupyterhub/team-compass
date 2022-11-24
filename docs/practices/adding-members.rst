@@ -14,16 +14,15 @@ expectations and responsibilities.
 For someone to join a team, they should be a consistent,
 positive, productive member of the community.
 Moreover, team members should be interested in
-**continuing their engagement** over a long-ish period of time
+**continuing their engagement** over a long-ish period of time.
 
-.. seealso::
-   
-   - :doc:`structure` lists our teams, and the responsibilities and expectations
-     that come with each. See .
-   - :doc:`../contribute/index` is a guide for newcomers who would like to begin contributing.
+They should:
 
-General process for adding team members
-=======================================
+- Be familiar with `our Team Practices and Policies <../practices/index>`_
+- Be willing to commit to `the responsibilities that come with team membership <../practices/responsibilities>`_
+
+Process for adding team members
+===============================
 
 Any new team members must be "championed" by a pre-existing team member. This
 is a person who recommends that the new person be invited to join the team.
@@ -34,7 +33,7 @@ This process takes the following steps:
    the process.
 2. If there seems to be team consensus,
    the champion contacts the potential new team member and ask if they are
-   interested. Don't forget to run them by the responsibilities in the :doc:`structure`
+   interested. Don't forget to run them by the responsibilities in the :doc:`../team/structure`
    page to make sure they understand what they're signing up for.
    If so, then move to the next step.
 3. The champion opens a new issue in the `team compass repository <https://github.com/jupyterhub/team-compass>`_.

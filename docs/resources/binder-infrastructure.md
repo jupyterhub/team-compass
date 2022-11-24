@@ -3,6 +3,12 @@
 The `mybinder.org` service has some dedicated infrastructure that is unique to this service.
 We describe the major pieces below:
 
+## The Binder SRE guide
+
+[**The mybinder SRE guide**](https://mybinder-sre.readthedocs.io/en/latest/)
+is a set of resources for running mybinder.org.
+It contains tips, snippets, lessons-learned etc for running a large, public kubernetes cluster.
+
 ## The `mybinder.org` domain
 
 The `mybinder.org` domain is owned by Chris Holdgraf ([@choldgraf](https://github.com/choldgraf)).

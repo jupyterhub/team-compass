@@ -1,42 +1,32 @@
 .. _guides_index:
 
-================
-Team information
-================
+=====================
+Contributor resources
+=====================
 
 Resources and guides for team members to help us coordinate and work together more effectively.
 
-**Governance and structure** defines our decision-making policies, how we organize ourselves, and the practices that we commit to following.
+**Contributor guide** is a resource for those interested in learning more about JupyterHub and how they can contribute to this project.
+
+Our project depends on contributions from volunteers across the world who are interested in supporting the JupyterHub Project.
+The sections below provide some resources to help you get started contributing to our community.
 
 .. toctree:: 
-   :caption: Governance and structure
+   :caption: Contributor guide
    :maxdepth: 2
 
-   ../governance
-   ../binder/subdomains
-   ../team/structure
-   Jupyter Code of Conduct <https://jupyter.org/governance/conduct/code_of_conduct.html>
+   contribute/guide
+   contribute/skills
 
-
-**Team guides** describe our policy, process, and recommendations for day to day activities and operations.
-
-.. toctree::
-   :caption: Team guides
-   :maxdepth: 2
-
-   team/member-guide
-   team/repository-code-standards
-   team/adding-members 
-   ../talking
-
-**Team coordination** is meant to share information and context across team members, and align us on a plan of action.
+**Team information** is meant to share information and context across team members, and align us on a plan of action.
 
 .. toctree:: 
-   :caption: Team coordination
+   :caption: Team information
    :maxdepth: 2
 
    meetings/index
-   team/shared-infrastructure
-   team/binder-infrastructure
-   team/community-strategy
-   ../milestones
+   resources/shared-infrastructure
+   resources/binder-infrastructure
+   resources/milestones
+   contribute/repository-info
+   resources/community-strategy
