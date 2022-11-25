@@ -1,3 +1,4 @@
+(team-structure)=
 # Team structure and responsibilities
 
 This page describes the team structure that we use in the JupyterHub community, as well as how you can get involved.
