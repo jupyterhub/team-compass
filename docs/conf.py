@@ -13,10 +13,6 @@ author = "JupyterHub Team and Binder Team"
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 
-def setup(app):
-    app.add_css_file("custom.css")
-
-
 # -- Options for HTML output ----------------------------------------------
 html_theme = "pydata_sphinx_theme"
 html_logo = "_static/logo.png"
