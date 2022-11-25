@@ -33,7 +33,7 @@ Why have a Team Compass?
 ========================
 
 This repository helps the JupyterHub team and Binder team align on our structure, policy, and goals.
-Our overriding goal is continuous team and project improvement.
+Our primary goal is continuous team and project improvement.
 
 As projects and their growth evolve rapidly, the contents of this repo
 should aid us in setting project direction and adjusting the course as
