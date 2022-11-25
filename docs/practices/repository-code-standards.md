@@ -1,4 +1,4 @@
-# Repository Management and Code Standards
+# Repository management and code standards
 
 JupyterHub projects should take advantage of pre-commit and tools to help maintain consistent formatting within a repo to improve overall code quality, review efficiency, and readability of code.
 Sensible use of pre-commit to run formatting tools and code linters can add consistency and improve maintainability.

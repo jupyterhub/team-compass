@@ -8,6 +8,11 @@ Some of these are useful for our development workflows, while others are used as
 We have [a GitHub organization](https://github.com/jupyterhub/) for hosting all of our code repositories.
 This organization is where we do most of the code-related work for the project, and where we have discussions and coordination.
 
+## Google Drive
+
+We have a [**JupyterHub Team Google Drive**](https://drive.google.com/drive/u/1/folders/0B8VZ4vaOYWZ3X29KTzZSemlNSG8) to store documents, presentations, images, etc that are useful to the team.
+You can put whatever you'd like here, just try to keep it organized :-)
+
 ## Image registry on quay.io
 
 We have [a quay.io organization](https://quay.io/organization/jupyterhub) for hosting Docker images.
@@ -42,34 +47,6 @@ It contains a variety of design assets from many projects, here's a preview belo
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F20E31Z8TV1HLvDPn3ckTRR%2FJupyter-Design-Assets%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
-
 ## `mybinder.org` infrastructure
 
-The `mybinder.org` service has a few pieces related to the domain that are described below:
-
-### Ownership of the `mybinder.org` domain
-
-The `mybinder.org` domain is owned by Chris Holdgraf ([@choldgraf](https://github.com/choldgraf)).
-The registrar for this domain is [BlueHost](https://bluehost.com).
-The email address with contact information for the domain is `binder-team@googlegroups.com`.
-
-```{admonition} TODO
-In the future we wish to transfer ownership of this domain away from Chris's personal account.
-However, it is unclear what is the best way to do this right now, and so we are waiting for clarification from the Jupyter project at-large about how the project itself can own mybinder.org instead of Chris. We also plan to use a contact email for this domain that has fewer people on it than the entire team, but are using `binder-team@googlegroups.com` as a stop-gap measure for now to increase our bus factor.
-```
-
-### DNS entries for `mybinder.org`
-
-The DNS for `mybinder.org` is handled by [CloudFlare](https://www.cloudflare.com/), by a central Jupyter account.
-
-(shared:gcp)=
-### Google Cloud Platform (GCP) Project
-
-The Binder Team uses a GCP project with id [`binderhub-288415`](https://console.cloud.google.com/home/dashboard?project=binderhub-288415) to host `gke.mybinder.org` and top level federation services at `mybinder.org`. The `binderhub-288415` GCP project resides in the GCP organization [`jupyter.org`](https://console.cloud.google.com/iam-admin/iam?organizationId=920697752286).
-
-The `binderhub-288415` GCP project is currently funded by a grant from Google, as represented as GCP credits. The credits belong to billing account belonging to the GCP organization `jupyter.org`, as can be seen [under its billing section](https://console.cloud.google.com/billing?organizationId=920697752286).
-
-### Other cloud deployments in the federation
-
-There are a number of other cloud deployments in the BinderHub federation, but these are not centrally managed by the Binder Team.
-Instead, they are managed by the individuals and organizations that represent each of the BinderHubs in the federation.
+See [](binder-infrastructure.md) for more details.

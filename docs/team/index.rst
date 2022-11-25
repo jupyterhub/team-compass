@@ -1,19 +1,11 @@
 .. _jupyterhub-team:
 
-==============
-About our team
-==============
+========
+Our team
+========
 
 This page describes the official team members of the JupyterHub community.
-For information about what these teams mean and how you can join, see :doc:`structure`.
-
-For more information about the team, see the sections to the left:
-
-.. toctree::
-   :maxdepth: 2
-
-   structure
-   ../meetings/index
+For information about what these teams mean and how you can join, see :doc:`../team/structure`.
 
 Here is the current JupyterHub team (listed alphabetically, with affiliation, and main areas of contribution):
 
