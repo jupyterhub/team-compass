@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
 
 # -- General configuration ------------------------------------------------
-extensions = ["sphinx_copybutton", "sphinx_design", "sphinx.ext.mathjax", "myst_parser"]
+extensions = [
+    "sphinx_copybutton",
+    "sphinx_design",
+    "sphinx.ext.mathjax",
+    "sphinxext.rediraffe",
+    "myst_parser",
+]
 templates_path = []
 source_suffix = [".rst", ".md"]
 root_doc = "index"
@@ -47,3 +53,15 @@ html_context = {
 from subprocess import run
 
 run(["python", "_data/contributors/gen_contributors.py"], check=True)
+
+# -- Options for the rediraffe extension -------------------------------------
+# ref: https://github.com/wpilibsuite/sphinxext-rediraffe#readme
+#
+# This extensions help us relocated content without breaking links. If a
+# document is moved internally, a redirect like should be configured below to
+# help us not break links.
+#
+rediraffe_branch = "main"
+rediraffe_redirects = {
+    # "old-file": "new-folder/new-file-name",
+}
