@@ -1,4 +1,4 @@
-# Communication and support
+# Team communication and user support
 
 We organize our discussions in order to help both contributors and
 maintainers find and choose the right communication channels and have a positive experience :-)
