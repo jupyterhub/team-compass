@@ -63,5 +63,19 @@ run(["python", "_data/contributors/gen_contributors.py"], check=True)
 #
 rediraffe_branch = "main"
 rediraffe_redirects = {
-    # "old-file": "new-folder/new-file-name",
+    # Redirects added 2022-11-25 for PR 587
+    "building-blocks/index": "index-team_policies",
+    "building-blocks/readme-badges": "practices/readme-badges",
+    "contribute/index": "index-team_guides",
+    "index-team_governance": "index-team_policies",
+    "milestones": "resources/milestones",
+    "talking": "practices/talking",
+    "team/adding-members": "practices/adding-members",
+    "team/community-strategy": "resources/community-strategy",
+    "team/member-guide": "index-team_policies",
+    "team/repository-code-standards": "practices/repository-code-standards",
+    "team/shared-infrastructure": "resources/shared-infrastructure",
+
+    # Add additional redirects below if you relocate documents
+    # "old/folder/old-file": "new-folder/new-file",
 }
