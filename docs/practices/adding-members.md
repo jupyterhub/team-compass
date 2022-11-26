@@ -97,9 +97,7 @@ is a template message to send. It checks off all of the boxes in the
 Hello <name>, and welcome to the JupyterHub team! 🎉🎉🎉
 
 We are really excited for you to join the community. To help you get started,
-check out the [jupyterhub team member guide](https://jupyterhub-team-compass.readthedocs.io/en/latest/team/member-guide.html)
-as well as the [BinderHub team responsibilities](https://jupyterhub-team-compass.readthedocs.io/en/latest/binder/governance.html#team-responsibilities)
-page.
+check out the [JupyterHub team policies and standards](https://jupyterhub-team-compass.readthedocs.io/en/latest/index-team_policies.html) page.
 
 If you've got any questions or would just like to chat, don't hesitate to
 reach out to folks on the Gitter channels or on Discourse!
