@@ -1,7 +1,6 @@
-.. _binder-subdomains:
+(binder-subdomains)=
 
-Subdomains on mybinder.org
-==========================
+# Subdomains on mybinder.org
 
 The following section describes how the project allocates sub-domains of
 mybinder.org to other BinderHubs.
@@ -48,7 +47,7 @@ The operator has to be committed to and able to operate a public BinderHub for a
 significant amount of time (at least a few months).
 
 The mission of the operator should be aligned with the mission of the Binder
-Project laid out in :ref:`binder-mission`. By allocating a sub-domain the
+Project laid out in {ref}`binder-mission`. By allocating a sub-domain the
 project wants to recognise those who publicly support the project in order
 to advance our mission.
 
@@ -57,7 +56,7 @@ acceptable way, the subdomain may be reclaimed at any time, redirecting back
 to the root mybinder.org.
 
 If you would like to obtain a sub-domain that points at your public BinderHub
-please `open a new issue on our repository <https://github.com/jupyterhub/team-compass/issues/new>`_
+please [open a new issue on our repository](https://github.com/jupyterhub/team-compass/issues/new)
 mentioning who you are, what you do and where we can find your BinderHub.
 
 We look forward to new partnerships and your interest in helping advance the
