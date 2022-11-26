@@ -15,8 +15,8 @@ Moreover, team members should be interested in
 
 They should:
 
-- Be familiar with [our Team Practices and Policies](../practices/index)
-- Be willing to commit to [the responsibilities that come with team membership](../practices/responsibilities)
+- Be familiar with {doc}`../index-team_policies`
+- Be willing to commit to [the responsibilities that come with team membership](expectations-of-all-team-members)
 
 ## Process for adding team members
 

@@ -6,6 +6,8 @@ This page describes the team structure that we use in the JupyterHub community, 
 For more information about how you can contribute to the team, see [our contribution guide](../index-team_guides).
 ```
 
+(expectations-of-all-team-members)=
+
 ## Expectations of all team members
 
 We don't want team membership to

@@ -56,5 +56,3 @@ There is currently no formal specification for this decision process.
 All team business is conducted in public.
 
 [as colleagues]: https://en.wikipedia.org/wiki/Collegiality
-[privileges]: https://jupyterhub-team-compass.readthedocs.io/en/latest/governance.html#team-privileges
-[responsibilities]: https://jupyterhub-team-compass.readthedocs.io/en/latest/governance.html#team-expectations
