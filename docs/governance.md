@@ -1,5 +1,4 @@
-Project Governance
-==================
+# Project Governance
 
 The following sections describe governance and high-level principles
 surrounding the JupyterHub and Binder projects.
@@ -8,10 +7,9 @@ The JupyterHub Project is a member of Project Jupyter, which is a fiscally
 sponsored project of NumFocus, a US 501c3 non-profit. The Binder Project is a
 subset of the JupyterHub Project.
 
-.. _jupyterhub-mission:
+(jupyterhub-mission)=
 
-JupyterHub Project mission
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+## JupyterHub Project mission
 
 The mission of the JupyterHub Project is to create, advance, and promote
 open technology that enables interactive computing sessions via shared
@@ -21,10 +19,9 @@ The JupyterHub Project pursues this mission by advancing the tools
 surrounding JupyterHub, an open-source tool for hosting Jupyter
 user sessions on shared infrastructure.
 
-.. _binder-mission:
+(binder-mission)=
 
-Binder Project mission
-~~~~~~~~~~~~~~~~~~~~~~
+## Binder Project mission
 
 The mission of the Binder Project is to create, advance, and promote
 open technology that makes it easy for people to connect their data
@@ -35,33 +32,27 @@ shared with others.
 The Binder Project pursues this mission by advancing the tools
 surrounding BinderHub, an open-source tool for hosting ad-hoc
 environments in the cloud. The project also serves as the primary
-maintainer of ``mybinder.org``, a public service and demonstration of
+maintainer of `mybinder.org`, a public service and demonstration of
 the BinderHub technology.
 
+(jupyterhub-team-membership)=
 
-.. _jupyterhub-team-membership:
+## Membership
 
-Membership
-~~~~~~~~~~
+See {doc}`team/structure` as well as {doc}`team/index` for more information.
 
-See :doc:`team/structure` as well as :doc:`team/index` for more information.
+## How decisions are made
 
-How decisions are made
-~~~~~~~~~~~~~~~~~~~~~~
-
-The JupyterHub Project team will make decisions `as colleagues`_ and by
+The JupyterHub Project team will make decisions [as colleagues] and by
 attempting to reach consensus among team members (similar to a
-`lazy consensus <http://en.osswiki.info/concepts/lazy_consensus>`_ model that
+[lazy consensus](http://en.osswiki.info/concepts/lazy_consensus) model that
 encourages active participation from team members). If this is not
 possible, then the team leader can use their power to make a decision.
 
 There is currently no formal specification for this decision process.
 
-Modus operandi
-~~~~~~~~~~~~~~
+## Modus operandi
 
 All team business is conducted in public.
 
-.. _as colleagues: https://en.wikipedia.org/wiki/Collegiality
-.. _privileges: https://jupyterhub-team-compass.readthedocs.io/en/latest/governance.html#team-privileges
-.. _responsibilities: https://jupyterhub-team-compass.readthedocs.io/en/latest/governance.html#team-expectations
+[as colleagues]: https://en.wikipedia.org/wiki/Collegiality

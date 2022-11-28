@@ -1,8 +1,6 @@
-.. _guides_index:
+(guides-index)=
 
-=====================
-Contributor resources
-=====================
+# Contributor resources
 
 Resources and guides for team members to help us coordinate and work together more effectively.
 
@@ -11,22 +9,24 @@ Resources and guides for team members to help us coordinate and work together mo
 Our project depends on contributions from volunteers across the world who are interested in supporting the JupyterHub Project.
 The sections below provide some resources to help you get started contributing to our community.
 
-.. toctree:: 
-   :caption: Contributor guide
-   :maxdepth: 2
+```{toctree}
+:caption: Contributor guide
+:maxdepth: 2
 
-   contribute/guide
-   contribute/skills
+contribute/guide
+contribute/skills
+```
 
 **Team information** is meant to share information and context across team members, and align us on a plan of action.
 
-.. toctree:: 
-   :caption: Team information
-   :maxdepth: 2
+```{toctree}
+:caption: Team information
+:maxdepth: 2
 
-   meetings/index
-   resources/shared-infrastructure
-   resources/binder-infrastructure
-   resources/milestones
-   contribute/repository-info
-   resources/community-strategy
+meetings/index
+resources/shared-infrastructure
+resources/binder-infrastructure
+resources/milestones
+contribute/repository-info
+resources/community-strategy
+```
