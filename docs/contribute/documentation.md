@@ -16,6 +16,12 @@ See [the Sphinx reStructuredText documentation](https://www.sphinx-doc.org/en/ma
 
 ## Build documentation locally
 
+There are a few ways to build the documentation in our repositories.
+Some depend on certain tools being installed.
+Here are a few common ways to do so, from most- to least-automated.
+
+### Building with `nox`
+
 We often use [the `nox` command line tool](https://nox.thea.codes/en/stable/) to build documentation locally.
 `nox` is a tool for quickly running commands in an isolated build environment.
 It is similar to `Make`, but with a Python configuration and with local build environments that are isolated to each job that you run.
@@ -52,9 +58,11 @@ nox -s docs -- live
 
 Note that this will **only work for repositories that have a `noxfile.py` added**.
 
-### Build documentation manually
+(docs:build-make)=
+### Building with `Makefile`s
 
-You can also build documentation manually, without using an automation tool like `nox`.
+Many of our repositories also have a `Makefile` that runs commands in your currently-active Python environment.
+
 To do so, follow these steps:
 
 1. Install the requirements for the documentation. This is often in a `docs/requirements.txt` file.
@@ -73,8 +81,15 @@ To do so, follow these steps:
    ```
 
    It will put the built documentation in `_build/html` (depending on our configuration this may change a bit).
-3. **Alternatively**, you can manually call Sphinx's build command:
 
-   ```bash
-   sphinx-build docs docs/_build/html
-   ```
+### Building with `sphinx-build`
+
+This is the way to have the most control over a documentation's build, but is also the most cumbersome to do repetively.
+
+To do so, install the documentation requirements (see [](docs:build-make) and run a command like so:
+
+```bash
+sphinx-build docs docs/_build/html
+```
+
+See [the `sphinx-build` documentation](https://www.sphinx-doc.org/en/master/man/sphinx-build.html) for more information.
