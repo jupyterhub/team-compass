@@ -78,6 +78,9 @@ The Contributors team is very large and has no limit.
 Once you are a Contributor, you are always a Contributor.
 We encourage this group to be as large as possible.
 
+```{team} Maintainer Team
+```
+
 ### Maintainers
 
 The maintainers are stewards and leaders of the JupyterHub community.
@@ -114,6 +117,8 @@ There is no limit to the number of maintainers that may exist in the JupyterHub 
 
 Our goal is to have at least two maintainers for any project within the JupyterHub community.
 
+```{team} Steering Council
+```
 ### Steering Council
 
 This group focuses more of their efforts on leadership and stewardship over the JupyterHub community, ensures its long-term impact and sustainability, and represents the JupyterHub community with the broader Jupyter community.

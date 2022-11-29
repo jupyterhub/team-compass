@@ -6,7 +6,7 @@ The JupyterHub and Binder projects are both community-driven. This means that we
 rely on members of the community for spreading the word about these projects as well
 as the teams and communities around them.
 
-(external-communication-expectations)=
+(external-communication:expectations)=
 
 ## Expecations of team members
 
