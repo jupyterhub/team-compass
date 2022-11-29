@@ -48,6 +48,12 @@ html_context = {
     "source_suffix": source_suffix,
 }
 
+# -- MyST Markdown configuration ----------------------------------------
+# ref: https://myst-parser.readthedocs.io/en/latest/configuration.html
+
+myst_enable_extensions = []
+
+
 # -- Update contributor lists --------------------------------------------
 
 from subprocess import run

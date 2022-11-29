@@ -9,6 +9,17 @@ We describe the major pieces below:
 is a set of resources for running mybinder.org.
 It contains tips, snippets, lessons-learned etc for running a large, public kubernetes cluster.
 
+## The `binder-examples/` GitHub organization
+
+We have [a dedicated GitHub organization](https://github.com/binder-examples) for hosting example repositories that demonstrate the Binder repository specification.
+
+- Organization link: https://github.com/binder-examples
+
+Many of these repositories are re-used elsewhere in [repo2docker documentation](https://repo2docker.readthedocs.io) and [Binder user documentation](https://docs.mybinder.org).
+
+[An `@Admins` team](https://github.com/orgs/binder-examples/teams/admins) administers this organization.
+Any [JupyterHub Team Member](team-structure) may ask to be added to this team for read/write permissions.
+
 ## The `mybinder.org` domain
 
 The `mybinder.org` domain is owned by Chris Holdgraf ([@choldgraf](https://github.com/choldgraf)).
@@ -20,7 +31,7 @@ In the future we wish to transfer ownership of this domain away from Chris's per
 However, it is unclear what is the best way to do this right now, and so we are waiting for clarification from the Jupyter project at-large about how the project itself can own mybinder.org instead of Chris. We also plan to use a contact email for this domain that has fewer people on it than the entire team, but are using `binder-team@googlegroups.com` as a stop-gap measure for now to increase our bus factor.
 ```
 
-## DNS entries for `mybinder.org`
+### DNS entries for `mybinder.org`
 
 The DNS for `mybinder.org` is handled by [CloudFlare](https://www.cloudflare.com/), by a central Jupyter account.
 
