@@ -8,9 +8,11 @@ Some of these are useful for our development workflows, while others are used as
 We have [a GitHub organization](https://github.com/jupyterhub/) for hosting all of our code repositories.
 This organization is where we do most of the code-related work for the project, and where we have discussions and coordination.
 
+(resources:shared-drive)=
+
 ## Google Drive
 
-We have a [**JupyterHub Team Google Drive**](https://drive.google.com/drive/u/1/folders/0B8VZ4vaOYWZ3X29KTzZSemlNSG8) to store documents, presentations, images, etc that are useful to the team.
+We have a [**JupyterHub Team Google Drive**](https://drive.google.com/drive/folders/0B8VZ4vaOYWZ3X29KTzZSemlNSG8?resourcekey=0-7kPY41v8FRajEmoW0Ojimg&usp=sharing) to store documents, presentations, images, etc that are useful to the team.
 You can put whatever you'd like here, just try to keep it organized :-)
 
 ## Image registry on quay.io

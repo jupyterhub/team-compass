@@ -63,7 +63,8 @@ run(["python", "_data/contributors/gen_contributors.py"], check=True)
 #
 rediraffe_branch = "main"
 rediraffe_redirects = {
-    # Redirects added 2022-11-25 for PR 587
+    # Redirects added 2022-11-25
+    # ref: https://github.com/jupyterhub/team-compass/pull/587
     "building-blocks/index": "index-team_policies",
     "building-blocks/readme-badges": "practices/readme-badges",
     "contribute/index": "index-team_guides",
@@ -75,6 +76,10 @@ rediraffe_redirects = {
     "team/member-guide": "index-team_policies",
     "team/repository-code-standards": "practices/repository-code-standards",
     "team/shared-infrastructure": "resources/shared-infrastructure",
+
+    # Redirects added 2022-11-28
+    # ref: https://github.com/jupyterhub/team-compass/pull/593
+    "practices/talking": "practices/external-communication",
 
     # Add additional redirects below if you relocate documents
     # "old/folder/old-file": "new-folder/new-file",

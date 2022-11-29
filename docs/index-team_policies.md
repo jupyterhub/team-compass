@@ -19,8 +19,8 @@ Jupyter Code of Conduct <https://jupyter.org/governance/conduct/code_of_conduct.
 :maxdepth: 2
 
 practices/communication
+practices/external-communication
 practices/adding-members
-practices/talking
 practices/check-ins
 ```
 
