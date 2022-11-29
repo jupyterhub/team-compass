@@ -1,108 +1,150 @@
+# teams:
+# - council: JupyterHub council
+# - maintainers:
+# - mybinder: mybinder.org operators
+# no team means inactive
+
 # Use ALPHABETICAL ORDER please :-)
-- name: Matthias Busonnier
-  handle: "carreau"
-  affiliation: UC Merced
-  contributions: code,infra
-  status: active
-  last-check-in: 2019-10
+- name: Damian Avila
+  handle: "damianavila"
+  affiliation: Project Jupyter, 2i2c and UMSI
+  contributions: question, communities
+  focus: jupyterhub, binder
+  teams:
+    - council
+  last-check-in: 2022-09
 
 - name: Georgiana Dolocan
   handle: "GeorgianaElena"
-  affiliation: Simula
+  affiliation: 2i2c
   contributions: code
   focus: jupyterhub
-  status: active
-  last-check-in: 2019-10
-
-- name: Jessica Forde
-  handle: "jzf2101"
-  affiliation: UC Berkeley
-  contributions: doc
-  focus: jupyterhub, binder
-  status: active
-  last-check-in: 2019-10
+  teams:
+    - council
+  last-check-in: 2022-09
 
 - name: Sarah Gibson
   handle: "sgibson91"
   affiliation: 2i2c
   contributions: question,doc,tutorial,infra,talk,test
   focus: jupyterhub, binder
-  status: active
-  last-check-in: 2019-10
+  teams:
+    - council
+  last-check-in: 2022-09
 
 - name: Tim Head
   handle: "betatim"
-  affiliation: Wild Tree Tech
+  affiliation: NVIDIA
   contributions: bizdev, code, fundingFinding, ideas, talk, infra
   focus: jupyterhub, binder
-  status: active
-  last-check-in: 2019-12
+  teams:
+    - council
+  last-check-in: 2022-09
 
 - name: Chris Holdgraf
   handle: "choldgraf"
   affiliation: 2i2c
   contributions: code,ideas,doc,question
   focus: jupyterhub, binder
-  status: active
-  last-check-in: 2019-10
+  teams:
+    - council
+  last-check-in: 2022-09
+
+- name: Paul Ivanov
+  handle: "ivanov"
+  affiliation: Project Jupyter
+  contributions: ideas,question
+  focus: jupyterhub, binder
+  teams:
+    - council
+  last-check-in: 2022-09
 
 - name: Simon Li
   handle: "manics"
-  affiliation: Open Microscopy Environment, University of Dundee
+  affiliation: University of Dundee
   contributions: code,question
   focus: jupyterhub
-  status: active
-  last-check-in: 2019-11
-
-- name: M Pacer
-  handle: "mpacer"
-  affiliation: Netflix
-  contributions: ""
-  focus: binder
-  status: active
-  last-check-in: 2019-10
+  teams:
+    - council
+  last-check-in: 2022-09
 
 - name: Yuvi Panda
   handle: "yuvipanda"
   affiliation: UC Berkeley
   contributions: "code,infra"
   focus: jupyterhub
-  status: active
-  last-check-in: 2019-10
+  teams:
+    - council
+  last-check-in: 2022-09
+
+- name: Fernando Pérez
+  handle: "fperez"
+  affiliation: UC Berkeley, LBL
+  contributions: funding,vision,large-usage settings, scientific communities
+  focus: jupyterhub
+  teams:
+    - council
+  last-check-in: 2022-09
 
 - name: Min Ragan-Kelley
   handle: "minrk"
   affiliation: Simula
   contributions: code,infra
   focus: jupyterhub, binder
-  status: active
-  last-check-in: 2019-10
+  teams:
+    - council
+  last-check-in: 2022-09
 
 - name: Erik Sundell
   handle: "consideRatio"
-  affiliation: Sandvik CODE
+  affiliation: Sundell Open Source
   contributions: code,infra
   focus: jupyterhub, binder
-  status: active
-  last-check-in: 2019-10
+  teams:
+    - council
+  last-check-in: 2022-09
 
 - name: Carol Willing
   handle: "willingc"
   affiliation: Project Jupyter
   contributions: Python,Community
   focus: jupyterhub, binder
-  status: active
-  last-check-in: 2019-10
+  teams:
+    - council
+  last-check-in: 2022-09
 
 
-# Green team members at the end, also alphabetical
+# Inactive team members at the end, also alphabetical
+- name: Matthias Busonnier
+  handle: "carreau"
+  affiliation: UC Merced
+  contributions: code,infra
+  status: inactive
+  last-check-in: 2022-09
+
+- name: Jessica Forde
+  handle: "jzf2101"
+  affiliation: UC Berkeley
+  contributions: doc
+  focus: jupyterhub, binder
+  status: inactive
+  last-check-in: 2022-09
+
 - name: Lindsey Heagy
   handle: "lheagy"
   affiliation: UC Berkeley
   contributions: ideas,example
   focus: binder
   status: inactive
-  last-check-in: 2019-10
+  last-check-in: 2022-09
+
+- name: M Pacer
+  handle: "mpacer"
+  affiliation: Netflix
+  contributions: ""
+  focus: binder
+  status: inactive
+  last-check-in: 2022-09
 
 - name: Zach Sailer
   handle: "Zsailer"
@@ -110,4 +152,4 @@
   contributions: code,ideas,question
   focus: binder
   status: inactive
-  last-check-in: 2019-10
+  last-check-in: 2022-09
