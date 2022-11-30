@@ -50,6 +50,8 @@ JupyterHub is organized into a few teams with varying levels of responsibility a
 :depth: 1
 ```
 
+```{team} JupyterHub Contributors
+```
 ### JupyterHub Contributors
 
 Comprised of any individuals that have made significant contributions to the project.
@@ -115,6 +117,9 @@ There is no limit to the number of maintainers that may exist in the JupyterHub 
 
 Our goal is to have at least two maintainers for any project within the JupyterHub community.
 
+```{team} JupyterHub Council
+```
+
 ### Steering Council
 
 This group focuses more of their efforts on leadership and stewardship over the JupyterHub community, ensures its long-term impact and sustainability, and represents the JupyterHub community with the broader Jupyter community.
@@ -137,6 +142,9 @@ Steering Council members are elected by other Steering Council members following
 #### Team size
 
 There is no limit on the number of Steering Council members we may have, though we believe 5-10 people is a healthy number.
+
+```{team} Mybinder Team
+```
 
 ### `mybinder.org` operations team
 
@@ -162,6 +170,9 @@ Any team member of this team may be added by any other team member, following a 
 #### Team size
 
 There is no limit to the number of mybinder.org operations team members.
+
+```{team} Team Lead
+```
 
 ### Team Lead
 

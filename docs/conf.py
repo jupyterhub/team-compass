@@ -90,3 +90,6 @@ rediraffe_redirects = {
     # Add additional redirects below if you relocate documents
     # "old/folder/old-file": "new-folder/new-file",
 }
+
+def setup(app):
+    app.add_crossref_type("team", "team")
