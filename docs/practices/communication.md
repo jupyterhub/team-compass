@@ -14,7 +14,7 @@ We break down team discussions into two broad categories:
 
 There are two recommended ways to send communications to the {team}`JupyterHub Council`:
 
-1. **Open an issue in our [Team Compass](https://jupyterhub-team-compass.readthedocs.io)**. We use this as a space for team discussion of all kinds, and JupyterHub Council members are expected to monitor these issues. **This is the preferred space for most team conversation**.
+1. **Open an issue in our [Team Compass](https://github.com/jupyterhub/team-compass/issues)**. We use this as a space for team discussion of all kinds, and JupyterHub Council members are expected to monitor these issues. **This is the preferred space for most team conversation**.
 2. **Send an e-mail to [`jupyterhub-team-council@googlegroups.com`](mailto:jupyterhub-team-council@googlegroups.com)**. This is a shared inbox that we use for people that prefer non-public or e-mail communication instead of GitHub issues.
 
 ## Gitter channels
