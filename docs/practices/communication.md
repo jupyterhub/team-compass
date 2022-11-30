@@ -8,7 +8,7 @@ maintainers find and choose the right communication channels and have a positive
 We break down team discussions into two broad categories:
 
 1. **For specific discussions related to changing a repository's content** we use GitHub issues in the repository where they are most relevant. For example, feature requests, bug reports.
-2. **For general discussion, support questions, feedback, etc**, use [the Jupyter forum](http://discourse.jupyter.org/).
+2. **For general discussion, support questions, feedback, etc**, use [the Jupyter forum](https://discourse.jupyter.org/).
 
 ## How to get in touch with the JupyterHub Council
 
