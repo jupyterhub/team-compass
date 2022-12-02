@@ -3,7 +3,7 @@
 Our team practices should encourage transparency and collaboration, and reviewing one another's work is a great way to ensure that we share context and knowledge, and improve the codebase.
 Our goals are to balance inclusive and transparent team practices with the reality that we are all asynchronous and don't want to pay a large coordination penalty for every change and decision.
 
-**All changes to a JupyterHub repository should happen via Pull Requests**.
+**All changes to a JupyterHub repository should happen via Pull Requests** and **each pull request should reference at least one issue**.
 Any exceptions to this should be explicitly listed in team documentation.
 
 ## Principles to follow
@@ -35,8 +35,8 @@ Any exceptions to this should be explicitly listed in team documentation.
   Use your best judgment for how long to wait to ensure inclusive decision making process.
   The more complex, the more time you should give people.
   The more people agree, the more quickly you can safely merge.
-- **Changes to team policies** may be merged with at least two approvals from {team}`Steering Council` members`, no objections from any team member, and has been open for around five working days (follow the same guidelines as above).
-- **Proposals without consensus** may be merged if the {team}`Steering Council` has majority agreement to merge, and if there have been at least five working days to discuss.
+- **Changes to team policies** may be merged with at least two approvals from {team}`JupyterHub Council` members`, no objections from any team member, and has been open for around five working days (follow the same guidelines as above).
+- **Proposals without consensus** may be merged if the {team}`JupyterHub Council` has majority agreement to merge, and if there have been at least five working days to discuss.
 
 ## What to look for in a review
 
