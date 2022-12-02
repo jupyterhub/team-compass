@@ -1,4 +1,4 @@
-# Team policies and standards
+# Policies and standards
 
 **Governance and structure** defines our decision-making policies, how we organize ourselves, and the practices that we commit to following.
 
@@ -29,7 +29,7 @@ practices/check-ins
 ```{toctree}
 :caption: Technical practices
 
-practices/merging
+practices/pull_requests
 practices/repository-code-standards
 practices/readme-badges
 ```
