@@ -15,6 +15,7 @@ The sections below provide some resources to help you get started contributing t
 
 contribute/guide
 contribute/skills
+contribute/documentation
 ```
 
 **Team information** is meant to share information and context across team members, and align us on a plan of action.

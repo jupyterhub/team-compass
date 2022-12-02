@@ -3,11 +3,19 @@
 We organize our discussions in order to help both contributors and
 maintainers find and choose the right communication channels and have a positive experience :-)
 
-In this respect, we use:
+## Types of discussions
 
-1. GitHub issues for specific discussions related to changing a repository's content
-(e.g. feature requests, bug reports).
-2. The [Discourse forum](http://discourse.jupyter.org/) for general discussions, support questions, or just as a place where we can inspire each other.
+We break down team discussions into two broad categories:
+
+1. **For specific discussions related to changing a repository's content** we use GitHub issues in the repository where they are most relevant. For example, feature requests, bug reports.
+2. **For general discussion, support questions, feedback, etc**, use [the Jupyter forum](https://discourse.jupyter.org/).
+
+## How to get in touch with the JupyterHub Council
+
+There are two recommended ways to send communications to the {team}`JupyterHub Council`:
+
+1. **Open an issue in our [Team Compass](https://github.com/jupyterhub/team-compass/issues)**. We use this as a space for team discussion of all kinds, and JupyterHub Council members are expected to monitor these issues. **This is the preferred space for most team conversation**.
+2. **Send an e-mail to [`jupyterhub-team-council@googlegroups.com`](mailto:jupyterhub-team-council@googlegroups.com)**. This is a shared inbox that we use for people that prefer non-public or e-mail communication instead of GitHub issues.
 
 ## Gitter channels
 

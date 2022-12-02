@@ -48,6 +48,12 @@ html_context = {
     "source_suffix": source_suffix,
 }
 
+# -- MyST Markdown configuration ----------------------------------------
+# ref: https://myst-parser.readthedocs.io/en/latest/configuration.html
+
+myst_enable_extensions = []
+
+
 # -- Update contributor lists --------------------------------------------
 
 from subprocess import run
@@ -84,7 +90,6 @@ rediraffe_redirects = {
     # Add additional redirects below if you relocate documents
     # "old/folder/old-file": "new-folder/new-file",
 }
-
 
 def setup(app):
     # So that we can label and reference with {team}
