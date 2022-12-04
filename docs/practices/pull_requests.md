@@ -3,9 +3,12 @@
 Our team practices should encourage transparency and collaboration, and reviewing one another's work is a great way to ensure that we share context and knowledge, and improve the codebase.
 Our goals are to balance inclusive and transparent team practices with the reality that we are all asynchronous and don't want to pay a large coordination penalty for every change and decision.
 
-**All changes to a JupyterHub repository should happen via Pull Requests** and **each pull request should reference at least one issue**.
-Any exceptions to this should be explicitly listed in team documentation.
+**All changes to a JupyterHub repository should happen via Pull Requests**.
+Any exceptions to this should be explicitly listed in team documentation.[^1]
 
+[^1]: The only exception we can think of is when pushing a commit to `main` during a release, but we'll leave this open-ended just in case there are other cases where this is useful.
+
+(prs:principles)=
 ## Principles to follow
 
 - **Don't surprise people**. We pay a team penalty when somebody changes something that wouldn't be expected, especially if it is unwelcome.
@@ -13,6 +16,8 @@ Any exceptions to this should be explicitly listed in team documentation.
   The more complex or impactful a change is, the more time should be given to discuss and include the perspective of others.
 - **Include others**. Actively invite participation and comments from others, especially if you think they are interested in the proposed change.
   Go out of your way to make it easy for others to participate, and make your best effort at incorporating suggestions and feedback from others.
+  If a topic requires discussion, open an issue or a forum thread so that others can participate and align on an approach before diving into a code implementation.
+  We often save a lot of time by having design-level discussion before we get to the Pull Request.
 - **Link to discussions and context**. Almost any change should first be proposed in an issue, or in another space that is accessible to non-coders (like a forum post).
   A Pull Request should link to (and optionally close) any other locations where discussion happened.
   This gives each change more provenance and separates design from implementation.
@@ -32,7 +37,7 @@ Any exceptions to this should be explicitly listed in team documentation.
   If you don't immediately merge it, provide a rationale for why not.
   If somebody else approves your PR and you think it's safe to merge, feel free to self-merge.
 - **Complex or potentially controversial PRs** may be merged with at least one approval from a {team}`Maintainer Team` member, no objections from any team member, and after has been open for around five working days.
-  Use your best judgment for how long to wait to ensure inclusive decision making process.
+  Use your best judgment for how long to wait to ensure inclusive decision making process and be sure to [include others in discussion](prs:principles).
   The more complex, the more time you should give people.
   The more people agree, the more quickly you can safely merge.
 - **Changes to team policies** may be merged with at least two approvals from {team}`JupyterHub Council` members, no objections from any team member, and has been open for around five working days (follow the same guidelines as above).
