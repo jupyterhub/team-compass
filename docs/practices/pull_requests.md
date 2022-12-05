@@ -55,11 +55,12 @@ deciding to merge things into one of our repositories:
   Do not nit-pick stylistic preferences, but if you genuinely think there's a clear way to improve the code, please make suggestions.
 - **There are tests and they pass**. We try not to merge any new features (or
   bugfixes!) without adding tests for them. It's easy to consider something
-  minor-enough that it doesn't warrant a test, but try to avoid doing this!
+  minor enough that it doesn't warrant a test, but try to avoid doing this!
   Adding tests usually only takes a moment, and our future selves will thank
   us for it later.
 - **There is documentation**. If we're changing or adding functionality, ensure that there is documentation describing the change to others.
-  Functionality that isn't document is much less discoverable and maintainable.
+  Functionality that isn't documented is much less discoverable and maintainable.
+- **The code is secure**. We must avoid introducing changes that may lead to a security vulnerability. If your code is complicated please include comments to ensure future maintainers do not inadvertently introduce a new vulnerability.
 - **There's been enough time for discussion**. We're an open
   community with an inclusive decision-making process. This means that
   sometimes we need to slow down to make sure others have a chance to
