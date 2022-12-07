@@ -59,28 +59,26 @@ deciding to merge things into one of our repositories[^pc].
 
 [^pc]: These are inspired by [Simon Willion's blog post on "The Perfect Commit"](https://simonwillison.net/2022/Oct/29/the-perfect-commit/).
 
-- **It's quality code**. We know this is somewhat subjective, but
-  ensure that the code is well-organized and thoughtfully-written, that any
-  new features are documented, and that it abides by best-practices in Python,
-  JavaScript, etc.
+- **It's quality code**.
+  We know this is somewhat subjective, but ensure that the code is well-organized and thoughtfully-written, that any new features are documented, and that it abides by best-practices in Python, JavaScript, etc.
   Do not nit-pick stylistic preferences, but if you genuinely think there's a clear way to improve the code, please make suggestions.
-- **There are tests and they pass**. We try not to merge any new features (or
-  bugfixes!) without adding tests for them. It's easy to consider something
-  minor enough that it doesn't warrant a test, but try to avoid doing this!
+- **There are tests and they pass**.
+  We try not to merge any new features (or bugfixes!) without adding tests for them.
+  It's easy to consider something minor enough that it doesn't warrant a test, but try to avoid doing this!
   Adding tests usually only takes a moment, and our future selves will thank
   us for it later.
-- **There is documentation**. If we're changing or adding functionality, ensure that there is documentation describing the change to others.
+- **There is documentation**.
+  If we're changing or adding functionality, ensure that there is documentation describing the change to others.
   Functionality that isn't documented is much less discoverable and maintainable.
-- **The code is secure**. We must avoid introducing changes that may lead to a security vulnerability.
+- **The code is secure**.
+  We must avoid introducing changes that may lead to a security vulnerability.
   If your code is complicated please include comments to ensure future maintainers do not inadvertently introduce a new vulnerability.
-- **There's been enough time for discussion**. We're an open
-  community with an inclusive decision-making process. This means that
-  sometimes we need to slow down to make sure others have a chance to
-  review and provide their thoughts on changes. There's no hard rule for
-  this, but try to make sure people have a chance to weigh in. Consider
-  pinging people that you think might be interested in a question, and
-  give it a few extra days before merging if you think a topic will be
-  complex enough to warrant discussion.
+- **There's been enough time for discussion**.
+  We're an open community with an inclusive decision-making process.
+  This means that sometimes we need to slow down to make sure others have a chance to  review and provide their thoughts on changes.
+  There's no hard rule for this, but try to make sure people have a chance to weigh in.
+  Consider pinging people that you think might be interested in a question, and give it a few extra days before merging if you think a topic will be complex enough to warrant discussion.
 
-That said, **don't be afraid to merge!** If you think a change is really complex or potentially controversial, give it some time, but for most changes it is fine to just go ahead and merge.
+That said, **don't be afraid to merge!**
+If you think a change is really complex or potentially controversial, give it some time, but for most changes it is fine to just go ahead and merge.
 Again, we trust your judgment, and we don't want these guidelines to become a burden that slows down development.
