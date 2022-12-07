@@ -16,9 +16,9 @@ Any exceptions to this should be explicitly listed in team documentation.[^1]
   The more complex or impactful a change is, the more time should be given to discuss and include the perspective of others.
 - **Include others**. Actively invite participation and comments from others, especially if you think they are interested in the proposed change.
   Go out of your way to make it easy for others to participate, and make your best effort at incorporating suggestions and feedback from others.
-  If a topic requires discussion, open an issue or a forum thread so that others can participate and align on an approach before diving into a code implementation.
-  We often save a lot of time by having design-level discussion before we get to the Pull Request.
-- **Link to discussions and context**. Almost any change should first be proposed in an issue, or in another space that is accessible to non-coders (like a forum post).
+  For discussions that are complex, potentially controversial, or have an uncertain resolution, open an issue or forum post to discuss with others before diving into a code implementation.
+  The more people are impacted by your change, the broader you should shop around your idea.
+- **Link to discussions and context**.
   A Pull Request should link to (and optionally close) any other locations where discussion happened.
   This gives each change more provenance and separates design from implementation.
 - **Default to action**. We are an asynchronous and part-time team with a high level of trust for team members.
