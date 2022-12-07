@@ -11,16 +11,16 @@ Any exceptions to this should be explicitly listed in team documentation.[^1]
 (prs:principles)=
 ## Principles to follow
 
-- **Don't surprise people**. We pay a team penalty when somebody changes something that wouldn't be expected, especially if it is unwelcome.
-  Provide enough discussion and context sharing so that every team member understands the rationale for a change, even if they may not personally agree with it.
+- **Provide context**. Provide enough discussion and context sharing so that every team member understands the rationale for a change, even if they may not personally agree with it.
   The more complex or impactful a change is, the more time should be given to discuss and include the perspective of others.
 - **Include others**. Actively invite participation and comments from others, especially if you think they are interested in the proposed change.
   Go out of your way to make it easy for others to participate, and make your best effort at incorporating suggestions and feedback from others.
-  For discussions that are complex, potentially controversial, or have an uncertain resolution, open an issue or forum post to discuss with others before diving into a code implementation.
-  The more people are impacted by your change, the broader you should shop around your idea.
-- **Link to discussions and context**.
-  A Pull Request should link to (and optionally close) any other locations where discussion happened.
-  This gives each change more provenance and separates design from implementation.
+  If a topic requires discussion, open an issue or a forum thread so that others can participate and align on an approach before diving into a code implementation.
+  We often save a lot of time by having design-level discussion before we get to the Pull Request.
+- **Provide context**. Provide enough discussion and context sharing so that every team member understands the rationale for a change, even if they may not personally agree with it.
+  A Pull Request should link to (and optionally close) any locations where discussion happened.
+  This can give each change more provenance and separates design from implementation.
+  The more complex or impactful a change is, the more time should be given to discuss and include the perspective of others. These discussions can happen in issues, pull requests or in another space that is accessible to non-coders (like a forum post). There aren't any strict rules about how to choose the discussion space, as this usually depends on the type, scope and size of change that's being proposed. So use your best judgement when choosing one.
 - **Default to action**. We are an asynchronous and part-time team with a high level of trust for team members.
   It's OK if we accidentally merge something that introduces a mistake or a bug, we can always change it later.
   Default to moving forward if you believe it is the right time to merge something.
@@ -40,7 +40,7 @@ Any exceptions to this should be explicitly listed in team documentation.[^1]
   Use your best judgment for how long to wait to ensure inclusive decision making process and be sure to [include others in discussion](prs:principles).
   The more complex, the more time you should give people.
   The more people agree, the more quickly you can safely merge.
-- **Changes to team policies** may be merged with at least two approvals from {team}`JupyterHub Council` members, no objections from any team member, and has been open for around five working days (follow the same guidelines as above).
+- **Changes to team policies** may be merged with **at least two approvals** from {team}`JupyterHub Council` members, no objections from any team member, and has been open for around five working days (follow the same guidelines as above).
 - **Proposals without consensus** may be merged if the {team}`JupyterHub Council` has majority agreement to merge, and if there have been at least five working days to discuss.
 
 ## What to look for in a review
@@ -65,7 +65,8 @@ deciding to merge things into one of our repositories:
   us for it later.
 - **There is documentation**. If we're changing or adding functionality, ensure that there is documentation describing the change to others.
   Functionality that isn't documented is much less discoverable and maintainable.
-- **The code is secure**. We must avoid introducing changes that may lead to a security vulnerability. If your code is complicated please include comments to ensure future maintainers do not inadvertently introduce a new vulnerability.
+- **The code is secure**. We must avoid introducing changes that may lead to a security vulnerability.
+  If your code is complicated please include comments to ensure future maintainers do not inadvertently introduce a new vulnerability.
 - **There's been enough time for discussion**. We're an open
   community with an inclusive decision-making process. This means that
   sometimes we need to slow down to make sure others have a chance to
