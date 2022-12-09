@@ -22,7 +22,7 @@ Any exceptions to this should be explicitly listed in team documentation.[^1]
   Actively invite participation and comments from others, especially if you think they are interested in the proposed change.
   Go out of your way to make it easy for others to participate, and make your best effort at incorporating suggestions and feedback from others.
   For discussions that are complex, potentially controversial, or have an uncertain resolution, open an issue or forum post to discuss with others before diving into a code implementation.
-  Consider the skills and comfort level of others in the discussion, and choose a location and format for the discussion that will be accessible to all relevant stakeholders.
+  Consider the skills and comfort level of the people who you want to take part in the discussion. Choose a location and format for the discussion that will be accessible to them. Think about where those with expertise on the topic can be reached, not where is easiest for you.
 - **Default to action**.
   We are an asynchronous and part-time team with a high level of trust for team members.
   It's OK if we accidentally merge something that introduces a mistake or a bug, we can always change it later.
