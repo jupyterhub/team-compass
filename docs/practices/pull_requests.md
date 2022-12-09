@@ -11,8 +11,7 @@ Any exceptions to this should be explicitly listed in team documentation.[^1]
 (prs:principles)=
 ## Principles to follow
 
-- **Don't surprise people**. We pay a team penalty when somebody changes something that wouldn't be expected, especially if it is unwelcome.
-  Provide enough discussion and context sharing so that every team member understands the rationale for a change, even if they may not personally agree with it.
+- **Provide context**. Provide enough discussion and context sharing so that every team member understands the rationale for a change, even if they may not personally agree with it.
   The more complex or impactful a change is, the more time should be given to discuss and include the perspective of others.
 - **Include others**. Actively invite participation and comments from others, especially if you think they are interested in the proposed change.
   Go out of your way to make it easy for others to participate, and make your best effort at incorporating suggestions and feedback from others.
