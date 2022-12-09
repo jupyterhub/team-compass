@@ -64,7 +64,8 @@ deciding to merge things into one of our repositories:
   us for it later.
 - **There is documentation**. If we're changing or adding functionality, ensure that there is documentation describing the change to others.
   Functionality that isn't documented is much less discoverable and maintainable.
-- **The code is secure**. We must avoid introducing changes that may lead to a security vulnerability. If your code is complicated please include comments to ensure future maintainers do not inadvertently introduce a new vulnerability.
+- **The code is secure**. We must avoid introducing changes that may lead to a security vulnerability.
+  If your code is complicated please include comments to ensure future maintainers do not inadvertently introduce a new vulnerability.
 - **There's been enough time for discussion**. We're an open
   community with an inclusive decision-making process. This means that
   sometimes we need to slow down to make sure others have a chance to
