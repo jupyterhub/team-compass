@@ -17,9 +17,10 @@ Any exceptions to this should be explicitly listed in team documentation.[^1]
   Go out of your way to make it easy for others to participate, and make your best effort at incorporating suggestions and feedback from others.
   If a topic requires discussion, open an issue or a forum thread so that others can participate and align on an approach before diving into a code implementation.
   We often save a lot of time by having design-level discussion before we get to the Pull Request.
-- **Link to discussions and context**. Almost any change should first be proposed in an issue, or in another space that is accessible to non-coders (like a forum post).
-  A Pull Request should link to (and optionally close) any other locations where discussion happened.
-  This gives each change more provenance and separates design from implementation.
+- **Provide context**. Provide enough discussion and context sharing so that every team member understands the rationale for a change, even if they may not personally agree with it.
+  A Pull Request should link to (and optionally close) any locations where discussion happened.
+  This can give each change more provenance and separates design from implementation.
+  The more complex or impactful a change is, the more time should be given to discuss and include the perspective of others. These discussions can happen in issues, pull requests or in another space that is accessible to non-coders (like a forum post). There aren't any strict rules about how to choose the discussion space, as this usually depends on the type, scope and size of change that's being proposed. So use your best judgement when choosing one.
 - **Default to action**. We are an asynchronous and part-time team with a high level of trust for team members.
   It's OK if we accidentally merge something that introduces a mistake or a bug, we can always change it later.
   Default to moving forward if you believe it is the right time to merge something.
