@@ -49,6 +49,13 @@ It contains a variety of design assets from many projects, here's a preview belo
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F20E31Z8TV1HLvDPn3ckTRR%2FJupyter-Design-Assets%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
+## `npm` organization
+
+We have [an `npm` organization at `npmjs.com/org/jupyterhub`](https://www.npmjs.com/org/jupyterhub).
+This can be used to publish packages relevant to JupyterHub on NPM.
+
+If you'd like access or need to access a package, ask a {team}`Steering Council` member.
+
 ## `mybinder.org` infrastructure
 
 See [](binder-infrastructure.md) for more details.
