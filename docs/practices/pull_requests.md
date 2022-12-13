@@ -47,7 +47,7 @@ Any exceptions to this should be explicitly listed in team documentation.[^1]
 - **Changes to team policies** may be merged with **at least two approvals** from {team}`JupyterHub Council` members, no objections from any team member, and has been open for around five working days (follow the same guidelines as above).
 - **Proposals without consensus** may be merged if the {team}`JupyterHub Council` has majority agreement to merge, and if there have been at least five working days to discuss.
 
-## What to look for in a review
+## What to look for when reviewing
 
 As a team member, you're encouraged to help others contribute to the project
 by reviewing their code, guiding them towards making a contribution and
@@ -59,6 +59,10 @@ deciding to merge things into one of our repositories[^pc].
 
 [^pc]: These are inspired by [Simon Willion's blog post on "The Perfect Commit"](https://simonwillison.net/2022/Oct/29/the-perfect-commit/).
 
+- **It gets the big picture right**.
+  The most important thing is that a PR moves our codebase in the right direction, that it generally makes the right decisions, and that it doesn't introduce any major strategic risks.
+  Don't iterate too much on the little stuff and only block a PR for major strategic concerns, not just because it's not _exactly_ how you'd like it to be[^sociocracy].
+  If you'd like to nitpick minor details, make it clear that they're not blocking or open follow-up issues to track them.
 - **It's quality code**.
   We know this is somewhat subjective, but ensure that the code is well-organized and thoughtfully-written, that any new features are documented, and that it abides by best-practices in Python, JavaScript, etc.
   Do not nit-pick stylistic preferences, but if you genuinely think there's a clear way to improve the code, please make suggestions.
@@ -78,6 +82,8 @@ deciding to merge things into one of our repositories[^pc].
   This means that sometimes we need to slow down to make sure others have a chance to  review and provide their thoughts on changes.
   There's no hard rule for this, but try to make sure people have a chance to weigh in.
   Consider pinging people that you think might be interested in a question, and give it a few extra days before merging if you think a topic will be complex enough to warrant discussion.
+
+[^sociocracy]: For some guidelines about how to provide strategic-level input and not block decisions on non-essential details, see [this consent-based decision-making guide](https://www.sociocracyforall.org/consent-decision-making/).
 
 That said, **don't be afraid to merge!**
 If you think a change is really complex or potentially controversial, give it some time, but for most changes it is fine to just go ahead and merge.
