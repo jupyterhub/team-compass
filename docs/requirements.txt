@@ -1,3 +1,4 @@
+linkify-it-py
 myst_parser
 pandas
 pydata_sphinx_theme

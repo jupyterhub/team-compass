@@ -51,8 +51,13 @@ html_context = {
 # -- MyST Markdown configuration ----------------------------------------
 # ref: https://myst-parser.readthedocs.io/en/latest/configuration.html
 
-myst_enable_extensions = []
+myst_enable_extensions = [
+    "linkify",
+]
 
+# Only linkify URLs that start with schema
+# https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#linkify
+myst_linkify_fuzzy_links = False
 
 # -- Update contributor lists --------------------------------------------
 
