@@ -92,4 +92,5 @@ rediraffe_redirects = {
 }
 
 def setup(app):
+    # So that we can label and reference with {team}
     app.add_crossref_type("team", "team")

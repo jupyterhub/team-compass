@@ -81,6 +81,9 @@ The Contributors team is very large and has no limit.
 Once you are a Contributor, you are always a Contributor.
 We encourage this group to be as large as possible.
 
+```{team} Maintainer Team
+```
+
 ### Maintainers
 
 The maintainers are stewards and leaders of the JupyterHub community.
