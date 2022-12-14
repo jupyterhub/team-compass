@@ -10,6 +10,7 @@ To generate the agenda for a new meeting, see the [Monthly Meeting Agenda Templa
 :caption: Monthly reports
 :maxdepth: 1
 
+December 2022 <2022-12-07.md>
 November 2022 <2022-11-02.md>
 October 2022 <2022-10-05.md>
 September 2022 <2022-09-07.md>
