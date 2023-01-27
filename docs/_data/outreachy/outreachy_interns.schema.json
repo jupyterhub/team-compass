@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "round": {
+          "type": "string",
+          "description": "The month and year of the cohort, e.g., December, 2022"
+        },
+        "interns": {
+          "type": "array",
+          "description": "A list of the interns who participated in the round",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "description": "The intern's name"
+                },
+                "github_handle": {
+                  "type": "string",
+                  "description": "The intern's GitHub handle, without leading @"
+                },
+                "blog_url": {
+                  "type": "string",
+                  "description": "The URL of the intern's blog"
+                }
+              },
+              "required": ["name", "github_handle", "blog_url"]
+            }
+          ]
+        }
+      },
+      "required": ["round", "interns"]
+    }
+  ]
+}
