@@ -70,7 +70,7 @@ for cohort in interns_data:
             [@{intern['github_handle']}](https://github.com/{intern['github_handle']})
 
             +++
-            [Read their blog!]({intern['blog_url']})
+            {f"[Read their blog!]({intern['blog_url']})" if "blog_url" in intern.keys() else ""}
             ````
         """
         )

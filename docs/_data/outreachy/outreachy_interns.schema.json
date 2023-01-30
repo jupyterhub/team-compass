@@ -29,7 +29,7 @@
                   "description": "The URL of the intern's blog"
                 }
               },
-              "required": ["name", "github_handle", "blog_url"]
+              "required": ["name", "github_handle"]
             }
           ]
         }
