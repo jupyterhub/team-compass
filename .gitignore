@@ -1,4 +1,7 @@
+__pycache__
 _build
 docs/_data/contributors/contributors-jupyterhub.txt
+docs/_data/outreachy/outreachy_interns.txt
 .ipynb_checkpoints
 .vscode
+.nox

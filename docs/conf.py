@@ -64,6 +64,7 @@ myst_linkify_fuzzy_links = False
 from subprocess import run
 
 run(["python", "_data/contributors/gen_contributors.py"], check=True)
+run(["python", "_data/outreachy/outreachy_interns.py"], check=True)
 
 # -- Options for the rediraffe extension -------------------------------------
 # ref: https://github.com/wpilibsuite/sphinxext-rediraffe#readme

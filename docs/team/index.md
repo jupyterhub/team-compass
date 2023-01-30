@@ -25,3 +25,11 @@ Below is a short table to show what each emoji represents.
 .. csv-table::
    :file: ../_data/contributors/contributor_key.csv
 ```
+
+## Outreachy internships
+
+We would also like to thank Outreachy interns who have worked with us to improve JupyterHub.
+You can see the cohorts we have worked with below.
+
+```{include} ../_data/outreachy/outreachy_interns.txt
+```
