@@ -18,5 +18,18 @@
         "blog_url": "https://blaire.hashnode.dev/"
       }
     ]
+  },
+  {
+    "round": "December, 2018",
+    "interns": [
+      {
+        "name": "Georgiana Dolocon",
+        "github_handle": "GeorgianaElena"
+      },
+      {
+        "name": "Leticia Portella",
+        "github_handle": "leportella"
+      }
+    ]
   }
 ]
