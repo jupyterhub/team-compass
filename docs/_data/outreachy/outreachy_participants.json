@@ -1,0 +1,64 @@
+[
+  {
+    "round": "December, 2022",
+    "interns": [
+      {
+        "name": "Allan Wasega",
+        "github_handle": "alwasega",
+        "blog_url": "https://alwasega.substack.com/"
+      },
+      {
+        "name": "Sheila Kahwai",
+        "github_handle": "Sheila-nk",
+        "blog_url": "https://sheiblogs.hashnode.dev/"
+      },
+      {
+        "name": "Ogoh Blessing Onyowoicho",
+        "github_handle": "bl-aire",
+        "blog_url": "https://blaire.hashnode.dev/"
+      }
+    ],
+    "community_members": [
+      {
+        "name": "Min Ragan-Kelley",
+        "github_handle": "minrk",
+        "roles": ["mentor"]
+      },
+      {
+        "name": "Georgiana Dolocan",
+        "github_handle": "GeorgianaElena",
+        "roles": ["mentor"]
+      },
+      {
+        "name": "Sarah Gibson",
+        "github_handle": "sgibson91",
+        "roles": ["mentor", "community coordinator"]
+      }
+    ]
+  },
+  {
+    "round": "December, 2018",
+    "interns": [
+      {
+        "name": "Georgiana Dolocan",
+        "github_handle": "GeorgianaElena"
+      },
+      {
+        "name": "Leticia Portella",
+        "github_handle": "leportella"
+      }
+    ],
+    "community_members": [
+      {
+        "name": "Min Ragan-Kelley",
+        "github_handle": "minrk",
+        "roles": ["mentor"]
+      },
+      {
+        "name": "Yuvi Panda",
+        "github_handle": "yuvipanda",
+        "roles": ["mentor", "community coordinator"]
+      }
+    ]
+  }
+]

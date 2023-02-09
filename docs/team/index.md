@@ -28,8 +28,10 @@ Below is a short table to show what each emoji represents.
 
 ## Outreachy internships
 
-We would also like to thank Outreachy interns who have worked with us to improve JupyterHub.
-You can see the cohorts we have worked with below.
+We would also like to thank everybody who has participated in Outreachy
+internships with us. This includes the interns themselves who worked with us to
+improve JupyterHub, and the community members that donated their time and skills
+as mentors, coordinators and volunteers.
 
-```{include} ../_data/outreachy/outreachy_interns.txt
+```{include} ../_data/outreachy/outreachy_participants.txt
 ```
