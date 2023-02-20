@@ -8,6 +8,15 @@ Some of these are useful for our development workflows, while others are used as
 We have [a GitHub organization](https://github.com/jupyterhub/) for hosting all of our code repositories.
 This organization is where we do most of the code-related work for the project, and where we have discussions and coordination.
 
+(shared:pypi-bot)=
+## PyPI
+
+We have a [bot named `jupyterhub-bot`](https://pypi.org/user/jupyterhub-bot/) on PyPI.
+This allows us to centralize the authority to publish PyPI packages in a single place.
+We can also use this bot to generate API tokens that allow us to publish packages automatically with GitHub Actions.
+
+Any steering council member should have access to this bot, ask somebody if you'd like access.
+
 (resources:shared-drive)=
 
 ## Google Drive

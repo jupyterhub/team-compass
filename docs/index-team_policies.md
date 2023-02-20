@@ -31,5 +31,6 @@ practices/check-ins
 
 practices/pull_requests
 practices/repository-code-standards
+practices/releases
 practices/readme-badges
 ```
