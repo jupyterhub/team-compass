@@ -20,6 +20,7 @@ Jupyter Code of Conduct <https://jupyter.org/governance/conduct/code_of_conduct.
 
 practices/communication
 practices/external-communication
+practices/funding
 practices/adding-members
 practices/check-ins
 ```
