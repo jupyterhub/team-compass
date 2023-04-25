@@ -9,7 +9,7 @@ Currently we do not have formal processes for approving funding, and we make dec
 ### CZI Community Strategic Lead grant
 
 We have a grant from CZI to fund a Community Strategic Lead position.
-Find all of the grant materials, budget, etc at [this Google Drive folder](https://drive.google.com/drive/folders/1Qk_6IvMwtS9F2yKzF4-wtrng6IJK7Dy6?usp=share_link)l
+Find all of the grant materials, budget, etc at [this Google Drive folder](https://drive.google.com/drive/folders/1Qk_6IvMwtS9F2yKzF4-wtrng6IJK7Dy6?usp=share_link).
 
 ### mybinder.org donations
 
