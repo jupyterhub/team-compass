@@ -32,15 +32,6 @@
     - council
   last-check-in: 2022-09
 
-- name: Tim Head
-  handle: "betatim"
-  affiliation: NVIDIA
-  contributions: bizdev, code, fundingFinding, ideas, talk, infra
-  focus: jupyterhub, binder
-  teams:
-    - council
-  last-check-in: 2022-09
-
 - name: Chris Holdgraf
   handle: "choldgraf"
   affiliation: 2i2c
@@ -126,6 +117,14 @@
   handle: "jzf2101"
   affiliation: UC Berkeley
   contributions: doc
+  focus: jupyterhub, binder
+  status: inactive
+  last-check-in: 2022-09
+
+- name: Tim Head
+  handle: "betatim"
+  affiliation: NVIDIA
+  contributions: bizdev, code, fundingFinding, ideas, talk, infra
   focus: jupyterhub, binder
   status: inactive
   last-check-in: 2022-09
