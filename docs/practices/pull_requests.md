@@ -31,6 +31,7 @@ Any exceptions to this should be explicitly listed in team documentation.[^1]
   We do not provide many strict rules and technical barriers because we trust team members to use their best judgment in reviewing and merging work.
   Do your best to live up to our team values and practices, and recognize that we all make mistakes.
 
+(prs:when-to-merge)=
 ## When to merge pull requests
 
 - **Obvious and simple improvements** can be merged by any member of the {team}`Maintainer Team`, even if it does not have a review.
