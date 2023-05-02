@@ -19,4 +19,4 @@ See [our team meetings page](https://jupyterhub-team-compass.readthedocs.io/en/l
 ## Team Membership
 
 The list of "core" members of the JupyterHub and Binder projects can be found on
-[the team-compass website](https://jupyterhub-team-compass.readthedocs.io/en/latest/team.html).
+[the team-compass website](https://jupyterhub-team-compass.readthedocs.io/en/latest/team/index.html).
