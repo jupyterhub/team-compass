@@ -17,18 +17,18 @@ The JupyterHub meeting calendar is embedded below for quick reference:
 
 <iframe src="https://calendar.google.com/calendar/embed?src=aqpkui5q7oi32pk9tcp53hnssc%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-## Notes for monthly team meetings
+## Notes for monthly Collaboration Cafe
 
-The JupyterHub team has a project-wide video meeting each month (see [](meetings:calendars)).
-We use [this HackMD for notes and agenda-setting](https://hackmd.io/@sgibson91/hubs-team-meeting).
+The JupyterHub team has a monthly Collaboration Cafe (see [](meetings:calendars)).
+We use [this HackMD for topic suggestions and capturing discussion](https://hackmd.io/@sgibson91/hubs-team-meeting).
 
-We rotate time zones for each meeting to ensure that there is a timezone-friendly meeting for anyboyd in the world at least once every two months.
+We rotate time zones for each meeting to ensure that there is a timezone-friendly meeting for anybody in the world at least once every two months.
 
 ```{toctree}
 :maxdepth: 2
-:caption: Team meetings
+:caption: Collaboration Cafes
 
-community/index
+collab-cafe/index
 ```
 
 ## Notes for HPC working group
@@ -47,12 +47,13 @@ hpc/index
 
 ## Archive of past meeting types
 
-The JupyterHub team used to keep weekly reports for what they had
-been up to. We recently switched to Monthly sync-ups instead of weekly
-reports, but below is a list of the weekly reports that we have put together.
+The JupyterHub team used to keep monthly and weekly reports for what they had been up to.
+We have switched to a Collaboration Cafe format instead.
+Below is a list of the monthly and weekly reports that we have put together.
 
 ```{toctree}
 :maxdepth: 2
 
+community/index
 weekly-reports/archive
 ```
