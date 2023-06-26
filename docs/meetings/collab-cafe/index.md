@@ -76,6 +76,9 @@ It is highly encouraged that at least one person in each breakout room has the t
 
 ### Archiving notes
 
+After each Cafe, we archive the notes in this repository for future reference, and to prevent the HackMD becoming unwieldy.
+You can find the archive at the bottom of this page.
+
 ## Archive
 
 Each file represents one year, and entries within a file are in reverse choronological order.
