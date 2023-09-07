@@ -10,6 +10,7 @@ To generate the agenda for a new meeting, see the [Monthly Meeting Agenda Templa
 :caption: Monthly reports
 :maxdepth: 1
 
+September 2023 <2023-09-06.md>
 August 2023 <2023-08-02.md>
 July 2023 <2023-07-05.md>
 June 2023 <2023-06-07.md>
