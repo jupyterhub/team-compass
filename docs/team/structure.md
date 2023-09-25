@@ -112,7 +112,7 @@ They also inherit all responsibilities from the JupyterHub Contributors team.
 
 Maintainers may be added by any other maintainer.
 To add a new maintainer, a current maintainer should recommend their addition via [issues in our Team Compass](https://github.com/jupyterhub/team-compass), or via private communications channels.
-If there are no objections to adding a new maintainer, add them to [our list of maintainers](index.rst).
+If there are no objections to adding a new maintainer, add them to [our list of maintainers](./index).
 
 #### Team size
 
