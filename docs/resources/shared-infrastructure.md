@@ -11,11 +11,20 @@ This organization is where we do most of the code-related work for the project, 
 (shared:pypi-bot)=
 ## PyPI
 
-We have a [bot named `jupyterhub-bot`](https://pypi.org/user/jupyterhub-bot/) on PyPI.
-This allows us to centralize the authority to publish PyPI packages in a single place.
-We can also use this bot to generate API tokens that allow us to publish packages automatically with GitHub Actions.
+We have a [bot account named `jupyterhub-bot`] on PyPI. This has historically
+been used to generate a token for use to publish new releases via our CI system.
+We are however transitioning away from this practice.
 
-Any steering council member should have access to this bot, ask somebody if you'd like access.
+The current practice is to declare that PyPI project's should allow a specific
+GitHub workflow (release.yaml) in the associated GitHub repository to be allowed
+to publish new releases. See our [template GitHub workflow] for more details.
+
+There is a [list of current team members with control of the account], ask if
+you need access or a change made related to the account.
+
+[bot account named `jupyterhub-bot`]: https://pypi.org/user/jupyterhub-bot/
+[template github workflow]: https://github.com/jupyterhub/jupyterhub-python-repo-template/blob/main/.github/workflows/release.yaml
+[list of current team members with control of the account]: https://github.com/jupyterhub/team-compass/issues/520
 
 (resources:shared-drive)=
 
