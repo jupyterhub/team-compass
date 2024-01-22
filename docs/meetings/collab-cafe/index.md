@@ -86,5 +86,6 @@ Each file represents one year, and entries within a file are in reverse choronol
 ```{toctree}
 :maxdepth: 1
 
+2024 <2024.md>
 2023 <2023.md>
 ```
