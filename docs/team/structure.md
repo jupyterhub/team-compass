@@ -190,7 +190,6 @@ The Security team supports maintainers in the security of JupyterHub repositorie
 Creating and releasing security fixes is primarily the responsibility of **maintainers**,
 while the Security team helps the advisory process in terms of reporting, disclosure, and understanding security issues, and helping JupyterHub maintain a secure development process.
 
-
 #### How to join
 
 Security team membership is managed jointly by JupyterHub and the Jupyter Security subproject.
