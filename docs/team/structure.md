@@ -174,6 +174,33 @@ Any team member of this team may be added by any other team member, following a 
 
 There is no limit to the number of mybinder.org operations team members.
 
+```{team} Security Team
+```
+
+### Security Team
+
+The Security team is primarily an interface to the [Jupyter Security subproject](https://github.com/jupyter/security).
+The Security team contributes to managing security advisories across JupyterHub repositories.
+
+Members of the Security team are members of the jupyterhub/security team, and have the Security Manager Role on GitHub.
+
+#### Expectations and responsibilities
+
+The Security team supports maintainers in the security of JupyterHub repositories.
+Creating and releasing security fixes is primarily the responsibility of **maintainers**,
+while the Security team helps the advisory process in terms of reporting, disclosure, and understanding security issues, and helping JupyterHub maintain a secure development process.
+
+#### How to join
+
+Security team membership is managed jointly by JupyterHub and the Jupyter Security subproject.
+The Jupyter Security council may appoint members to the JupyterHub security team and is responsible for keeping their membership list updated.
+Additionally, contributors may request their addition via [issues in our Team Compass](https://github.com/jupyterhub/team-compass), or via private communications channels.
+If there are no objections to adding a new security team member, add them to [our list of security members](./index).
+
+#### Team size
+
+There is no limit to the number of Security team members.
+
 ```{team} Team Lead
 ```
 
