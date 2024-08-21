@@ -1,5 +1,5 @@
 ---
-title: Schedule a Collaboration Cafe
+name: Schedule a Collaboration Cafe
 about: Provide all the information about an upcoming Community Collaboration Cafe
 title: "JupyterHub and Binder Collab Cafe | [Month, Year]"
 ---
