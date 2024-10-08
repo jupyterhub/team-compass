@@ -64,6 +64,12 @@ This template ensures that there is enough information about each topic for folk
 ## Hosting a Collaboration Café
 
 Any member of the JupyterHub community should feel empowered to host a Collaboration Cafe if they so wish.
+As well as information in the following sections, you can find a checklist of action items within the [](collab-cafe:facilitator-checklist)
+
+```{toctree}
+:max-depth: 2
+facilitator-checklist.md
+```
 
 ### HackMD running notes and assigning breakout rooms
 
@@ -113,7 +119,6 @@ Each file represents one year, and entries within a file are in reverse choronol
 
 ```{toctree}
 :maxdepth: 1
-
 2024 <2024.md>
 2023 <2023.md>
 ```
