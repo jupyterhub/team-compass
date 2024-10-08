@@ -22,6 +22,12 @@ You can feel free to use this time as a way to get on with your own JupyterHub-r
 
 ### Default rooms
 
+```{admonition} Deprecated!
+:class: warning
+This section has been deprecated as a matter of consistent practice.
+However, the facilitator should feel empowered to revive it for particularly busy meetings.
+```
+
 There are some rooms that will always be available to those who require them or are not sure where to get started.
 
 - **Onboarding:** If you are new to the JupyterHub project, a member of our team can give you an introduction and answer your questions in this room
@@ -29,6 +35,16 @@ There are some rooms that will always be available to those who require them or 
 - **Quiet working:** The main room will be available for anyone who wishes to quietly work on something JupyterHub related
 
 ### Suggesting a breakout topic
+
+```{admonition} Deprecated!
+:class: warning
+This section has been deprecated as a matter of consistent practice.
+However, the facilitator should feel empowered to revive it for particularly busy meetings.
+
+Instead, topic proposers should add their topic to the "Agenda" section of the hackmd in the following format:
+
+- [name=Your Name] (estimated length of discussion): topic description
+```
 
 There is a template in the HackMD, and copied below, that topic proposers should follow.
 This template ensures that there is enough information about each topic for folk to decide which room they'd like to join without having to go talk through each of them in the main room.
@@ -51,6 +67,12 @@ Any member of the JupyterHub community should feel empowered to host a Collabora
 
 ### HackMD running notes and assigning breakout rooms
 
+```{admonition} Deprecated!
+:class: warning
+Assigning breakout rooms has been deprecated as a matter of consistent practice.
+However, the facilitator should feel empowered to revive it for particularly busy meetings.
+```
+
 - The running notes for the Collaboration Cafe are kept here: <https://hackmd.io/@sgibson91/jupyterhub-collab-cafe>
 
 Participants are invited to check-in and propose a topic, or sign up to participate in a topic someone else has suggested.
@@ -67,6 +89,12 @@ For example, if everyone has signed up for one topic, the facilitator can decide
 There is an explainer video that demonstrates how to create and manage breakout rooms in Jitsi: <https://www.youtube.com/watch?v=ubYYZ0daw10>
 
 ### Time keeping
+
+```{admonition} Deprecated!
+:class: warning
+This section has been deprecated as a matter of consistent practice.
+However, the facilitator should feel empowered to revive it for particularly busy meetings.
+```
 
 - The shared timer is available here: <https://cuckoo.team/jupyterhub-collab-cafe>
 
