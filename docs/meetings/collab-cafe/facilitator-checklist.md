@@ -3,6 +3,8 @@
 
 This document provides a list of actions for a facilitator to take, and when, when running a Collaboration Cafe.
 
+All links for running the cafe will be in a GitHub issue that should be created [after the previous meeting](collab-cafe:facilitator-checklist:after).
+
 ## Before the Meeting
 
 **1 week before:**
@@ -31,6 +33,7 @@ If you join the jitsi link a few minutes before the meeting starts, you'll see a
     - Make sure to leave time for any questions before moving into the next agenda item.
 - To close out the meeting, thank everyone for attending and remind them of the timezone of the next meeting.
 
+(collab-cafe:facilitator-checklist:after)=
 ## After the Meeting
 
 - Archive the shared document into the Team Compass repo

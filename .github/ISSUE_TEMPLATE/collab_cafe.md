@@ -12,7 +12,7 @@ Here are the details for our next Collaboration Cafe!
 - HackMD link: https://hackmd.io/@sgibson91/jupyterhub-collab-cafe
 - Video link: https://meet.jit.si/jupyterhub-collab-cafe
 - More info:
-  - Docs: https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings/collab-cafe/index.html
+  - Docs, including a facilitator checklist: https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings/collab-cafe/index.html
   - Blog: https://blog.jupyter.org/online-collaboration-caf%C3%A9-launch-jupyterhub-team-meetings-to-become-more-collaborative-spaces-b713edadf15
 
 A reminder that this is a large block of time, so arriving late or dropping early if required is normal and to be expected.
