@@ -22,9 +22,9 @@ This document provides a list of actions for a facilitator to take, and when, wh
 If you join the jitsi link a few minutes before the meeting starts, you'll see a "Waiting for the Moderator to start the meeting" message. You can claim moderator status by signing in (using GitHub will suffice). You can then manage breakout rooms and such.
 ```
 
-- Welcome everyone and remind them that the meeting is being held under Jupyter's Code of Conduct
+- Welcome everyone and remind them that the meeting is being held under [Jupyter's Code of Conduct](https://jupyter.org/governance/conduct/code_of_conduct.html)
 - Encourage attendees to sign their name into the shared document and add any agenda items they'd like to discuss
-- Ask for a volunteer or a group effort to help keep notes
+- Ask for a volunteer to act as the primary note taker, but emphasise that notes are collaborative and all attendees should add to them, especially when dealing with complex topics
 - Work your way through the shared document, starting with intros and celebrations before moving into the main agenda
     - Try to ensure everybody who wishes to gets an opportunity to speak. Keep an eye on the Raised Hands in the meeting.
     - Try to keep an eye on timing so that all the topics can be covered without overrunning. This may mean interrupting some discussions and suggesting they be continued asynchronously (Gitter, Discourse, or GitHub are good places to point folk to).
