@@ -22,6 +22,7 @@ inactive_contributors = []
 
 team_titles = {
     "council": "JupyterHub Council",
+    "health": "JupyterHealth",
     "maintainers": "Maintainers",
     "mybinder": "mybinder.org operators",
 }

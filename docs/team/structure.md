@@ -204,6 +204,27 @@ There is no limit to the number of Security team members.
 ```{team} Team Lead
 ```
 
+### JupyterHealth Team
+
+The JupyterHealth team is responsible for the [jupyterhealth](https://github.com/jupyterhealth) GitHub organization.
+JupyterHealth is a fledgeling project with a different level of maturity and expectation than the rest of JupyterHub.
+The JupyterHub project maintainers are not expected to take on maintenance responsibilities for the JupyterHealth organization unless desired.
+JupyterHealth aims to coordinate stakeholders for Jupyter in healthcare settings, and is focused more on documentation and community development than software tools.
+
+#### Expectations and responsibilities
+
+JupyterHealth team expectations and responsibilities align with the Maintainers team, but focused on the [jupyterhealth](https://github.com/jupyterhealth) GitHub organization instead of JupyterHub more generally.
+
+#### How to join
+
+JupyterHealth Maintainers may be added by any other JupyterHealth maintainer.
+To add a new maintainer, a current maintainer should recommend their addition via [issues in our Team Compass](https://github.com/jupyterhub/team-compass), or via private communications channels.
+If there are no objections to adding a new maintainer, add them to [our list of maintainers](./index).
+
+#### Team size
+
+There is no limit to the number of JupyterHealth team members.
+
 ### Team Lead
 
 The Team Lead is a role with impasse-breaking authority to
