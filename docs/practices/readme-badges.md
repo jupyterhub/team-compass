@@ -138,7 +138,7 @@ specified.
 ```
 
 
-[![Gitter](https://img.shields.io/badge/social_chat-gitter-blue?logo=gitter)](https://gitter.im/jupyterhub/jupyterhub)
+[![Zulip](https://img.shields.io/badge/social_chat-zulip-blue?logo=zulip)](https://jupyter.zulipchat.com/#narrow/channel/469744-jupyterhub)
 ```md
-[![Gitter](https://img.shields.io/badge/social_chat-gitter-blue?logo=gitter)](https://gitter.im/jupyterhub/jupyterhub)
+[![Zulip](https://img.shields.io/badge/social_chat-zulip-blue?logo=zulip)](https://jupyter.zulipchat.com/#narrow/channel/469744-jupyterhub)
 ```

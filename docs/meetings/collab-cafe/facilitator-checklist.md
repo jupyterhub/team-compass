@@ -10,12 +10,12 @@ All links for running the cafe will be in a GitHub issue that should be created 
 **1 week before:**
 
 - Post a comment on the issue in the Team Compass repo reminding folk that the meeting is one week away
-- _TBA: Any updates to announcements posted in other spaces, e.g., Discourse, Gitter, Twitter/Mastodon, etc._
+- _TBA: Any updates to announcements posted in other spaces, e.g., Discourse, Zulip, Mastodon, etc._
 
 **1 day before:**
 
 - Post a comment on the issue in the Team Compass repo reminding folk that the meeting is the next day
-- _TBA: Any updates to announcements posted in other spaces, e.g., Discourse, Gitter, Twitter/Mastodon, etc._
+- _TBA: Any updates to announcements posted in other spaces, e.g., Discourse, Zulip, Mastodon, etc._
 
 ## During the Meeting
 
@@ -29,7 +29,7 @@ If you join the jitsi link a few minutes before the meeting starts, you'll see a
 - Ask for a volunteer to act as the primary note taker, but emphasise that notes are collaborative and all attendees should add to them, especially when dealing with complex topics
 - Work your way through the shared document, starting with intros and celebrations before moving into the main agenda
     - Try to ensure everybody who wishes to gets an opportunity to speak. Keep an eye on the Raised Hands in the meeting.
-    - Try to keep an eye on timing so that all the topics can be covered without overrunning. This may mean interrupting some discussions and suggesting they be continued asynchronously (Gitter, Discourse, or GitHub are good places to point folk to).
+    - Try to keep an eye on timing so that all the topics can be covered without overrunning. This may mean interrupting some discussions and suggesting they be continued asynchronously (Zulip, Discourse, or GitHub are good places to point folk to).
     - Make sure to leave time for any questions before moving into the next agenda item.
 - To close out the meeting, thank everyone for attending and remind them of the timezone of the next meeting.
 
@@ -47,4 +47,4 @@ If you join the jitsi link a few minutes before the meeting starts, you'll see a
     - Clear the shared document of topics and notes
     - Update the date, time and time converter link in the info box at the top of the shared document
     - [Open a new meeting issue](https://github.com/jupyterhub/team-compass/issues/new?assignees=&labels=&projects=&template=collab_cafe.md&title=JupyterHub+and+Binder+Collab+Cafe+%7C+%5BMonth%2C+Year%5D) and populate with the information you just updated in the shared document
-    - _TBA: Advertise in other places, e.g., Dicourse, Gitter, Twitter/Mastodon, etc._
+    - _TBA: Advertise in other places, e.g., Discourse, Zulip, Mastodon, etc._
