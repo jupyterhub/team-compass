@@ -17,18 +17,18 @@ There are two recommended ways to send communications to the {team}`JupyterHub C
 1. **Open an issue in our [Team Compass](https://github.com/jupyterhub/team-compass/issues)**. We use this as a space for team discussion of all kinds, and JupyterHub Council members are expected to monitor these issues. **This is the preferred space for most team conversation**.
 2. **Send an e-mail to [`jupyterhub-team-council@googlegroups.com`](mailto:jupyterhub-team-council@googlegroups.com)**. This is a shared inbox that we use for people that prefer non-public or e-mail communication instead of GitHub issues.
 
-## Gitter channels
+## Chat
 
-We use several gitter channels to have synchronous conversation across projects.
+We use some chat channels to have synchronous conversation across projects.
+Jupyter has recently adopted Zulip for chat, to replace the old Gitter/Matrix chat rooms.
 If a conversation will likely span multiple hours, or is relevant to many people, consider opening a thread in Discourse or the `team-compass` repository instead.
-Here are the relevant Gitters:
+Here are the relevant chat links:
 
- * [The JupyterHub Gitter](https://gitter.im/jupyterhub/jupyterhub) is for
-   discussing JupyterHub, Z2JH, TLJH, etc.
- * [The Binder Gitter](https://gitter.im/jupyterhub/binder) is for
-   discussion with Binder users about how to use Binder.
- * [The mybinder.org-deploy gitter](https://gitter.im/jupyterhub/mybinder.org-deploy)
-   is for discussion around **operating myinder.org**.
+* [The Jupyter Zulip](https://jupyter.zulipchat.com) is where Jupyter-related chat is taking place.
+  You can use topics to thread conversations on particular areas.
+
+* [The JupyterHub channel](https://jupyter.zulipchat.com/#narrow/channel/469744-jupyterhub) is for
+  discussing JupyterHub, Binder, Z2JH, TLJH, etc.
 
 ## Support bot
 
