@@ -59,6 +59,15 @@
     - council
   last-check-in: 2022-09
 
+- name: Ryan Lovett
+  handle: ryanlovett
+  affiliation: UC Berkeley
+  contributions: code,question
+  focus: jupyterhub, health
+  teams:
+    - health
+  last-check-in: 2025-01
+
 - name: Yuvi Panda
   handle: "yuvipanda"
   affiliation: UC Berkeley
@@ -66,6 +75,7 @@
   focus: jupyterhub
   teams:
     - council
+    - health
   last-check-in: 2022-09
 
 - name: Fernando Pérez
@@ -75,6 +85,7 @@
   focus: jupyterhub
   teams:
     - council
+    - health
   last-check-in: 2022-09
 
 - name: Min Ragan-Kelley
@@ -84,6 +95,7 @@
   focus: jupyterhub, binder
   teams:
     - council
+    - health
   last-check-in: 2022-09
 
 - name: Erik Sundell
@@ -104,6 +116,14 @@
     - council
   last-check-in: 2022-09
 
+- name: Maryam Vareth
+  handle: maryamv
+  affiliation: UC Berkeley
+  contributions: ideas,fundingFinding
+  focus: health
+  teams:
+    - health
+  last-check-in: 2025-01
 
 # Inactive team members at the end, also alphabetical
 - name: Matthias Busonnier
