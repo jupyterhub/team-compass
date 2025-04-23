@@ -47,8 +47,7 @@
   contributions: ideas,question
   focus: jupyterhub, binder
   teams:
-    - council
-  last-check-in: 2022-09
+  last-check-in: 2025-04
 
 - name: Simon Li
   handle: "manics"
