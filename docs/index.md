@@ -13,12 +13,13 @@
 Our Team Compass contains team practices, policies, and resources to help one another align and contribute.
 It also has helpful information for team members, like shared infrastructure and accounts, resources to learn how to contribute, etc.
 
-:::{card} Interested in contributing? Start here ✨
-:link-ref: contribute/guide.md
+```{card} Interested in contributing? Start here ✨
+:link: contribute/guide
+:link-type: doc
 Our Team Compass is also a way for others to learn our practices so that they can more effectively contribute.
 +++
 Click here to see our contributing guide.
-:::
+```
 
 We use **[GitHub issues in `jupyterhub/team-compass`](https://github.com/jupyterhub/team-compass/issues)**
 to discuss specific, actionable things related to the *team* (e.g., discussing whether to change something in the team-compass repo).
