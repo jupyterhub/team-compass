@@ -25,12 +25,12 @@
 
 - name: Sarah Gibson
   handle: "sgibson91"
-  affiliation: 2i2c
+  affiliation: ""
   contributions: question,doc,tutorial,infra,talk,test
   focus: jupyterhub, binder
-  teams:
-    - council
-  last-check-in: 2022-09
+  teams: []
+  last-check-in: 2025-05
+  status: inactive
 
 - name: Chris Holdgraf
   handle: "choldgraf"
