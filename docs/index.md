@@ -2,12 +2,12 @@
 
 ```{image} https://img.shields.io/badge/team-website-orange.svg
 :alt: team website
-:target: https://jupyterhub-team-compass.readthedocs.io/en/latest/
+:target: https://compass.hub.jupyter.org
 ```
 
 ```{image} https://img.shields.io/badge/agenda-this%20month-blue.svg
 :alt: monthly agenda
-:target: https://hackmd.io/u2ghJJUCRWK-zRidCFid_Q?view
+:target: https://hackmd.io/@sgibson91/hubs-team-meeting
 ```
 
 Our Team Compass contains team practices, policies, and resources to help one another align and contribute.
