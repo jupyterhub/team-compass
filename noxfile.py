@@ -6,7 +6,7 @@ import nox
 
 nox.options.reuse_existing_virtualenvs = True
 
-build_command = ["-b", "html", "docs", "docs/_build/html"]
+build_command = ["-b", "dirhtml", "docs", "docs/_build/html"]
 
 @nox.session()
 def docs(session):
