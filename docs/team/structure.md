@@ -18,7 +18,7 @@ a few things that you should do as a new team member:
 1. **"Watch" the [team compass repository](https://github.com/jupyterhub/team-compass)**
    so that you're notified when team conversations are happening.
 1. **Semi-regularly attend team meetings**. You can find a calendar of upcoming
-   meetings [on the team meetings page](https://jupyterhub-team-compass.readthedocs.io/en/latest/meetings.html).
+   meetings [on the team meetings page](https://compass.hub.jupyter.org/meetings/).
 1. **Commit at least 6 months to team membership**. Training and mentoring new
    team members is an investment by the existing team, hence team
    membership requires commitment from both sides. Beyond 6 months, if active

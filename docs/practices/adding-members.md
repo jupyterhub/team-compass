@@ -76,7 +76,7 @@ issue and the team member is now ready to go!
 
 **Learning**
 
-- [ ] Send them [a short onboarding message](https://jupyterhub-team-compass.readthedocs.io/team/adding-members.html#an-official-onboarding-message)
+- [ ] Send them [a short onboarding message](https://compass.hub.jupyter.org/team/adding-members/#an-official-onboarding-message)
 
 **Community**
 
@@ -97,7 +97,7 @@ is a template message to send. It checks off all of the boxes in the
 Hello <name>, and welcome to the JupyterHub team! 🎉🎉🎉
 
 We are really excited for you to join the community. To help you get started,
-check out the [JupyterHub team policies and standards](https://jupyterhub-team-compass.readthedocs.io/en/latest/index-team_policies.html) page.
+check out the [JupyterHub team policies and standards](https://compass.hub.jupyter.org/index-team_policies/) page.
 
 If you've got any questions or would just like to chat, don't hesitate to
 reach out to folks on the Gitter channels or on Discourse!
