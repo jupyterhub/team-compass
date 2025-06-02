@@ -14,6 +14,6 @@ TLJH   | [![Documentation Status](https://readthedocs.org/projects/the-littlest-
  BinderHub  | [![Documentation Status](https://readthedocs.org/projects/binderhub/badge/?version=latest)](https://binderhub.readthedocs.org/en/latest/?badge=latest)  | [![codecov](https://codecov.io/gh/jupyterhub/binderhub/branch/master/graph/badge.svg)](https://codecov.io/gh/jupyterhub/binderhub)  | [changelog](https://github.com/jupyterhub/binderhub/blob/master/CHANGES.md)
  repo2docker  |  [![Documentation Status](https://readthedocs.org/projects/repo2docker/badge/?version=latest)](https://repo2docker.readthedocs.org/en/latest/?badge=latest) | [![codecov](https://codecov.io/gh/jupyter/repo2docker/branch/master/graph/badge.svg)](https://codecov.io/gh/jupyter/repo2docker) | [changelog](https://repo2docker.readthedocs.io/en/latest/changelog.html)
  binder docs | [![Documentation Status](https://readthedocs.org/projects/mybinder/badge/?version=latest)](https://mybinder.readthedocs.org/en/latest/?badge=latest)  |   |
- team compass | [![Documentation Status](http://readthedocs.org/projects/jupyterhub-team-compass/badge/?version=latest)](http://jupyterhub-team-compass.readthedocs.io/en/latest/?badge=latest) |  |
+ team compass | [![Documentation Status](http://readthedocs.org/projects/jupyterhub-team-compass/badge/?version=latest)](http://compass.hub.jupyter.org/?badge=latest) |  |
 mybinder.org SRE |  [![Documentation Status](http://readthedocs.org/projects/mybinder-sre/badge/?version=latest)](https://mybinder-sre.readthedocs.io/en/latest/?badge=latest) |  |
 
