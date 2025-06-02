@@ -10,6 +10,7 @@ build:
     python: "3.11"
 
 sphinx:
+  builder: dirhtml
   configuration: docs/conf.py
 
 python:
