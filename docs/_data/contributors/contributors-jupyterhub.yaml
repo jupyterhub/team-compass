@@ -108,8 +108,8 @@
 
 - name: Carol Willing
   handle: "willingc"
-  affiliation: Project Jupyter
-  contributions: Python,Community
+  affiliation: Willing Consulting
+  contributions: Python,Open Source Governance,Leadership and strategic planning, vision
   focus: jupyterhub, binder
   teams:
     - council
