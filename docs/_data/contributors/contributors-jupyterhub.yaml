@@ -97,6 +97,15 @@
     - health
   last-check-in: 2022-09
 
+- name: Ida Sim
+  handle: idasim
+  affiliation: UCSF, UC Berkeley
+  contributions: ideas,medicine
+  focus: health
+  teams:
+    - health
+  last-check-in: 2025-08
+
 - name: Erik Sundell
   handle: "consideRatio"
   affiliation: Sundell Open Source
