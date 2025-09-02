@@ -89,7 +89,7 @@
 
 - name: Min Ragan-Kelley
   handle: "minrk"
-  affiliation: Simula
+  affiliation: UC Berkeley
   contributions: code,infra
   focus: jupyterhub, binder
   teams:
