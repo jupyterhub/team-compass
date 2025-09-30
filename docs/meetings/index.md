@@ -5,6 +5,8 @@
 The JupyterHub community meets periodically to discuss important issues, make decisions, share ideas, and enjoy one another's company.
 These meetings are open to anyone, particularly those who are interested in joining the community!
 
+We encourage you to join us at one of our Collaboration Cafes
+
 (meetings:calendars)=
 ## Meeting calendars
 
@@ -17,9 +19,9 @@ The JupyterHub meeting calendar is embedded below for quick reference:
 
 <iframe src="https://calendar.google.com/calendar/embed?src=aqpkui5q7oi32pk9tcp53hnssc%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-## Notes for monthly Collaboration Cafe
+## Meeting notes
 
-The JupyterHub team has a monthly Collaboration Cafe (see [](meetings:calendars)).
+The JupyterHub team has a Collaboration Cafe (see [](meetings:calendars)).
 We use [this HackMD for topic suggestions and capturing discussion](https://hackmd.io/@sgibson91/hubs-team-meeting).
 
 We rotate time zones for each meeting to ensure that there is a timezone-friendly meeting for anybody in the world at least once every two months.
