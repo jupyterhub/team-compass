@@ -7,7 +7,7 @@ title: "JupyterHub and JupyterBook Collab Cafe | [DATE]"
 Here are the details for our next Collaboration Cafe!
 
 - Date: <!-- Enter the date here -->
-- Time: <!-- Enter the time and timezone here -->
+- Time: 11am Pacific
   - Your timezone: https://arewemeetingyet.com/Los_Angeles/[DATE]/11:00/JupyterHub-JupyterBook-CollabCafe <!-- replace [DATE] in the url in YYYY-MM-DD format -->
 - Collaborative notes link: https://mypads2.framapad.org/p/jupyterhub-jupyterbook-collaborationcafe-nr53am9wz
 - Video link: https://zoom.us/j/95228013874?pwd=Ep7HIk8t9JP6VToxt1Wj4P7K5PshC0.1
@@ -16,6 +16,7 @@ Here are the details for our next Collaboration Cafe!
   - Blog: https://blog.jupyter.org/online-collaboration-caf%C3%A9-launch-jupyterhub-team-meetings-to-become-more-collaborative-spaces-b713edadf15
 
 Please collect in this thread :point_down:
+
 * Activity you'd like to celebrate - closed issues, merged PRs, community support
 * Breakout rooms you'd find useful
 * Topics that would benefit from synchronous discussion
