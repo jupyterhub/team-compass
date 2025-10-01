@@ -1,11 +1,9 @@
 (team-meetings)=
-
 # Team meetings and notes
 
 The JupyterHub community meets periodically to discuss important issues, make decisions, share ideas, and enjoy one another's company.
-These meetings are open to anyone, particularly those who are interested in joining the community!
 
-We encourage you to join us at one of our Collaboration Cafes
+These meetings - called Collaboration Cafés - are fully remote and open to anyone, particularly those who are interested in joining the community!
 
 (meetings:calendars)=
 ## Meeting calendars
@@ -21,41 +19,32 @@ The JupyterHub meeting calendar is embedded below for quick reference:
 
 ## Meeting notes
 
-The JupyterHub team has a Collaboration Cafe (see [](meetings:calendars)).
-We use [this HackMD for topic suggestions and capturing discussion](https://hackmd.io/@sgibson91/hubs-team-meeting).
+The JupyterHub team hosts regular Collaboration Cafés (see [](meetings:calendars)).
+
+We open an issue for each meeting using the ["Schedule a Collaboration Cafe"](https://github.com/jupyterhub/team-compass/issues/new/choose) GitHub issue template.
+
+<!-- I'm not sure I'm linking to the best thing here, or if the sentence is clear - help very much welcomed! -->
+
+We use [this framapad](https://mypads2.framapad.org/p/jupyterhub-jupyterbook-collaborationcafe-nr53am9wz) to take collaborative notes.
+Framapads are screen-reader accessible and robust to multiple people typing at the same time.
 
 We rotate time zones for each meeting to ensure that there is a timezone-friendly meeting for anybody in the world at least once every two months.
 
 ```{toctree}
 :maxdepth: 2
-:caption: Collaboration Cafes
+:caption: Collaboration Cafés
 
 collab-cafe/index
 ```
 
 ## Notes for HPC working group
 
-There is a working group that meets monthly (see calendar) to discuss
-JupyterHub deployment on HPC systems and the various software projects
-supporting those efforts.  Everyone interested in those topics are welcome to
-attend!
-
-```{toctree}
-:maxdepth: 2
-:caption: HPC working group meetings
-
-hpc/index
-```
-
 ## Archive of past meeting types
 
 The JupyterHub team used to keep monthly and weekly reports for what they had been up to.
-We have switched to a Collaboration Cafe format instead.
-Below is a list of the monthly and weekly reports that we have put together.
+The notes archives are linked from [weekly-reports](weekly-reports) and [community](community).
 
-```{toctree}
-:maxdepth: 2
+<!-- From Kirstie: Can we change the name of the "community" directory? I find it really confusing! team-meeting? -->
 
-community/index
-weekly-reports/archive
-```
+There was also an HPC working group met monthly to discuss JupyterHub deployment on HPC systems and the various software projects supporting those efforts.
+Those notes are linked from [hpc](hpc).
