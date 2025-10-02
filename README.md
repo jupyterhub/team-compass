@@ -5,10 +5,9 @@ projects, and use-cases in the JupyterHub community. It's meant to make the proj
 welcoming, transparent, and inclusive. If you've got an idea for how this can be improved,
 please reach out!
 
-Most of the Team Compass lives in this website:
+Most of the Team Compass lives in the website [The JupyterHub Team Compass](http://compass.hub.jupyter.org/).
 
-* [The JupyterHub Team Compass](http://compass.hub.jupyter.org/)
-* Please familiarise yourself with the [Code of Conduct](https://jupyter.org/governance/conduct/code_of_conduct.html).
+And please familiarise yourself with [Jupyter's Code of Conduct](https://jupyter.org/governance/conduct/code_of_conduct.html).
 
 ## Team Meetings
 
@@ -16,5 +15,5 @@ See [our team meetings page](https://compass.hub.jupyter.org/meetings/) for info
 
 ## Team Membership
 
-The list of "core" members of the JupyterHub and Binder projects can be found on
-[the team-compass website](https://compass.hub.jupyter.org/team/).
+The list of "core" members of the JupyterHub project can be found on
+["Our team" page](https://compass.hub.jupyter.org/team/).
