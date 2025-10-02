@@ -10,8 +10,6 @@ Most of the Team Compass lives in this website:
 * [The JupyterHub Team Compass](http://compass.hub.jupyter.org/)
 * Please familiarise yourself with the [Code of Conduct](https://jupyter.org/governance/conduct/code_of_conduct.html).
 
----
-
 ## Team Meetings
 
 See [our team meetings page](https://compass.hub.jupyter.org/meetings/) for information about team meetings and how to join.
