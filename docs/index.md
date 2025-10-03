@@ -5,22 +5,23 @@
 :target: https://compass.hub.jupyter.org
 ```
 
-```{image} https://img.shields.io/badge/agenda-this%20month-blue.svg
-:alt: monthly agenda
-:target: https://hackmd.io/@sgibson91/hubs-team-meeting
-```
-
 Our Team Compass contains team practices, policies, and resources to help one another align and contribute.
 It also has helpful information for team members, like shared infrastructure and accounts, resources to learn how to contribute, etc.
 
-```{card} Interested in contributing? Start here ✨
+```{grid} 2
+```{grid-item-card} Join us at a Collaboration Café ☕ 
+:link: meetings/collab-cafe
+:link-type: doc
+
+Collaboration Café's are regular, all remote meetings where our community can synchronously connect.
+Click here to find out more! 
+```
+```{grid-item-card} Get started contributing ✨
 :link: contribute/guide
 :link-type: doc
-Our Team Compass is also a way for others to learn our practices so that they can more effectively contribute.
-+++
-Click here to see our contributing guide.
+Our contribution guide will help you learn our practices so you can co-create with us easily!
 ```
-
+```
 We use **[GitHub issues in `jupyterhub/team-compass`](https://github.com/jupyterhub/team-compass/issues)**
 to discuss specific, actionable things related to the *team* (e.g., discussing whether to change something in the team-compass repo).
 
@@ -45,7 +46,7 @@ As projects and their growth evolve rapidly, the contents of this repo
 should aid us in setting project direction and adjusting the course as
 needed. The repo contains:
 
-- team meeting agendas and archives
+- team meeting agendas and archives: <meetings>
 - direction and action plans
 - communication and culture of respectful teamwork
 - recognitions and team celebrations
