@@ -47,6 +47,7 @@ should aid us in setting project direction and adjusting the course as
 needed. The repo contains:
 
 - team meeting agendas and archives: <meetings>
+- team meeting agendas and archives: <meetings>
 - direction and action plans
 - communication and culture of respectful teamwork
 - recognitions and team celebrations
