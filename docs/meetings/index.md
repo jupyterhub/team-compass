@@ -35,8 +35,6 @@ We rotate time zones for each meeting to ensure that there is a timezone-friendl
 collab-cafe/index
 ```
 
-## Notes for HPC working group
-
 ## Archive of past meeting types
 
 The JupyterHub team used to keep monthly and weekly reports for what they had been up to.
