@@ -10,12 +10,12 @@ It also has helpful information for team members, like shared infrastructure and
 
 ````{grid} 2
 ```{grid-item-card} Join us at a Collaboration Café ☕ 
-:link: meetings/collab-cafe
+:link: meetings/collab-cafe/index.md
 :link-type: doc
 
 Collaboration Café's are regular, all remote meetings where our community can synchronously connect.
 +++
-Click here to find out more! 
+Click this box to find out more! 
 ```
 
 ```{grid-item-card} Get started contributing ✨
@@ -24,7 +24,7 @@ Click here to find out more!
 
 Our contribution guide will help you learn our practices so you can co-create with us easily!
 +++
-Click here to get started!
+Click this box to get started!
 ```
 
 ````
