@@ -24,7 +24,7 @@ Click this box to find out more!
 
 Our contribution guide will help you learn our practices so you can co-create with us easily!
 +++
-Click this box to get started!
+Click this box to jump in!
 ```
 
 ````
