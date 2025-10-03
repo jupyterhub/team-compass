@@ -23,8 +23,6 @@ The JupyterHub team hosts regular Collaboration Cafés (see [](meetings:calendar
 
 We open an issue for each meeting using the ["Schedule a Collaboration Cafe"](https://github.com/jupyterhub/team-compass/issues/new/choose) GitHub issue template.
 
-<!-- I'm not sure I'm linking to the best thing here, or if the sentence is clear - help very much welcomed! -->
-
 We use [this framapad](https://mypads2.framapad.org/p/jupyterhub-jupyterbook-collaborationcafe-nr53am9wz) to take collaborative notes.
 Framapads are screen-reader accessible and robust to multiple people typing at the same time.
 
@@ -43,8 +41,6 @@ collab-cafe/index
 
 The JupyterHub team used to keep monthly and weekly reports for what they had been up to.
 The notes archives are linked from [weekly-reports](weekly-reports) and [community](community).
-
-<!-- From Kirstie: Can we change the name of the "community" directory? I find it really confusing! team-meeting? -->
 
 There was also an HPC working group met monthly to discuss JupyterHub deployment on HPC systems and the various software projects supporting those efforts.
 Those notes are linked from [hpc](hpc).

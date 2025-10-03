@@ -22,8 +22,6 @@ You can read more about why and how we host Collaboration Cafés in the resource
 Anyone interested in becoming involved in the JupyterHub, Binder or JupyterBook communities is welcome to attend a Collaboration Café.
 We will be delighted to have you join us!
 
-<!-- Is Binder its own community now? Or has it been fully folded into JupyterHub? -->
-
 We encourage project maintainers and experienced contributors to JupyterHub, JupyterBook and related open source communities to join too.
 
 In a Collaboration Café you may find:
