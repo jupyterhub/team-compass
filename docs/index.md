@@ -10,7 +10,7 @@ It also has helpful information for team members, like shared infrastructure and
 
 ````{grid} 2
 ```{grid-item-card} Join us at a Collaboration Café ☕ 
-:link: meetings/collab-cafe/index.md
+:link: meetings/collab-cafe/index
 :link-type: doc
 
 Collaboration Café's are regular, all remote meetings where our community can synchronously connect.
