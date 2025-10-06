@@ -9,7 +9,7 @@ They are open for anyone to attend.
 You can read more about why and how we host Collaboration Cafés in the resources below.
 
 - [Jupyter blog post](https://blog.jupyter.org/online-collaboration-caf%C3%A9-launch-jupyterhub-team-meetings-to-become-more-collaborative-spaces-b713edadf15)
-- [_The Turing Way_ Collaboration Café guide](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html)
+- [_The Turing Way_ Collaboration Café guide](https://book.the-turing-way.org/community-handbook/community-calls/community-calls-collabcafe/)
 
 ## Quick info
 
