@@ -23,9 +23,7 @@ def docs(session):
 
     session.install("-r", os.path.join(source_dir, "requirements.txt"))
 
-    if "live" in session.posargs or (
-        session.interactive and "only-build" not in session.posargs
-    ):
+    if "live" in session.posargs:
         # For live preview, sphinx-autobuild is used.
         # To avoid sphinx-autobuild be missing,
         # sphinx-autobuild is installed explicitly.
