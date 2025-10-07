@@ -8,9 +8,10 @@ from jsonschema import validate
 
 # Set filepath to participants data file
 data_path = Path(__file__).resolve().parent
+generated_output = data_path.parent / "generated"
 participants_data_file = data_path.joinpath("outreachy_participants.json")
 participants_schema_file = data_path.joinpath("outreachy_participants.schema.json")
-output_path = data_path.joinpath("outreachy_participants.txt")
+output_path = generated_output.joinpath("outreachy_participants.txt")
 
 # Read in json defining Outreachy participants
 with open(participants_data_file) as f:
