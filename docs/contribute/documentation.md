@@ -24,11 +24,7 @@ It is similar to `Make`, but with a Python configuration and with local build en
 
 `nox` is configured with [a file called `noxfile.py`](https://nox.thea.codes/en/stable/config.html).
 
-**To install `nox`**, run this command:
-
-```bash
-pip install nox
-```
+**To install `nox`**, follow the [steps in Nox's documentation](https://nox.thea.codes/en/stable/tutorial.html#installation).
 
 **To see a list of available commands**, run
 
