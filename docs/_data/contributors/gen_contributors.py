@@ -8,7 +8,9 @@ from yaml import safe_load
 
 # Load data that we'll use for the table
 path_data = Path(__file__).parent
+path_output = path_data.parent / "generated"
 path_contributor_data = path_data / "contributors-jupyterhub.yaml"
+path_output_contributor_data = path_output / "contributors-jupyterhub.txt"
 contributors = safe_load(path_contributor_data.read_text())
 keyvals = pd.read_csv(path_data / "contributor_key.csv", index_col=0)
 
@@ -109,4 +111,4 @@ snippet += f"\n{inactive}\n{'^' * len(inactive)}\n\n"
 snippet += ", ".join(map(_short_contributor, inactive_contributors))
 
 # Write a snippet that we will include in our docs
-path_contributor_data.with_suffix(".txt").write_text(snippet + "\n")
+path_output_contributor_data.write_text(snippet + "\n")
