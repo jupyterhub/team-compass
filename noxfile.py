@@ -27,7 +27,7 @@ def docs(session):
         cmd = ["sphinx-autobuild"]
 
         # Add relative paths to this if we ever need to ignore them
-        autobuild_ignore = [output_dir, data_dir]
+        autobuild_ignore = [output_dir, os.path.join(data_dir, "generated")]
 
         for folder in autobuild_ignore:
             cmd.extend(["--ignore", f"*/{folder}/*"])
