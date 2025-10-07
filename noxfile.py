@@ -5,7 +5,7 @@ import nox
 nox.options.reuse_existing_virtualenvs = True
 
 
-@nox.session(python="3.13", default=False)
+@nox.session(default=False)
 def docs(session):
     """
     Build the documentation and, optionally with '-- live', run a web server. 
