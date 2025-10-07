@@ -1,4 +1,3 @@
-import glob
 import os.path
 
 import nox
@@ -11,17 +10,14 @@ def docs(session):
     """
     Build the documentation.
     """
-    sphinx_config_files = glob.glob("./docs/**/conf.py", recursive=True)
-    sphinx_config = sphinx_config_files[0]
-    source_dir = os.path.dirname(sphinx_config)
-    if source_dir.find("source") == -1:
-        output_dir = os.path.join(source_dir, "_build/html")
-    else:
-        output_dir = os.path.join(os.path.dirname(source_dir), "_build/html")
+    docs_dir = "docs"
+    source_dir = os.path.join(docs_dir, "")  # where conf.py is located
+    data_dir = os.path.join(source_dir, "_data")
+    output_dir = os.path.join(docs_dir, "_build")
+
+    session.install("-r", os.path.join(docs_dir, "requirements.txt"))
 
     doc_build_default_args = ["-b", "dirhtml", source_dir, output_dir]
-
-    session.install("-r", os.path.join(source_dir, "requirements.txt"))
 
     if "live" in session.posargs:
         # For live preview, sphinx-autobuild is used.
@@ -31,9 +27,9 @@ def docs(session):
         cmd = ["sphinx-autobuild"]
 
         # Add relative paths to this if we ever need to ignore them
-        AUTOBUILD_IGNORE = [output_dir]
+        autobuild_ignore = [output_dir, data_dir]
 
-        for folder in AUTOBUILD_IGNORE:
+        for folder in autobuild_ignore:
             cmd.extend(["--ignore", f"*/{folder}/*"])
 
         cmd.extend(doc_build_default_args)
