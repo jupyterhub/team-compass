@@ -9,7 +9,14 @@ Here is the current JupyterHub team (listed alphabetically, with affiliation, an
 
 **Min Ragan-Kelley** acts as the team lead for the JupyterHub organization.
 
-```{contributors}
+## Active members
+
+```{team}
+```
+
+## Inactive members
+
+```{alumni}
 ```
 
 (emoji-keys)=
@@ -32,5 +39,5 @@ internships with us. This includes the interns themselves who worked with us to
 improve JupyterHub, and the community members that donated their time and skills
 as mentors, coordinators and volunteers.
 
-```{include} ../_data/generated/outreachy_participants.txt
+```{outreachy}
 ```
