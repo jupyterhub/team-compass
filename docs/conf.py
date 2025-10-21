@@ -13,7 +13,8 @@ extensions = [
     "sphinxext.rediraffe",
     "myst_parser",
     # Our own single use extensions
-    "contributors",
+    "alumni",
+    "team",
 ]
 templates_path = []
 source_suffix = [".rst", ".md"]
@@ -89,15 +90,9 @@ rediraffe_redirects = {
     "team/member-guide": "index-team_policies",
     "team/repository-code-standards": "practices/repository-code-standards",
     "team/shared-infrastructure": "resources/shared-infrastructure",
-
     # Redirects added 2022-11-28
     # ref: https://github.com/jupyterhub/team-compass/pull/593
     "practices/talking": "practices/external-communication",
-
     # Add additional redirects below if you relocate documents
     # "old/folder/old-file": "new-folder/new-file",
 }
-
-def setup(app):
-    # So that we can label and reference with {team}
-    app.add_crossref_type("team", "team")
