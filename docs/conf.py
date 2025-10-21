@@ -14,6 +14,7 @@ extensions = [
     "myst_parser",
     # Our own single use extensions
     "alumni",
+    "outreachy",
     "team",
 ]
 templates_path = []
