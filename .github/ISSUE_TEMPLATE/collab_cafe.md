@@ -25,4 +25,4 @@ Please collect in this thread :point_down:
 * ...
 * *(an activity that unblocks you and makes you a happy contributor to the project!)*
 
-We might not be able to cover all of the requests, but the earlier you add them the more likely we can line up the right people to get you to an answer 💪:star2:
+We might not be able to cover all of the requests, but the earlier you add them the more likely we can line up the right people to get you to an answer 💪🌟
