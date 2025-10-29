@@ -1,4 +1,9 @@
-#!/usr/bin/env python3
+import sys
+import os
+
+# We maintained our own single use extensions
+# that need to be included in the Python search path.
+sys.path.append(os.path.abspath("./_ext"))
 
 # -- General configuration ------------------------------------------------
 extensions = [
@@ -7,6 +12,10 @@ extensions = [
     "sphinx.ext.mathjax",
     "sphinxext.rediraffe",
     "myst_parser",
+    # Our own single use extensions
+    "alumni",
+    "outreachy",
+    "team",
 ]
 templates_path = []
 source_suffix = [".rst", ".md"]
@@ -59,12 +68,6 @@ myst_enable_extensions = [
 # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#linkify
 myst_linkify_fuzzy_links = False
 
-# -- Update contributor lists --------------------------------------------
-
-from subprocess import run
-
-run(["python", "_data/contributors/gen_contributors.py"], check=True)
-run(["python", "_data/outreachy/outreachy_participants.py"], check=True)
 
 # -- Options for the rediraffe extension -------------------------------------
 # ref: https://github.com/wpilibsuite/sphinxext-rediraffe#readme
@@ -88,15 +91,9 @@ rediraffe_redirects = {
     "team/member-guide": "index-team_policies",
     "team/repository-code-standards": "practices/repository-code-standards",
     "team/shared-infrastructure": "resources/shared-infrastructure",
-
     # Redirects added 2022-11-28
     # ref: https://github.com/jupyterhub/team-compass/pull/593
     "practices/talking": "practices/external-communication",
-
     # Add additional redirects below if you relocate documents
     # "old/folder/old-file": "new-folder/new-file",
 }
-
-def setup(app):
-    # So that we can label and reference with {team}
-    app.add_crossref_type("team", "team")
