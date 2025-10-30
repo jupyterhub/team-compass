@@ -17,16 +17,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: |
-          pip install python-dateutil
-
-      - name: Create an issue with the documentation review checklist 
-        # Skip this step if there is no Thursday, i.e. only four Thursdays in a month
-        if: ${{ steps.target-date.outputs.date != '' }}
+      - name: Create an issue with the team compass review checklist 
         id: create-innovation
         uses: JasonEtco/create-an-issue@v2
         with:
-          filename: .github/ISSUE_TEMPLATE/documentation_checklist.md
+          filename: .github/ISSUE_TEMPLATE/team_compass_checklist.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
