@@ -4,10 +4,15 @@ about: Provide a checklist
 title: "Team Compass Quarterly Review"
 ---
 # Team Compass Review 
-This is an issue which is opened automatically every quarter 
+This is an issue which is opened automatically every quarter as a reminder to the JupyterHub project to review the Team Compass, maintained in this repository, and update any aspects of the documentation which need updating to reflect current project practices. 
+
+**Why is this important?**
+Making sure the projects' documentation is up to date helps with onboarding new members, maintaining governance, improving operational efficacy, and supporting institutional memory. 
 
 # How to use 
-_You can also c
+Assign yourself to this issue, or ask other contributors to assign themselves. 
+Take a section at a time and work through the checklist, checking off the different aspects on the checklist. 
+
 
 ## Team Information
 ### Team Roster
