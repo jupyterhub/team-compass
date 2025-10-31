@@ -2,6 +2,8 @@
 name: Team Compass Review Checklist
 about: Provide a checklist 
 title: "Team Compass Quarterly Review"
+labels: documentation, help-wanted
+assignees: ''
 ---
 # Team Compass Review 
 This is an issue which is opened automatically every quarter as a reminder to the JupyterHub project to review the Team Compass, maintained in this repository, and update any aspects of the documentation which need updating to reflect current project practices. 
