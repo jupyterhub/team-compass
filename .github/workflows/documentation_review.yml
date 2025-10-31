@@ -21,6 +21,6 @@ jobs:
         id: create-innovation
         uses: JasonEtco/create-an-issue@v2
         with:
-          filename: .github/ISSUE_TEMPLATE/team_compass_checklist.md
+          filename: .github/team_compass_checklist.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
