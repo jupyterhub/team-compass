@@ -2,7 +2,7 @@
 name: Team Compass Review Checklist
 about: Provide a checklist 
 title: "Team Compass Quarterly Review"
-labels: documentation, help-wanted
+labels: documentation, help wanted
 assignees: ''
 ---
 # Team Compass Review 
