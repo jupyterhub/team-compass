@@ -97,6 +97,21 @@
     - health
   last-check-in: 2022-09
 
+- name: Raniere Silva
+  handle: rgaiacs
+  affiliation: GESIS Leibniz Institute for the Social Sciences
+  contributions: code,infra
+  focus: binder
+  teams:
+    - binder
+
+- name: Kirstie Whitaker 
+  handle: kirstiejane
+  affiliation: University of California, Berkeley
+  contributions: Open Source Governance,Leadership and strategic planning, vision
+  focus: jupyterhub, binder
+  teams: []
+
 - name: Ida Sim
   handle: idasim
   affiliation: UCSF, UC Berkeley
