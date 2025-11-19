@@ -1,0 +1,15 @@
+# From https://github.com/marketplace/actions/close-matching-issues
+name: Close a release pulse reminder after 7 days it was created
+on:
+  schedule:
+  # At 00:00 on day-of-month 8 in every 3rd month (ref: https://crontab.guru/#0_0_8_*/3_*)
+  - cron: "0 0 8 */3 *"
+
+jobs:
+  close-release-pulse-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lee-dohm/close-matching-issues@v2
+        with:
+          query: 'label:release-pulse'
+          token: ${{ secrets.GITHUB_TOKEN }}
