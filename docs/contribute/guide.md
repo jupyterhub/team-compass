@@ -92,7 +92,7 @@ To get oriented with a specific repository's needs and process around making new
 contributions, look for a **repository-specific contributing guide**. This often
 comes in the form of a **`CONTRIBUTING.md`** file, or a section of the documentation.
 
-For example, [here is the `CONTRIBUTING.md` file for Zero to JupyterHub](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/master/CONTRIBUTING.md).
+For example, [here is the `CONTRIBUTING.md` file for Zero to JupyterHub](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/main/CONTRIBUTING.md).
 Note that it covers some of the tools you'll need for testing and developing the code,
 which are not necessarily needed for the *other* JupyterHub repositories.
 
@@ -113,9 +113,9 @@ You're awesome. 👋🏻😊🦄
 
 [link_helpwanted]: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Ajupyterhub+archived%3Afalse+label%3A%22help+wanted%22+sort%3Aupdated-desc+
 [link_goodfirstissue]: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Ajupyterhub+archived%3Afalse+label%3A%22good+first+issue%22+sort%3Aupdated-desc+
-[link_coc]: https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md
+[link_coc]: https://github.com/jupyter/governance/blob/main/docs/conduct/code_of_conduct.md
 [link_git]: https://git-scm.com
-[link_github]: https://github.com/https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md
+[link_github]: https://github.com/jupyter/governance/blob/main/docs/conduct/code_of_conduct.md
 [link_signupinstructions]: https://help.github.com/articles/signing-up-for-a-new-github-account
 [link_stemmrolemodels]: https://github.com/KirstieJane/STEMMRoleModels
 [markdown]: https://daringfireball.net/projects/markdown
