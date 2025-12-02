@@ -10,7 +10,7 @@ on:
 
 jobs:
   create_issue:
-    name: Creat documentation review checklist reminder  
+    name: Create documentation review checklist reminder  
     runs-on: ubuntu-latest
 
     steps:
