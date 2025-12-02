@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 7e8c2a5a-50e9-4ead-84a3-8d855a6b7e2d
+  title: Team Compass
+  # description:
+  # keywords: []
+  authors: JupyterHub Team and Binder Team
+  github: https://github.com/jupyterhub/team-compass
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  options:
+    favicon: _static/favicon.png
+  #   logo: site_logo.png
