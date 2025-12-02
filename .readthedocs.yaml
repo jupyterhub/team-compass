@@ -10,10 +10,10 @@ build:
     python: "3.14"
     nodejs: "24"
   jobs:
+    install:
+      - pip install jupyter-book=2
     build:
       html:
-        - echo "Building HTML"
         - mkdir -p $READTHEDOCS_OUTPUT/html/
-
-conda:
-  environment: docs/environment.yaml
+        - cd docs/ && BASE_URL="/$READTHEDOCS_VERSION" jupyter book build --html
+        - cp -a docs/_build/html/. "$READTHEDOCS_OUTPUT/html"
