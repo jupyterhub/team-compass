@@ -11,7 +11,7 @@ build:
     nodejs: "24"
   jobs:
     install:
-      - pip install jupyter-book=2
+      - pip install jupyter-book==2
     build:
       html:
         - mkdir -p $READTHEDOCS_OUTPUT/html/
