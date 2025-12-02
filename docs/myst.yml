@@ -8,6 +8,164 @@ project:
   authors: JupyterHub Team and Binder Team
   github: https://github.com/jupyterhub/team-compass
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: index.md
+    - title: Our Team
+      file: team/index.md
+    - title: Policies and standards
+      file: index-team_policies.md
+      children:
+        - title: Governance and structure
+          children:
+            - file: governance.md
+            - file: binder/subdomains.md
+            - file: team/structure.md
+            - url: https://jupyter.org/governance/conduct/code_of_conduct.html
+              title: Jupyter Code of Conduct
+        - title: Team practices
+          children:
+            - file: practices/communication.md
+            - file: practices/external-communication.md
+            - file: practices/adding-members.md
+            - file: practices/check-ins.md
+            - file: practices/funding.md
+        - title: Technical practices
+          children:
+            - file: practices/pull_requests.md
+            - file: practices/repository-code-standards.md
+            - file: practices/releases.md
+            - file: practices/readme-badges.md
+    - title: Contributor resources
+      file: index-team_guides.md
+      children:
+        - title: Contributor guide
+          children:
+            - file: contribute/guide.md
+              title: Get started contributing
+            - file: contribute/skills.md
+              title: Useful skills and ways to contribute
+            - file: contribute/documentation.md
+              title: Writing documentation
+            - file: contribute/repository-info.md
+        - title: Team information
+          children:
+            - file: resources/binder-infrastructure.md
+            - file: resources/community-strategy.md
+            - file: resources/milestones.md
+            - file: resources/shared-infrastructure.md
+            - title: Team meetings and notes
+              file: meetings/index.md
+              children:
+                - title: Collab Cafe
+                  children:
+                    - file: meetings/collab-cafe/index.md
+                    - file: meetings/collab-cafe/2023.md
+                    - file: meetings/collab-cafe/2024.md
+                    - file: meetings/collab-cafe/2025.md
+                    - file: meetings/collab-cafe/facilitator-checklist.md
+                - title: Community
+                  children:
+                    - file: meetings/community/index.md
+                    - file: meetings/community/2018-01-04_report.md
+                    - file: meetings/community/2018-02-08.md
+                    - file: meetings/community/2018-03-21.md
+                    - file: meetings/community/2018-04-26.md
+                    - file: meetings/community/2018-05-28.md
+                    - file: meetings/community/2018-07-19.md
+                    - file: meetings/community/2018-08-09.md
+                    - file: meetings/community/2018-09-20.md
+                    - file: meetings/community/2018-10-18.md
+                    - file: meetings/community/2018-11-15.md
+                    - file: meetings/community/2018-12-20.md
+                    - file: meetings/community/2019-01-17.md
+                    - file: meetings/community/2019-02-21.md
+                    - file: meetings/community/2019-03-21.md
+                    - file: meetings/community/2019-04-11.md
+                    - file: meetings/community/2019-05-16.md
+                    - file: meetings/community/2019-06-19.md
+                    - file: meetings/community/2019-07-18.md
+                    - file: meetings/community/2019-08-15.md
+                    - file: meetings/community/2019-09-19.md
+                    - file: meetings/community/2019-10-17.md
+                    - file: meetings/community/2019-11-21.md
+                    - file: meetings/community/2019-12-19.md
+                    - file: meetings/community/2020-01-16.md
+                    - file: meetings/community/2020-02-20.md
+                    - file: meetings/community/2020-03-19.md
+                    - file: meetings/community/2020-04-16.md
+                    - file: meetings/community/2020-05-21.md
+                    - file: meetings/community/2020-06-18.md
+                    - file: meetings/community/2020-07-16.md
+                    - file: meetings/community/2020-08-20.md
+                    - file: meetings/community/2020-09-17.md
+                    - file: meetings/community/2020-10-22.md
+                    - file: meetings/community/2020-11-19.md
+                    - file: meetings/community/2020-12-17.md
+                    - file: meetings/community/2021-01-21.md
+                    - file: meetings/community/2021-02-18.md
+                    - file: meetings/community/2021-03-18.md
+                    - file: meetings/community/2021-04-15.md
+                    - file: meetings/community/2021-05-20.md
+                    - file: meetings/community/2021-06-17.md
+                    - file: meetings/community/2021-07-15.md
+                    - file: meetings/community/2021-08-19.md
+                    - file: meetings/community/2021-09-16.md
+                    - file: meetings/community/2021-11-18.md
+                    - file: meetings/community/2021-12-16.md
+                    - file: meetings/community/2022-01-20.md
+                    - file: meetings/community/2022-02-17.md
+                    - file: meetings/community/2022-03-17.md
+                    - file: meetings/community/2022-04-21.md
+                    - file: meetings/community/2022-05-19.md
+                    - file: meetings/community/2022-07-19.md
+                    - file: meetings/community/2022-08-16.md
+                    - file: meetings/community/2022-09-20.md
+                    - file: meetings/community/2022-11-15.md
+                    - file: meetings/community/2023-01-17.md
+                    - file: meetings/community/2023-02-21.md
+                    - file: meetings/community/2023-09-29-maintenance-planning.md
+                    - file: meetings/community/monthly-meeting-template.md
+                - title: HPC
+                  children:
+                    - file: meetings/hpc/index.md
+                    - file: meetings/hpc/2020-11-04.md
+                    - file: meetings/hpc/2020-12-02.md
+                    - file: meetings/hpc/2021-02-03.md
+                    - file: meetings/hpc/2021-03-03.md
+                    - file: meetings/hpc/2021-04-07.md
+                    - file: meetings/hpc/2021-05-04.md
+                    - file: meetings/hpc/2021-06-02.md
+                    - file: meetings/hpc/2021-07-07.md
+                    - file: meetings/hpc/2021-08-04.md
+                    - file: meetings/hpc/2021-10-06.md
+                    - file: meetings/hpc/2021-11-03.md
+                    - file: meetings/hpc/2021-12-01.md
+                    - file: meetings/hpc/2022-01-05.md
+                    - file: meetings/hpc/2022-02-02.md
+                    - file: meetings/hpc/2022-03-02.md
+                    - file: meetings/hpc/2022-04-06.md
+                    - file: meetings/hpc/2022-05-04.md
+                    - file: meetings/hpc/2022-06-01.md
+                    - file: meetings/hpc/2022-07-06.md
+                    - file: meetings/hpc/2022-08-03.md
+                    - file: meetings/hpc/2022-09-07.md
+                    - file: meetings/hpc/2022-10-05.md
+                    - file: meetings/hpc/2022-11-02.md
+                    - file: meetings/hpc/2022-12-07.md
+                    - file: meetings/hpc/2023-01-04.md
+                    - file: meetings/hpc/2023-02-01.md
+                    - file: meetings/hpc/2023-03-01.md
+                    - file: meetings/hpc/2023-04-05.md
+                    - file: meetings/hpc/2023-05-03.md
+                    - file: meetings/hpc/2023-06-07.md
+                    - file: meetings/hpc/2023-07-05.md
+                    - file: meetings/hpc/2023-08-02.md
+                    - file: meetings/hpc/2023-09-06.md
+                    - file: meetings/hpc/2023-11-01.md
+                    - file: meetings/hpc/2023-12-06.md
+                - title: Weekly Reports
+                  children:
+                    - file: meetings/weekly-reports/archive.md
 site:
   template: book-theme
   options:
