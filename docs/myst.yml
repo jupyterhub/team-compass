@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 69c04b0d-c275-44c2-bae8-a1c8b1199faa
+  title: "Team Compass"
+  # description:
+  # keywords: []
+  authors:
+    - "JupyterHub Team"
+    - "Binder Team"
+  github: https://github.com/jupyterhub/team-compass
+  toc:
+    - file: index.md
+site:
+  template: book-theme
+  options:
+    favicon: img/favicon.png
+    logo: img/logo.png
