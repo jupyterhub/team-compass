@@ -15,5 +15,5 @@ build:
     build:
       html:
         - mkdir -p $READTHEDOCS_OUTPUT/html/
-        - cd docs/ && BASE_URL="/$READTHEDOCS_VERSION" jupyter book build --html
+        - cd docs/ && jupyter book build --html
         - cp -a docs/_build/html/. "$READTHEDOCS_OUTPUT/html"
