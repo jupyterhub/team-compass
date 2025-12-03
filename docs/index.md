@@ -68,4 +68,4 @@ the burden and success.
 
 ## Code of Conduct
 
-The JupyterHub community follows the broader [Jupyter Community's Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md).
+The JupyterHub community follows the broader [Jupyter Community's Code of Conduct](https://github.com/jupyter/governance/blob/main/docs/conduct/code_of_conduct.md).
