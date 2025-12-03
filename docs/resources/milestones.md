@@ -25,7 +25,7 @@ Below are links for the upcoming **milestones** and **roadmaps** in several repo
 
 ## [jupyterhub](https://github.com/jupyter/repo2docker)
 
-- [roadmap](https://github.com/jupyterhub/jupyterhub/blob/master/docs/source/contributing/roadmap.md)
+- [roadmap](https://github.com/jupyterhub/jupyterhub/blob/main/docs/source/contributing/roadmap.md)
 - [milestones](https://github.com/jupyterhub/jupyterhub/milestones?direction=asc&sort=due_date)
 
 ## [BinderHub](https://github.com/jupyterhub/binderhub)
@@ -42,5 +42,5 @@ Below are links for the upcoming **milestones** and **roadmaps** in several repo
 
 ## [repo2docker](https://github.com/jupyter/repo2docker)
 
-- [roadmap](https://github.com/jupyter/repo2docker/blob/master/docs/source/contributing/roadmap.md)
+- [roadmap](https://github.com/jupyter/repo2docker/blob/main/docs/source/contribute/roadmap.md)
 - [milestones](https://github.com/jupyter/repo2docker/milestones)
