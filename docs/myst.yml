@@ -69,5 +69,6 @@ project:
 site:
   template: book-theme
   options:
+    folders: true
     favicon: img/favicon.png
     logo: img/logo.png
