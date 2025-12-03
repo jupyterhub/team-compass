@@ -34,7 +34,7 @@ Here are the relevant chat links:
 
 To support our efforts in organizing the communication channels and make the
 transition easier for both developers and users, we have plugged into the repositories
-of the JupyterHub organization a [support bot](https://github.com/jupyterhub/.github/blob/main/.github/support.yml.
+of the JupyterHub organization a [support bot](https://github.com/jupyterhub/.github/blob/main/.github/support.yml).
 
 ---
 Currently, the bot will only check the following repositories:
