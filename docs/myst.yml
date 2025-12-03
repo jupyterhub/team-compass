@@ -13,7 +13,6 @@ project:
     - file: index.md
     - file: team/index.md
     - title: Policies and standards
-      file: index-team_policies.md
       children:
         - title: Governance and structure
           children:
@@ -36,7 +35,6 @@ project:
             - file: practices/releases.md
             - file: practices/readme-badges.md
     - title: Contributor resources
-      file: index-team_guides.md
       children:
         - title: Contributor guide
           children:
@@ -53,26 +51,20 @@ project:
             - file: resources/community-strategy.md
             - file: resources/milestones.md
             - file: resources/shared-infrastructure.md
-            - title: Team meetings and notes
-              file: meetings/index.md
+            - file: meetings/index.md
               children:
-                - title: Collab Cafe
+                - file: meetings/collab-cafe/index.md
                   children:
-                    - file: meetings/collab-cafe/index.md
-                    - file: meetings/collab-cafe/*
+                    - pattern: "meetings/collab-cafe/*.md"
                     - file: meetings/collab-cafe/facilitator-checklist.md
-                - title: Community
+                - file: meetings/community/index.md
                   children:
-                    - file: meetings/community/index.md
-                    - file: meetings/community/*
+                    - pattern: "meetings/community/*.md"
                     - file: meetings/community/monthly-meeting-template.md
-                - title: HPC
+                - file: meetings/hpc/index.md
                   children:
-                    - file: meetings/hpc/index.md
-                    - file: meetings/hpc/*
-                - title: Weekly Reports
-                  children:
-                    - file: meetings/weekly-reports/archive.md
+                    - pattern: "meetings/hpc/*.md"
+                - file: meetings/weekly-reports/archive.md
 
 site:
   template: book-theme
