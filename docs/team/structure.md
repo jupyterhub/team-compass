@@ -262,7 +262,7 @@ For members of **Maintainers**, the **Steering Council** , and **the mybinder.or
 
 If at any time a team member feels that they would
 like to take a break from active team membership, they're can choose
-to be inactive by making a pull request to the [JupyterHub team membership database](https://github.com/jupyterhub/team-compass/blob/master/docs/team/contributors-jupyterhub.yaml).
+to be inactive by making a pull request to the [JupyterHub team membership database](https://github.com/jupyterhub/team-compass/blob/main/docs/_data/contributors/contributors-jupyterhub.yaml).
 
 Any team members that step down are considered "inactive".
 This means they no longer commit to the responsibilities of their previous team, but they retain their JupyterHub Team Membership status for life.
