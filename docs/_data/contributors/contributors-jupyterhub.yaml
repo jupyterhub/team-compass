@@ -69,7 +69,7 @@
 
 - name: Yuvi Panda
   handle: "yuvipanda"
-  affiliation: UC Berkeley
+  affiliation: 2i2c
   contributions: "code,infra"
   focus: jupyterhub
   teams:
