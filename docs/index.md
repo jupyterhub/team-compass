@@ -32,18 +32,6 @@ Click this box to jump in!
 We use **[GitHub issues in `jupyterhub/team-compass`](https://github.com/jupyterhub/team-compass/issues)**
 to discuss specific, actionable things related to the *team* (e.g., discussing whether to change something in the team-compass repo).
 
-The following pages contain information about the JupyterHub/Binder
-teams, resources for community members, and team practices for
-governance and planning.
-
-```{toctree}
-:maxdepth: 2
-
-team/index
-index-team_policies
-index-team_guides
-```
-
 ## Why have a Team Compass?
 
 This repository helps the JupyterHub team and Binder team align on our structure, policy, and goals.
