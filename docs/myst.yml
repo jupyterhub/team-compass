@@ -11,6 +11,69 @@ project:
   github: https://github.com/jupyterhub/team-compass
   toc:
     - file: index.md
+    - file: team/index.md
+    - title: Policies and standards
+      file: index-team_policies.md
+      children:
+        - title: Governance and structure
+          children:
+            - file: governance.md
+            - file: binder/subdomains.md
+            - file: team/structure.md
+            - url: https://jupyter.org/governance/conduct/code_of_conduct.html
+              title: Jupyter Code of Conduct
+        - title: Team practices
+          children:
+            - file: practices/communication.md
+            - file: practices/external-communication.md
+            - file: practices/adding-members.md
+            - file: practices/check-ins.md
+            - file: practices/funding.md
+        - title: Technical practices
+          children:
+            - file: practices/pull_requests.md
+            - file: practices/repository-code-standards.md
+            - file: practices/releases.md
+            - file: practices/readme-badges.md
+    - title: Contributor resources
+      file: index-team_guides.md
+      children:
+        - title: Contributor guide
+          children:
+            - file: contribute/guide.md
+              title: Get started contributing
+            - file: contribute/skills.md
+              title: Useful skills and ways to contribute
+            - file: contribute/documentation.md
+              title: Writing documentation
+            - file: contribute/repository-info.md
+        - title: Team information
+          children:
+            - file: resources/binder-infrastructure.md
+            - file: resources/community-strategy.md
+            - file: resources/milestones.md
+            - file: resources/shared-infrastructure.md
+            - title: Team meetings and notes
+              file: meetings/index.md
+              children:
+                - title: Collab Cafe
+                  children:
+                    - file: meetings/collab-cafe/index.md
+                    - file: meetings/collab-cafe/*
+                    - file: meetings/collab-cafe/facilitator-checklist.md
+                - title: Community
+                  children:
+                    - file: meetings/community/index.md
+                    - file: meetings/community/*
+                    - file: meetings/community/monthly-meeting-template.md
+                - title: HPC
+                  children:
+                    - file: meetings/hpc/index.md
+                    - file: meetings/hpc/*
+                - title: Weekly Reports
+                  children:
+                    - file: meetings/weekly-reports/archive.md
+
 site:
   template: book-theme
   options:
