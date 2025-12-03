@@ -1,10 +1,3 @@
-# teams:
-# - council: JupyterHub council
-# - maintainers:
-# - mybinder: mybinder.org operators
-# no team means inactive
-
-# Use ALPHABETICAL ORDER please :-)
 - name: Damian Avila
   handle: "damianavila"
   affiliation: Project Jupyter, 2i2c and UMSI
