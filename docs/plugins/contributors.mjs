@@ -28,6 +28,7 @@ function parseYAML(yamlContent) {
       current[currentKey] = currentValue.trim();
     }
   }
+  result.push(current);
   return result;
 }
 
@@ -38,6 +39,7 @@ function renderCards(contributors, status) {
   .map(item => {
     return {
       type: "card",
+      url: `https://github.com/${item.handle.replace(/"/g, '').trim()}`,
       children:  [
         {
           type: "header",
@@ -47,16 +49,50 @@ function renderCards(contributors, status) {
               value: item.name
             }
           ]
-        },        
+        },
+        {
+          type: "image",
+          url: `https://github.com/${item.handle.replace(/"/g, '').trim()}.png?size=200`,
+          alt: `Avatar for ${item.name}`
+        },
+        {
+          type: "paragraph",
+          children: [
+            {
+              type: "link",
+              url: `https://github.com/${item.handle.replace(/"/g, '').trim()}`,
+              children: [
+                {
+                  type: "text",
+                  value: `@${item.handle.replace(/"/g, '').trim()}`
+                }
+              ]
+            },
+          ]
+        },
         {
           type: "paragraph",
           children: [
             {
               type: "text",
-              value: item.teams.join(", ")
+              value: item.focus
             }
           ]
         },
+        {
+          type: "paragraph",
+          children: [
+            {
+              type: "strong",
+              children: [
+                {
+                  type: "text",
+                  value: item.teams.join(", ")
+                }
+              ]
+            }
+          ]
+        },        
         {
           type: "footer",
           children: [
