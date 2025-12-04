@@ -10,7 +10,7 @@ project:
     - "Binder Team"
   github: https://github.com/jupyterhub/team-compass
   plugins:
-    - plugins/contributors.mjs # take a look at the alumni one first
+    - plugins/contributors.mjs
   toc:
     - file: index.md
     - file: team/index.md
