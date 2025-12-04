@@ -55,6 +55,7 @@
   focus: jupyterhub, health
   teams:
     - health
+  status: active
   last-check-in: 2025-01
 
 - name: Yuvi Panda
@@ -129,6 +130,16 @@
   status: active
   last-check-in: 2022-09
 
+- name: Rick Wagner
+  handle: "rpwagner"
+  affiliation: Jupyter Security
+  contributions: security
+  focus: Security
+  teams:
+    - security
+  status: active
+  last-check-in: 2024-05
+
 - name: Kirstie Whitaker 
   handle: kirstiejane
   affiliation: University of California, Berkeley
@@ -156,16 +167,6 @@
     - health
   status: active
   last-check-in: 2025-01
-
-- name: Rick Wagner
-  handle: "rpwagner"
-  affiliation: Jupyter Security
-  contributions: security
-  focus: Security
-  teams:
-    - security
-  status: active
-  last-check-in: 2024-05
 
 - name: Matthias Busonnier
   handle: "carreau"
