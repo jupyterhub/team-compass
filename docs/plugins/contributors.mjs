@@ -1,6 +1,5 @@
 import fs from "fs";
 
-
 function parseYAML(yamlContent) {
   const lines = yamlContent.split("\n");
   const result = [];
@@ -30,6 +29,18 @@ function parseYAML(yamlContent) {
     }
   }
   return result;
+}
+
+
+function renderCards(contributors, status, ctx) {
+  const output = contributors.map(item => {
+    const mdString = `:::{card}
+    ${item.name}
+    :::`
+    const node = ctx.parseMyst(mdString).children[0];
+    return node;
+  });
+  return output;
 }
 
 
@@ -73,7 +84,7 @@ const contributorsDirective = {
     status: { type: String, doc: "Display 'active' or 'inactive' contributors", required: true},
     render: { type: String, doc: "Type of rendering: 'cards', 'list' or 'text'", default: "text" },
   },
-  run(data) {
+  run(data, _vfile, ctx) {
     const yamlPath = data.arg;
     let yamlContent;
     try {
@@ -83,18 +94,20 @@ const contributorsDirective = {
     }
 
     const contributors = parseYAML(yamlContent);
-    console.log(contributors);
 
     let output;
-    if (data.options.render === 'list') {
-      output = renderList(contributors, data.options.status);
+    if (data.options.render === 'cards') {
+      output = renderCards(contributors, data.options.status, ctx);
+      return [{ type: "container", children: output }];
     } else if (data.options.render === 'text') {
       output = renderText(contributors, data.options.status);
+      return [{ type: "html", value: output }];
+    } else if (data.options.render === 'list') {
+      output = renderList(contributors, data.options.status);      
+      return [{ type: "html", value: output }];
     } else {
       throw new Error(`Unknown render option: ${data.options.render}`);
     }
-
-    return [{ type: "html", value: output }];
   },
 };
 
