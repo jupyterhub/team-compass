@@ -11,7 +11,7 @@ Here is the current JupyterHub team (listed alphabetically, with affiliation, an
 
 ```{contributors} _data/contributors/contributors-jupyterhub.yaml
 :status: active
-:render: list
+:render: cards
 ```
 
 ## Inactive team members
