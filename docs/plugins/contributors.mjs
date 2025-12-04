@@ -32,13 +32,42 @@ function parseYAML(yamlContent) {
 }
 
 
-function renderCards(contributors, status, ctx) {
-  const output = contributors.map(item => {
-    const mdString = `:::{card}
-    ${item.name}
-    :::`
-    const node = ctx.parseMyst(mdString).children[0];
-    return node;
+function renderCards(contributors, status) {
+  const output = contributors
+  .filter(item => item.status === status)
+  .map(item => {
+    return {
+      type: "card",
+      children:  [
+        {
+          type: "header",
+          children: [
+            {
+              type: "text",
+              value: item.name
+            }
+          ]
+        },        
+        {
+          type: "paragraph",
+          children: [
+            {
+              type: "text",
+              value: item.teams.join(", ")
+            }
+          ]
+        },
+        {
+          type: "footer",
+          children: [
+            {
+              type: "text",
+              value: item.affiliation
+            }
+          ]
+        },            
+      ]
+    }
   });
   return output;
 }
@@ -84,7 +113,7 @@ const contributorsDirective = {
     status: { type: String, doc: "Display 'active' or 'inactive' contributors", required: true},
     render: { type: String, doc: "Type of rendering: 'cards', 'list' or 'text'", default: "text" },
   },
-  run(data, _vfile, ctx) {
+  run(data) {
     const yamlPath = data.arg;
     let yamlContent;
     try {
@@ -97,8 +126,8 @@ const contributorsDirective = {
 
     let output;
     if (data.options.render === 'cards') {
-      output = renderCards(contributors, data.options.status, ctx);
-      return [{ type: "container", children: output }];
+      output = renderCards(contributors, data.options.status);
+      return [{ type: "grid", args: [1, 1, 2, 3], children: output }];
     } else if (data.options.render === 'text') {
       output = renderText(contributors, data.options.status);
       return [{ type: "html", value: output }];
