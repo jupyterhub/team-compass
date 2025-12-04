@@ -4,40 +4,30 @@ import fs from "fs";
 function parseYAML(yamlContent) {
   const lines = yamlContent.split("\n");
   const result = [];
-  let current = null;
+  let current = {};
   let currentKey = null;
+  let currentValue = null;
 
-  for (let line of lines) {
-    line = line.trim();
-    if (line === "") continue;
-
-    if (line.startsWith("- ")) {
-      if (current) result.push(current);
+  for (let rawLine of lines) {
+    const line = rawLine.trim();
+    if (line === "" || line.startsWith("#")) {
+      continue;
+    } else if (line.startsWith("- name:")) {
+      if (Object.keys(current).length !== 0) result.push(current);
       current = {};
-      const rest = line.slice(2).trim();
-      if (rest) {
-        const [key, ...valueParts] = rest.split(":");
-        if (valueParts.length) {
-          current[key.trim()] = valueParts.join(":").trim();
-        }
-      }
-    } else if (line.startsWith("-")) {
-      if (currentKey && Array.isArray(current[currentKey])) {
-        current[currentKey].push(line.slice(1).trim());
-      }
-    } else if (line.includes(":")) {
-      const [key, ...valueParts] = line.split(":");
-      const value = valueParts.join(":").trim();
-      if (value === "") {
-        currentKey = key.trim();
-        current[currentKey] = [];
-      } else {
-        current[key.trim()] = value;
-        currentKey = null;
-      }
+    }
+    if (line.includes("teams:")) {
+      currentKey = "teams";
+      current[currentKey] = [];
+      continue;
+    } else if (line.startsWith("-") && !line.includes(":") &&  currentKey === "teams") {
+      current["teams"].push(line.replace("-", "").trim());
+    } else {
+      currentKey = line.split(":")[0].replace("-", "").trim();
+      currentValue = line.split(":")[1];
+      current[currentKey] = currentValue;
     }
   }
-  if (current) result.push(current);
   return result;
 }
 
@@ -65,11 +55,11 @@ const contributorsDirective = {
           else return `<strong>${k}:</strong> ${v}`;
         })
         .join("\n");
-      return `  <li>${inner}</li>`;
+      return `<li>${inner}</li>`;
     }).join("\n")}
     </ul>`;
 
-    return [{ type: "html", value: output }];
+    return [{ type: "raw", value: `${JSON.stringify(contributors, null, 2)}` }];
   },
 };
 

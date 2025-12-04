@@ -1,3 +1,11 @@
+# teams:
+# - council: JupyterHub council
+# - maintainers:
+# - mybinder: mybinder.org operators
+# no team means inactive
+
+# Use ALPHABETICAL ORDER please :-)
+
 - name: Damian Avila
   handle: "damianavila"
   affiliation: Project Jupyter, 2i2c and UMSI
@@ -15,15 +23,6 @@
   teams:
     - council
   last-check-in: 2022-09
-
-- name: Sarah Gibson
-  handle: "sgibson91"
-  affiliation: ""
-  contributions: question,doc,tutorial,infra,talk,test
-  focus: jupyterhub, binder
-  teams: []
-  last-check-in: 2025-05
-  status: inactive
 
 - name: Chris Holdgraf
   handle: "choldgraf"
@@ -141,7 +140,6 @@
     - health
   last-check-in: 2025-01
 
-# Inactive team members at the end, also alphabetical
 - name: Matthias Busonnier
   handle: "carreau"
   affiliation: UC Merced
@@ -156,6 +154,14 @@
   focus: jupyterhub, binder
   status: inactive
   last-check-in: 2022-09
+
+- name: Sarah Gibson
+  handle: "sgibson91"
+  affiliation: ""
+  contributions: question,doc,tutorial,infra,talk,test
+  focus: jupyterhub, binder
+  status: inactive
+  last-check-in: 2025-05
 
 - name: Tim Head
   handle: "betatim"
