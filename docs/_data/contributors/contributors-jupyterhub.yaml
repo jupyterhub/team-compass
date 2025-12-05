@@ -2,9 +2,12 @@
 # - council: JupyterHub council
 # - maintainers:
 # - mybinder: mybinder.org operators
-# no team means inactive
 
 # Use ALPHABETICAL ORDER please :-)
+
+# Use "status: active/inactive" for active/inactive members
+# Inactive team members at the end, also alphabetical
+
 - name: Damian Avila
   handle: "damianavila"
   affiliation: Project Jupyter, 2i2c and UMSI
@@ -12,6 +15,7 @@
   focus: jupyterhub, binder
   teams:
     - council
+  status: active
   last-check-in: 2022-09
 
 - name: Georgiana Dolocan
@@ -21,16 +25,8 @@
   focus: jupyterhub
   teams:
     - council
+  status: active
   last-check-in: 2022-09
-
-- name: Sarah Gibson
-  handle: "sgibson91"
-  affiliation: ""
-  contributions: question,doc,tutorial,infra,talk,test
-  focus: jupyterhub, binder
-  teams: []
-  last-check-in: 2025-05
-  status: inactive
 
 - name: Chris Holdgraf
   handle: "choldgraf"
@@ -39,15 +35,8 @@
   focus: jupyterhub, binder
   teams:
     - council
+  status: active
   last-check-in: 2022-09
-
-- name: Paul Ivanov
-  handle: "ivanov"
-  affiliation: Project Jupyter
-  contributions: ideas,question
-  focus: jupyterhub, binder
-  teams:
-  last-check-in: 2025-04
 
 - name: Simon Li
   handle: "manics"
@@ -56,6 +45,7 @@
   focus: jupyterhub
   teams:
     - council
+  status: active
   last-check-in: 2022-09
 
 - name: Ryan Lovett
@@ -65,16 +55,18 @@
   focus: jupyterhub, health
   teams:
     - health
+  status: active
   last-check-in: 2025-01
 
 - name: Yuvi Panda
   handle: "yuvipanda"
-  affiliation: UC Berkeley
+  affiliation: 2i2c
   contributions: "code,infra"
   focus: jupyterhub
   teams:
     - council
     - health
+  status: active
   last-check-in: 2022-09
 
 - name: Fernando Pérez
@@ -85,7 +77,18 @@
   teams:
     - council
     - health
+  status: active
   last-check-in: 2022-09
+
+- name: David Qiu
+  handle: "dlqqq"
+  affiliation: AWS
+  contributions: security
+  focus: Security
+  status: active
+  teams:
+    - security
+  last-check-in: 2024-05
 
 - name: Min Ragan-Kelley
   handle: "minrk"
@@ -95,6 +98,7 @@
   teams:
     - council
     - health
+  status: active
   last-check-in: 2022-09
 
 - name: Raniere Silva
@@ -104,13 +108,7 @@
   focus: binder
   teams:
     - binder
-
-- name: Kirstie Whitaker 
-  handle: kirstiejane
-  affiliation: University of California, Berkeley
-  contributions: Open Source Governance,Leadership and strategic planning, vision
-  focus: jupyterhub, binder
-  teams: []
+  status: active
 
 - name: Ida Sim
   handle: idasim
@@ -119,6 +117,7 @@
   focus: health
   teams:
     - health
+  status: active
   last-check-in: 2025-08
 
 - name: Erik Sundell
@@ -128,7 +127,26 @@
   focus: jupyterhub, binder
   teams:
     - council
+  status: active
   last-check-in: 2022-09
+
+- name: Rick Wagner
+  handle: "rpwagner"
+  affiliation: Jupyter Security
+  contributions: security
+  focus: Security
+  teams:
+    - security
+  status: active
+  last-check-in: 2024-05
+
+- name: Kirstie Whitaker 
+  handle: kirstiejane
+  affiliation: University of California, Berkeley
+  contributions: Open Source Governance,Leadership and strategic planning, vision
+  focus: jupyterhub, binder
+  teams: []
+  status: active
 
 - name: Carol Willing
   handle: "willingc"
@@ -137,6 +155,7 @@
   focus: jupyterhub, binder
   teams:
     - council
+  status: active
   last-check-in: 2022-09
 
 - name: Maryam Vareth
@@ -146,9 +165,9 @@
   focus: health
   teams:
     - health
+  status: active
   last-check-in: 2025-01
 
-# Inactive team members at the end, also alphabetical
 - name: Matthias Busonnier
   handle: "carreau"
   affiliation: UC Merced
@@ -163,6 +182,14 @@
   focus: jupyterhub, binder
   status: inactive
   last-check-in: 2022-09
+
+- name: Sarah Gibson
+  handle: "sgibson91"
+  affiliation: ""
+  contributions: question,doc,tutorial,infra,talk,test
+  focus: jupyterhub, binder
+  status: inactive
+  last-check-in: 2025-05
 
 - name: Tim Head
   handle: "betatim"
@@ -180,6 +207,14 @@
   status: inactive
   last-check-in: 2022-09
 
+- name: Paul Ivanov
+  handle: "ivanov"
+  affiliation: Project Jupyter
+  contributions: ideas,question
+  focus: jupyterhub, binder
+  status: inactive
+  last-check-in: 2025-04
+
 - name: M Pacer
   handle: "mpacer"
   affiliation: Netflix
@@ -195,23 +230,3 @@
   focus: binder
   status: inactive
   last-check-in: 2022-09
-
-- name: Rick Wagner
-  handle: "rpwagner"
-  affiliation: Jupyter Security
-  contributions: security
-  focus: Security
-  status: active
-  teams:
-    - security
-  last-check-in: 2024-05
-
-- name: David Qiu
-  handle: "dlqqq"
-  affiliation: AWS
-  contributions: security
-  focus: Security
-  status: active
-  teams:
-    - security
-  last-check-in: 2024-05

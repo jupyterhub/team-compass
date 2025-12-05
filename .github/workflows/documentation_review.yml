@@ -1,0 +1,26 @@
+name: Documentation Review Reminder
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  schedule:
+    # This will run at 8:30am on the first day of February, May, August & November. To adjust, go to https://crontab.guru/
+    - cron: "30 8 1 * *"
+
+jobs:
+  create_issue:
+    name: Create documentation review checklist reminder  
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create an issue with the team compass review checklist 
+        id: create-innovation
+        uses: JasonEtco/create-an-issue@v2
+        with:
+          filename: .github/team_compass_checklist.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

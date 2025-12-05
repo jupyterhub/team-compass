@@ -9,8 +9,18 @@ Here is the current JupyterHub team (listed alphabetically, with affiliation, an
 
 **Min Ragan-Kelley** acts as the team lead for the JupyterHub organization.
 
-```{eval-rst}
-.. include:: ../_data/generated/contributors-jupyterhub.txt
+## Active members
+
+```{contributors} _data/contributors/contributors-jupyterhub.yaml
+:status: active
+:render: cards
+```
+
+## Inactive members
+
+```{contributors} _data/contributors/contributors-jupyterhub.yaml
+:status: inactive
+:render: text
 ```
 
 (emoji-keys)=
