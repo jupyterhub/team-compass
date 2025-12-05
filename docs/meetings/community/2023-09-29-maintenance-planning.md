@@ -1,3 +1,7 @@
+---
+title: September 2023
+---
+
 # Discussion and plans for Maintenance of the JupyterHub GitHub org
 
 Date: 2023-09-29

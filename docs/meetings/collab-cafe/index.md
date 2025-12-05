@@ -102,19 +102,3 @@ For those meetings it is helpful to run a pomodoro clock that allows contributor
 
 Any member of the JupyterHub community should feel empowered to host a Collaboration Cafe if they so wish.
 As well as information in the following sections, you can find a checklist of action items within the [](collab-cafe:facilitator-checklist)
-
-```{toctree}
-:max-depth: 2
-facilitator-checklist.md
-```
-
-## Notes archive
-
-Each file represents one year, and entries within a file are in reverse choronological order.
-
-```{toctree}
-:maxdepth: 1
-2025 <2025.md>
-2024 <2024.md>
-2023 <2023.md>
-```

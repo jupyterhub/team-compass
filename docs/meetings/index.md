@@ -28,13 +28,6 @@ Framapads are screen-reader accessible and robust to multiple people typing at t
 
 We rotate time zones for each meeting to ensure that there is a timezone-friendly meeting for anybody in the world at least once every two months.
 
-```{toctree}
-:maxdepth: 2
-:caption: Collaboration Cafés
-
-collab-cafe/index
-```
-
 ## Archive of past meeting types
 
 The JupyterHub team used to keep monthly and weekly reports for what they had been up to.
