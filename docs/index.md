@@ -1,10 +1,5 @@
 # Team Compass for JupyterHub and Binder
 
-```{image} https://img.shields.io/badge/team-website-orange.svg
-:alt: team website
-:target: https://compass.hub.jupyter.org
-```
-
 Our Team Compass contains team practices, policies, and resources to help one another align and contribute.
 It also has helpful information for team members, like shared infrastructure and accounts, resources to learn how to contribute, etc.
 
