@@ -27,9 +27,9 @@ project:
           children:
             - file: practices/communication.md
             - file: practices/external-communication.md
+            - file: practices/funding.md
             - file: practices/adding-members.md
             - file: practices/check-ins.md
-            - file: practices/funding.md
         - title: Technical practices
           children:
             - file: practices/pull_requests.md
