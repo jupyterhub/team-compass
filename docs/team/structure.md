@@ -46,12 +46,11 @@ a few things that you should do as a new team member:
 JupyterHub is organized into a few teams with varying levels of responsibility and expectations:
 
 ```{contents}
-:local:
+:context: page
 :depth: 1
 ```
 
-```{team} JupyterHub Contributors
-```
+(team-contributors)=
 ### JupyterHub Contributors
 
 Comprised of any individuals that have made significant contributions to the project.
@@ -81,9 +80,7 @@ The Contributors team is very large and has no limit.
 Once you are a Contributor, you are always a Contributor.
 We encourage this group to be as large as possible.
 
-```{team} Maintainer Team
-```
-
+(team-maintainers)=
 ### Maintainers
 
 The maintainers are stewards and leaders of the JupyterHub community.
@@ -120,9 +117,7 @@ There is no limit to the number of maintainers that may exist in the JupyterHub 
 
 Our goal is to have at least two maintainers for any project within the JupyterHub community.
 
-```{team} JupyterHub Council
-```
-
+(team-steering-council)=
 ### Steering Council
 
 This group focuses more of their efforts on leadership and stewardship over the JupyterHub community, ensures its long-term impact and sustainability, and represents the JupyterHub community with the broader Jupyter community.
@@ -146,9 +141,7 @@ Steering Council members are elected by other Steering Council members following
 
 There is no limit on the number of Steering Council members we may have, though we believe 5-10 people is a healthy number.
 
-```{team} Mybinder Team
-```
-
+(team-mybinder-operations)=
 ### `mybinder.org` operations team
 
 This is a special team that is dedicated to operating and supporting the ongoing public service at [mybinder.org](https://mybinder.org).
@@ -174,9 +167,7 @@ Any team member of this team may be added by any other team member, following a 
 
 There is no limit to the number of mybinder.org operations team members.
 
-```{team} Security Team
-```
-
+(team-security)=
 ### Security Team
 
 The Security team is primarily an interface to the [Jupyter Security subproject](https://github.com/jupyter/security).
@@ -201,9 +192,7 @@ If there are no objections to adding a new security team member, add them to [ou
 
 There is no limit to the number of Security team members.
 
-```{team} Team Lead
-```
-
+(team-health)=
 ### JupyterHealth Team
 
 The JupyterHealth team is responsible for the [jupyterhealth](https://github.com/jupyterhealth) GitHub organization.
@@ -225,6 +214,7 @@ If there are no objections to adding a new maintainer, add them to [our list of 
 
 There is no limit to the number of JupyterHealth team members.
 
+(team-lead)=
 ### Team Lead
 
 The Team Lead is a role with impasse-breaking authority to

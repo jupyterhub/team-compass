@@ -34,19 +34,19 @@ Any exceptions to this should be explicitly listed in team documentation.[^1]
 (prs:when-to-merge)=
 ## When to merge pull requests
 
-- **Obvious and simple improvements** can be merged by any member of the {team}`Maintainer Team`, even if it does not have a review.
+- **Obvious and simple improvements** can be merged by any member of the [](team-maintainers), even if it does not have a review.
   For example: clear bug fixes, typo corrections, etc.
   If it's straightforward, go ahead and merge it.
-- **Straightforward and non-controversial PRs** with at least one approval from a {team}`Maintainer Team` member and no objections may be merged by anybody, anytime.
+- **Straightforward and non-controversial PRs** with at least one approval from a [](team-maintainers) member and no objections may be merged by anybody, anytime.
   If you approve the PR, go ahead and merge it!
   If you don't immediately merge it, provide a rationale for why not.
   If somebody else approves your PR but doesn't merge and doesn't say why they didn't, feel free to self-merge.
-- **Complex or potentially controversial PRs** may be merged with at least one approval from a {team}`Maintainer Team` member, no objections from any team member, and after has been open for around five working days.
+- **Complex or potentially controversial PRs** may be merged with at least one approval from a [](team-maintainers) member, no objections from any team member, and after has been open for around five working days.
   Use your best judgment for how long to wait to ensure inclusive decision making process and be sure to [include others in discussion](prs:principles).
   The more complex, the more time you should give people.
   The more people agree, the more quickly you can safely merge.
-- **Changes to team policies** may be merged with **at least two approvals** from {team}`JupyterHub Council` members, no objections from any team member, and has been open for around five working days (follow the same guidelines as above).
-- **Proposals without consensus** may be merged if the {team}`JupyterHub Council` has majority agreement to merge, and if there have been at least five working days to discuss.
+- **Changes to team policies** may be merged with **at least two approvals** from [](team-steering-council) members, no objections from any team member, and has been open for around five working days (follow the same guidelines as above).
+- **Proposals without consensus** may be merged if the [](team-steering-council) has majority agreement to merge, and if there have been at least five working days to discuss.
 
 ## What to look for when reviewing
 
