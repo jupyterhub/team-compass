@@ -74,7 +74,6 @@
   focus: jupyterhub
   teams:
     - council
-    - health
   last-check-in: 2022-09
 
 - name: Fernando Pérez
