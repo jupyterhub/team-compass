@@ -4,7 +4,7 @@ Our Team Compass contains team practices, policies, and resources to help one an
 It also has helpful information for team members, like shared infrastructure and accounts, resources to learn how to contribute, etc.
 
 ````{grid} 2
-```{grid-item-card} Join us at a Collaboration Café ☕ 
+```{card} Join us at a Collaboration Café ☕ 
 :link: meetings/collab-cafe/index
 :link-type: doc
 
@@ -13,7 +13,7 @@ Collaboration Café's are regular, all remote meetings where our community can s
 Click this box to find out more! 
 ```
 
-```{grid-item-card} Get started contributing ✨
+```{card} Get started contributing ✨
 :link: contribute/guide
 :link-type: doc
 
