@@ -4,22 +4,19 @@ Our Team Compass contains team practices, policies, and resources to help one an
 It also has helpful information for team members, like shared infrastructure and accounts, resources to learn how to contribute, etc.
 
 ````{grid} 2
+
 ```{card} Join us at a Collaboration Café ☕ 
 :link: meetings/collab-cafe/index
-:link-type: doc
+:footer: Click this box to find out more! 
 
 Collaboration Café's are regular, all remote meetings where our community can synchronously connect.
-+++
-Click this box to find out more! 
 ```
 
 ```{card} Get started contributing ✨
 :link: contribute/guide
-:link-type: doc
+:footer: Click this box to jump in!
 
 Our contribution guide will help you learn our practices so you can co-create with us easily!
-+++
-Click this box to jump in!
 ```
 
 ````
