@@ -81,7 +81,7 @@ It contains a variety of design assets from many projects, here's a preview belo
 We have [an `npm` organization at `npmjs.com/org/jupyterhub`](https://www.npmjs.com/org/jupyterhub).
 This can be used to publish packages relevant to JupyterHub on NPM.
 
-If you'd like access or need to access a package, ask a {team}`Steering Council` member.
+If you'd like access or need to access a package, ask a [](team-steering-council) member.
 
 ## `mybinder.org` infrastructure
 

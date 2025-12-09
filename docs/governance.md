@@ -39,7 +39,7 @@ the BinderHub technology.
 
 ## Membership
 
-See {doc}`team/structure` as well as {doc}`team/index` for more information.
+See [](team/structure.md) as well as [](team/index.md) for more information.
 
 ## How decisions are made
 

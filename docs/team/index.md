@@ -3,7 +3,7 @@
 # Our team
 
 This page describes the official team members of the JupyterHub community.
-For information about what these teams mean and how you can join, see {doc}`../team/structure`.
+For information about what these teams mean and how you can join, see [](../team/structure.md).
 
 Here is the current JupyterHub team (listed alphabetically, with affiliation, and main areas of contribution):
 

@@ -46,7 +46,7 @@ a few things that you should do as a new team member:
 JupyterHub is organized into a few teams with varying levels of responsibility and expectations:
 
 ```{contents}
-:local:
+:context: page
 :depth: 1
 ```
 
@@ -80,6 +80,7 @@ The Contributors team is very large and has no limit.
 Once you are a Contributor, you are always a Contributor.
 We encourage this group to be as large as possible.
 
+(team-maintainers)=
 ### Maintainers
 
 The maintainers are stewards and leaders of the JupyterHub community.

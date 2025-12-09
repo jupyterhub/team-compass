@@ -25,7 +25,4 @@ To spend these funds, see [](#funding:numfocus-reimbursement).
 
 If you spend money that should be reimbursed from a NumFocus grant or account, fill out the typeform below to submit the reimbursement.
 
-```{button-link} https://numfocus.typeform.com/to/O4K2Zol6
-:color: primary
-File a reimbursement
-```
+{button}`File a reimbursement <https://numfocus.typeform.com/to/O4K2Zol6>`
