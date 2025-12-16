@@ -22,7 +22,7 @@ Any [JupyterHub Team Member](team-structure) may ask to be added to this team fo
 
 ## The `mybinder.org` domain
 
-The `mybinder.org` domain is owned by Chris Holdgraf ([@choldgraf](https://github.com/choldgraf)).
+The `mybinder.org` domain is owned by Chris Holdgraf ([\@choldgraf](https://github.com/choldgraf)).
 The registrar for this domain is [BlueHost](https://bluehost.com).
 The email address with contact information for the domain is `binder-team@googlegroups.com`.
 

@@ -8,9 +8,9 @@ Some of these are useful for our development workflows, while others are used as
 We have [a GitHub organization](https://github.com/jupyterhub/) for hosting all of our code repositories.
 This organization is where we do most of the code-related work for the project, and where we have discussions and coordination.
 
-### @jupyterhub-bot
+### \@jupyterhub-bot
 
-[@jupyterhub-bot is a GitHub bot account](https://github.com/jupyterhub-bot)
+[\@jupyterhub-bot is a GitHub bot account](https://github.com/jupyterhub-bot)
 that can be used to create unprivileged GitHub tokens, for example to
 [open automated PRs](https://github.com/search?q=org%3Ajupyterhub+author%3Ajupyterhub-bot&type=pullrequests)
 without the limitations of the [default `GITHUB_TOKEN`](https://docs.github.com/en/actions/security-guides/automatic-token-authentication#using-the-github_token-in-a-workflow).

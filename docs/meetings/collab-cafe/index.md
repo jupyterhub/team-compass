@@ -70,7 +70,7 @@ Try to balance what is needed for the community over time, rather than catering 
 ### Collaborative note taking
 
 We encourage everyone in the breakout rooms to take notes in the framapad.
-These notes are then [archived](#notes-archive) in the project's team compass repository.
+These notes are then archived in the project's team compass repository.
 
 **Taking notes is a fantastic way for newcomers to contribute to the JupyterHub community.**
 The notes allow community members in other breakout rooms, as well as contributors who are not able to join the synchronous meeting, to catch up on the discussions and continue to participate asynchronously.
@@ -101,4 +101,4 @@ For those meetings it is helpful to run a pomodoro clock that allows contributor
 ## Hosting a Collaboration Café
 
 Any member of the JupyterHub community should feel empowered to host a Collaboration Cafe if they so wish.
-As well as information in the following sections, you can find a checklist of action items within the [](collab-cafe:facilitator-checklist)
+As well as information in the following sections, you can find a checklist of action items within the @collab-cafe:facilitator-checklist.
