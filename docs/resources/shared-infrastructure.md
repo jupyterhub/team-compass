@@ -63,7 +63,7 @@ For example, you can find the JupyterHub documentation at [jupyterhub.readthedoc
 And the JupyterHub ReadTheDocs dashboard is at [readthedocs.org/projects/jupyterhub/](https://readthedocs.org/projects/jupyterhub/).
 
 To get access to a documentation page for a JupyterHub repository, you'll need to be added by someone with the right privileges.
-New users may be added by an admin via the {guilabel}`Admin` -> {guilabel}`Maintainers` menu.
+New users may be added by an admin via the `Admin` -> `Maintainers` menu.
 
 In addition, ReadTheDocs offers [Pull Request previews](https://docs.readthedocs.io/en/stable/pull-requests.html) for changes to documentation, which may be enabled via the instructions [on this page](https://docs.readthedocs.io/en/stable/pull-requests.html).
 
