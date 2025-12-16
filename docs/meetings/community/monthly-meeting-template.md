@@ -1,6 +1,8 @@
 ---
-orphan: true
-tags: binder, meeting, notes
+tags:
+  - binder
+  - meeting
+  - notes
 ---
 
 # JupyterHub and BinderHub Team Meeting - <Month>
