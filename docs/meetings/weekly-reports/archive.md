@@ -92,7 +92,7 @@ This is an archive of weekly reports.
 
 - Security update for meltdownattack.com performed (Thanks Yuvi)
 - Prod cluster scaled down to 3 nodes and switched from n1-standard class nodes (equal CPU + memory ratio) to n1-highmem (more memory than CPU) based on our usage metrics (as part of meltdownattack.com fix)
-- npm refactor merged (yay @minrk! @rgbrk & other nteract folks)
+- npm refactor merged (yay \@minrk! \@rgbrk & other nteract folks)
 - playground.mybinder.org now redirects to play.nteract.io (yay cross-promotion) (this was down for Chris H today. Others? (is down for me too, should check with nteract folks)) I just checked again and it's back up - CH
     - Works for Matthias, Tim, Chris. Is that exectuing on same machines as MyBinder.org ? (nope it's not)
 - Working on fixing binder badge being blocked by privacy badger (https://github.com/jupyterhub/binderhub/issues/379)
