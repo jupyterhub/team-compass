@@ -29,7 +29,7 @@ This process takes the following steps:
    the process.
 2. If there seems to be team consensus,
    the champion contacts the potential new team member and ask if they are
-   interested. Don't forget to run them by the responsibilities in the {doc}`../team/structure`
+   interested. Don't forget to run them by the responsibilities in the [](../team/structure)
    page to make sure they understand what they're signing up for.
    If so, then move to the next step.
 3. The champion opens a new issue in the [team compass repository](https://github.com/jupyterhub/team-compass).
