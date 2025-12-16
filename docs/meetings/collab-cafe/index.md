@@ -15,7 +15,7 @@ You can read more about why and how we host Collaboration Cafés in the resource
 
 - Link to running notes: <https://mypads2.framapad.org/p/jupyterhub-jupyterbook-collaborationcafe-nr53am9wz>
 - Link to video conference call: <https://zoom.us/j/95228013874?pwd=Ep7HIk8t9JP6VToxt1Wj4P7K5PshC0.1>
-- Link to calendar: [](meetings:calendars)
+- Link to calendar: @meetings:calendars
 
 ## Who can join?
 

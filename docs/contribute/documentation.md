@@ -75,7 +75,7 @@ To do so, follow these steps:
 
 This is the way to have the most control over a documentation's build, but is also the most cumbersome to do repetively.
 
-To do so, install the documentation requirements (see [](docs:build-make) and run a command like so:
+To do so, install the documentation requirements (see @docs:build-make and run a command like so:
 
 ```bash
 sphinx-build docs docs/_build/html
