@@ -3,7 +3,7 @@
 
 This document provides a list of actions for a facilitator to take, and when, when running a Collaboration Café.
 
-All links for running the meeting will be in a GitHub issue that should be created [after the previous meeting](collab-cafe:facilitator-checklist:after).
+All links for running the meeting will be in a GitHub issue that should be created [after the previous meeting](#collab-cafe:facilitator-checklist:after).
 
 ## Before the Meeting
 

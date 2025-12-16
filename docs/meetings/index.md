@@ -19,7 +19,7 @@ The JupyterHub meeting calendar is embedded below for quick reference:
 
 ## Meeting notes
 
-The JupyterHub team hosts regular Collaboration Cafés (see [](meetings:calendars)).
+The JupyterHub team hosts regular Collaboration Cafés (see @meetings:calendars).
 
 We open an issue for each meeting using the ["Schedule a Collaboration Cafe"](https://github.com/jupyterhub/team-compass/issues/new/choose) GitHub issue template.
 
@@ -31,7 +31,7 @@ We rotate time zones for each meeting to ensure that there is a timezone-friendl
 ## Archive of past meeting types
 
 The JupyterHub team used to keep monthly and weekly reports for what they had been up to.
-The notes archives are linked from [weekly-reports](weekly-reports) and [community](community).
+The notes archives are linked from weekly-reports and community.
 
 There was also an HPC working group met monthly to discuss JupyterHub deployment on HPC systems and the various software projects supporting those efforts.
 Those notes are linked from [hpc](hpc).

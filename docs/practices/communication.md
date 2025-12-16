@@ -12,7 +12,7 @@ We break down team discussions into two broad categories:
 
 ## How to get in touch with the JupyterHub Council
 
-There are two recommended ways to send communications to the [](team-steering-council):
+There are two recommended ways to send communications to the @team-steering-council:
 
 1. **Open an issue in our [Team Compass](https://github.com/jupyterhub/team-compass/issues)**. We use this as a space for team discussion of all kinds, and JupyterHub Council members are expected to monitor these issues. **This is the preferred space for most team conversation**.
 2. **Send an e-mail to [`jupyterhub-team-council@googlegroups.com`](mailto:jupyterhub-team-council@googlegroups.com)**. This is a shared inbox that we use for people that prefer non-public or e-mail communication instead of GitHub issues.

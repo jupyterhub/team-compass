@@ -258,7 +258,7 @@ Any team members that step down are considered "inactive".
 This means they no longer commit to the responsibilities of their previous team, but they retain their JupyterHub Team Membership status for life.
 
 We keep a record of any inactive team members for the team in which they previously served.
-This is both to recognize their contribution, and to have a reference in case they wish to [become active again](structure:return).
+This is both to recognize their contribution, and to have a reference in case they wish to [become active again](#structure:return).
 
 (structure:return)=
 ### Return from a break

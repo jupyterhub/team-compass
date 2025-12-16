@@ -8,9 +8,9 @@ Some of these are useful for our development workflows, while others are used as
 We have [a GitHub organization](https://github.com/jupyterhub/) for hosting all of our code repositories.
 This organization is where we do most of the code-related work for the project, and where we have discussions and coordination.
 
-### @jupyterhub-bot
+### \@jupyterhub-bot
 
-[@jupyterhub-bot is a GitHub bot account](https://github.com/jupyterhub-bot)
+[\@jupyterhub-bot is a GitHub bot account](https://github.com/jupyterhub-bot)
 that can be used to create unprivileged GitHub tokens, for example to
 [open automated PRs](https://github.com/search?q=org%3Ajupyterhub+author%3Ajupyterhub-bot&type=pullrequests)
 without the limitations of the [default `GITHUB_TOKEN`](https://docs.github.com/en/actions/security-guides/automatic-token-authentication#using-the-github_token-in-a-workflow).
@@ -63,7 +63,7 @@ For example, you can find the JupyterHub documentation at [jupyterhub.readthedoc
 And the JupyterHub ReadTheDocs dashboard is at [readthedocs.org/projects/jupyterhub/](https://readthedocs.org/projects/jupyterhub/).
 
 To get access to a documentation page for a JupyterHub repository, you'll need to be added by someone with the right privileges.
-New users may be added by an admin via the {guilabel}`Admin` -> {guilabel}`Maintainers` menu.
+New users may be added by an admin via the `Admin` -> `Maintainers` menu.
 
 In addition, ReadTheDocs offers [Pull Request previews](https://docs.readthedocs.io/en/stable/pull-requests.html) for changes to documentation, which may be enabled via the instructions [on this page](https://docs.readthedocs.io/en/stable/pull-requests.html).
 
@@ -81,7 +81,7 @@ It contains a variety of design assets from many projects, here's a preview belo
 We have [an `npm` organization at `npmjs.com/org/jupyterhub`](https://www.npmjs.com/org/jupyterhub).
 This can be used to publish packages relevant to JupyterHub on NPM.
 
-If you'd like access or need to access a package, ask a [](team-steering-council) member.
+If you'd like access or need to access a package, ask a @team-steering-council member.
 
 ## `mybinder.org` infrastructure
 

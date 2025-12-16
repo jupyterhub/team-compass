@@ -18,11 +18,11 @@ We have [a dedicated GitHub organization](https://github.com/binder-examples) fo
 Many of these repositories are re-used elsewhere in [repo2docker documentation](https://repo2docker.readthedocs.io) and [Binder user documentation](https://docs.mybinder.org).
 
 [An `@Admins` team](https://github.com/orgs/binder-examples/teams/admins) administers this organization.
-Any [JupyterHub Team Member](team-structure) may ask to be added to this team for read/write permissions.
+Any [JupyterHub Team Member](#team-structure) may ask to be added to this team for read/write permissions.
 
 ## The `mybinder.org` domain
 
-The `mybinder.org` domain is owned by Chris Holdgraf ([@choldgraf](https://github.com/choldgraf)).
+The `mybinder.org` domain is owned by Chris Holdgraf ([\@choldgraf](https://github.com/choldgraf)).
 The registrar for this domain is [BlueHost](https://bluehost.com).
 The email address with contact information for the domain is `binder-team@googlegroups.com`.
 

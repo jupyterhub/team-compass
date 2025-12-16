@@ -64,7 +64,7 @@ function renderCards(contributors, status) {
               children: [
                 {
                   type: "text",
-                  value: `@${item.handle.replace(/"/g, '').trim()}`
+                  value: `\@${item.handle.replace(/"/g, '').trim()}`
                 }
               ]
             },
@@ -133,7 +133,7 @@ function renderText(contributors, status) {
     .map(item => {
         const name = item.name || "Unknown";
         const handle = item.handle.replace(/"/g, '').trim();
-        return `${name} (<a href=https://github.com/${handle}>@${handle}</a>)`;
+        return `${name} (<a href=https://github.com/${handle}>\@${handle}</a>)`;
     });
   ;
   return `<p>${output.join(", ")}.</p>`;
