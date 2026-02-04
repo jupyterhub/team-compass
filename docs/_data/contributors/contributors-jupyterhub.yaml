@@ -138,6 +138,14 @@
     - council
   last-check-in: 2022-09
 
+- name: Jenny Wong
+  handle: jnywong
+  affiliation: 2i2c
+  contributions: code,infra
+  focus: nbgitpuller, dashboards
+  teams: []
+  last-check-in: 2026-02
+
 - name: Maryam Vareth
   handle: maryamv
   affiliation: UC Berkeley
