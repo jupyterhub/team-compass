@@ -22,8 +22,6 @@ Large language models (LLMs) are:
 
 * contributing to rapid **over-burdening** of the reviewing capacity for many open source projects. [REF]
 * trained on very large datasets, and all widely used models do not respect the licenses (or lack thereof) of this input data. [REF]
-    * We are keen to follow the development of sovereign models such as ["Apertus"](https://www.swiss-ai.org/apertus) which have been trained fully transparently, and published with open weights.
-      Though even these generally fail to respect the license and copyright of the works their output derives from.
 * in many cases trained by people who are underpaid and exposed to traumatic content without appropriate support.
   See Wired's article from 2024: [The Low-Paid Humans Behind AI’s Smarts Ask Biden to Free Them From "Modern Day Slavery"](https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery)
 * consuming very large amounts of energy and potable water, both during their training phases and as they being used to generate outputs. See the MIT Technology Review's summaries of the literature at their [Super Topic: AI and our energy future](https://www.technologyreview.com/supertopic/ai-energy-package/).
