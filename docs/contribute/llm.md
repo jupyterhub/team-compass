@@ -34,5 +34,5 @@ Large language models (LLMs) are:
 2. Communicate in issue and pull request threads in your own words.
   Please do not use the verbatim output of an LLM in conversation with our user, reviewer and maintainer community.
     * We have chosen this requirement given our priority to **value human co-creation**.
-3. We do not plan to include `AGENTS.md`, `CLAUDE.md` or similar files to our repos as we prefer the human contributors to follow the contribution guidelines that already exist.
+3. We do not plan to include `AGENTS.md`, `CLAUDE.md` or similar files to our repos as we prefer human contributors follow the [contribution guidelines](guide.md) that already exist.
     * If it is not clear how to contribute to JupyterHub, we encourage you to ask questions in our [Zulip channel](https://jupyter.zulipchat.com/#narrow/channel/469744-jupyterhub) or on [Discourse](https://discourse.jupyter.org/c/jupyterhub/10).
