@@ -10,7 +10,9 @@ images, or generate human-like communication.
 ```
 
 We ask that all contributions (through issues and pull requests) are made by a human who takes responsibility for the code, documentation, or comment they submit.
-In short: LLM-generated contributions are not accepted.
+In short: LLM-generated contributions are not accepted,
+and please make sure you are comfortable saying "I wrote this" about everything you submit to the project.
+
 
 ## Principles
 
