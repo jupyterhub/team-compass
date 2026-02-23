@@ -2,31 +2,37 @@
 
 # Generative AI/LLM Contribution Policy
 
-Short answer: If you (a human) didn't write the code or documentation or comment, please don't submit it to us.
+We ask that all contributions (through issues and pull requests) are made by a human who is willing to take accountability for the code, documentation or comment they submit.
+
+## Principles
+
+We, the JupyterHub community, value:
+
+* **human co-creation**: we are proud to collaborate with developers, researchers, educators, and infrastructure specialists across our global community.
+  * We respect **their copyright** over their work and appreciate their shared investment in the scientific open source ecosystem by licensing the materials under the [BSD 3-Clause "New" or "Revised" License](https://github.com/jupyterhub/jupyterhub/blob/main/LICENSE).
+  * We respect the **time** taken to read and review contributions, maintinaing a high standard and supportive community engagement.
+* **security**: JupyterHub is trusted infrastructure for hundreds of thousands of users and we prioritize keeping their data, code, and personal configuration information secure.
+* **veracity**: beyond security, we are devoted to accuracy, ensuring our tools do what we think they do.
+* **our global society**: we seek to minimise environmental impact and human exploitation in the development and deployment of JupyterHub infrastructure.
+
+## Our concerns
+
+Large language models (LLMs) are:
+
+* changing, and at time of writing (February 2026) **over-burdening**, the reviewing capacity for many open source projects. [REF]
+* trained on very large datasets, and most models do not respect the licenses (or lack thereof) of this input data. [REF]
+    * We are keen to follow the development of soverign models such as ["Apertus"](https://www.swiss-ai.org/apertus) which have been trained on appropriately copywrited data, fully transparently, and published with open weights.
+* in many cases trained by people who are underpaid and exposed to traumatic content without appropriate support. See Wired's article from 2024: [The Low-Paid Humans Behind AI’s Smarts Ask Biden to Free Them From "Modern Day Slavery"](https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery)
+* consuming very large amounts of energy and potable water, both during their training phases and as they being used to generate outputs. See the MIT Technology Review's summaries of the literature at their [Super Topic: AI and our energy future](https://www.technologyreview.com/supertopic/ai-energy-package/).
 
 ## Policy
 
-1. Do not ever submit code or documentation to JupyterHub that _you did not write_. Tool-assisted coding and automation leaves some gray area that is open to interpretation, but **if you are not comfortable saying the words "I wrote this," do not submit it to us.**
-2. Do not ever include verbatim output of an LLM in a comment or PR description.
-   When communicating with humans, use your own words.
-   If you didn't take the time to write it, it is rude to expect any other human to take any time to read it.
-3. Deterministic automated code changes (dependencies, linter auto-fixes, refactor tools, etc.) are fine (great, even!).
-4. We will not add AGENTS.md or CLAUDE.md to our repos, as that would be an implicit endorsement of the use of tools that are harmful to community software projects like JupyterHub.
-
-## Why?
-
-Some relevant facts:
-
-- LLMs are the primary driver of a flood of low-quality pull requests, often without disclosure, straining the worldwide open source maintainer load.
-- LLMs, at least as operated by organizations like Anthropic, Google, Microsoft, OpenAI, and others are an ongoing environmental and financial catastrophe.
-  Using these tools—in any capacity, but especially supporting them financially—contributes to their rapidly escalating harm.
-- All such large models—including self-hosted "open weights" models—are unethically (and in some cases illegally) trained on stripping credit and license information from source material.
-  While this may turn out to be legal fair use in some jurisdictions, it is certainly against the community spirit of the material they are trained on.
-  If anyone ever produces an "ethically trained" LLM for code, we can reconsider this point, but it does not exist and arguably is not possible.
-
-
-### To summarize
-
-LLMs as they are today, and fundamental to their design, cause numerous material harms, both to the world at large and to community software in particular, and their use will not be endorsed by the JupyterHub project.
-
-As such, we are opposed to all LLM-generated contributions to JupyterHub.
+1. Only submit code or documentation to JupyterHub that you wrote and that you understand.
+  * We have chosen this requirement given our concerns around **copyright**, **reviewer burden**, and to maintain **auditable accountability** for the **veracity** of our work.
+  * We leave the interpretation of this request to you: tool-assisted coding and automation leaves some gray areas and we recognize that everyone has different perspectives on the use of LLMs for supporting their open source contributions.
+  * We strongly endorse using deterministic tools to check and improve the quality of your code, such as automated code dependency updates, linter auto-fixes, refactor tools, etc.
+2. Communicate in issue and pull request threads in your own words.
+  Please do not use the verbatim output of an LLM in conversation with our user, reviewer and maintainer community.
+  * We have chosen this requirement given our priority to **value human co-creation**.
+3. We do not plan to include `AGENTS.md`, `CLAUDE.md` or similar files to our repos as we prefer the human contributors to follow the contribution guidelines that already exist.
+  * If it is not clear how to contribute to JupyterHub, we encourage you to ask questions in our [Zulip channel](https://jupyter.zulipchat.com/#narrow/channel/469744-jupyterhub) or on [Discourse](https://discourse.jupyter.org/c/jupyterhub/10).
