@@ -85,10 +85,10 @@ open source community to thrive.
 ### AI Agents
 
 The use of an AI agent that writes code and then submits a pull request autonomously is
-not permitted.  Will will not include or accept supporting resources in `AGENTS.md`, `CLAUDE.md`
-or similar files to our repos as we prefer human contributors follow the
-[contribution guidelines](guide.md) that already exist.  If present, these files
-shall only include instructions to _prevent_ generating contributions.
+not permitted.
+We will not include or accept supporting resources in `AGENTS.md`, `CLAUDE.md` or similar files to our repos as we prefer human contributors follow the
+[contribution guidelines](guide.md) that already exist.
+If present, these files shall only include instructions to _prevent_ generating contributions, such as that [used by lobste.rs](https://github.com/lobsters/lobsters/blob/f2b1ccaa21af0721db73b77b7fb8bffe7ba12ffb/AGENTS.md).
 
 ### Other Resources
 
