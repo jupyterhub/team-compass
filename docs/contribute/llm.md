@@ -9,7 +9,7 @@ that can generate, edit, and review software code, create and manipulate
 images, or generate human-like communication.
 ```
 
-We ask that all contributions (through issues and pull requests) are made by a human who is willing to take accountability for the code, documentation, or comment they submit.
+We ask that all contributions (through issues and pull requests) are made by a human who takes responsibility for the code, documentation, or comment they submit.
 In short: LLM-generated contributions are not accepted.
 
 ## Principles
