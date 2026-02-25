@@ -18,7 +18,7 @@ We, the JupyterHub community, value:
 
 ## Our concerns
 
-Large language models (LLMs) are:
+Large language models (LLMs), the primary underlying technology used in "Generative AI" products, are:
 
 * contributing to rapid **over-burdening** of the reviewing capacity for many open source projects. [REF]
 * trained on very large datasets, and all widely used models do not respect the licenses (or lack thereof) of this input data. [REF]

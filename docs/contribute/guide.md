@@ -65,7 +65,7 @@ GitHub has a helpful page on
 
 ## Generative AI (LLM) contributions
 
-If you're thinking of using AI tools to contribute, make sure to check our [Generative AI Contribution Policy](#llm-policy) first.
+If you're thinking of using "AI" tools to contribute, make sure to check our ["Generative AI" / Large Language Model Contribution Policy](#llm-policy) first.
 
 ## Find issues to work on
 
