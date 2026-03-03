@@ -1,5 +1,5 @@
 (recruitment)=
-# Recruitment
+# Jobs and Recruitment
 
 This page highlights any open calls we have for funded positions within JupyterHub.
 
