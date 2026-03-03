@@ -20,6 +20,7 @@ We particularly encourage applicants to review the section "*Impact Metrics: How
 In this blog post we have outlined the community manager's [Responsibilities](#responsibilities), their [Preferred expertise](#preferred-expertise), and [How to apply](#how-to-apply).
 
 **This is a contract role, funded at $90,000 to be spent by the end of April 2027.**
+The community manager will be engaged as a contractor of the Linux Foundation and will follow the standard Linux Foundation contractor onboarding process.
 
 (responsibilities)=
 ### Responsibilities
@@ -113,6 +114,7 @@ Please include:
 * Before 29 March 2026: Invite up to 5 applicants to interview.  
 * 6 April - 15 April 2026: Interviews conducted over Zoom.   
 * Before 30 April 2026: Communicate final decision to all applicants.
+* May 2026: Post holder coordinates a contract with the Linux Foundation, following their standard onboarding process.
 
 (acknowledgements)=
 ### Acknowledgments
