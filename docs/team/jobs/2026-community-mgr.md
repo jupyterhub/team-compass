@@ -1,9 +1,5 @@
 (jobs)=
-# Jobs and Recruitment
-
-This page highlights any open calls we have for funded positions within JupyterHub.
-
-## Community Manager for JupyterHub and Jupyter Book
+# Community Manager for JupyterHub and Jupyter Book
 
 The [JupyterHub](https://jupyter.org/hub) and [Jupyter Book](https://jupyterbook.org) communities are hiring a **community manager**.
 
@@ -23,7 +19,7 @@ In this blog post we have outlined the community manager's [Responsibilities](#r
 The community manager will be engaged as a contractor of the Linux Foundation and will follow the standard Linux Foundation contractor onboarding process.
 
 (responsibilities)=
-### Responsibilities
+## Responsibilities
 
 * **Strategic alignment and contributor guidance**  
   * Collaborate with the maintainer teams from both projects to understand, document, and broadcast each project's priorities to their communities.  
@@ -78,7 +74,7 @@ If you are uncertain how to answer any of the questions and/or prompts, please a
       Where do you expect to ask for help and/or support in the role?
 
 (how-to-apply)=
-### How to apply
+## How to apply
 
 Submit a cover letter and resume through this Google Form: [https://forms.gle/Qw6ddyJ8rzZY5vQm6](https://forms.gle/Qw6ddyJ8rzZY5vQm6) 
 
@@ -96,7 +92,7 @@ Please include:
   * If you can not meet this requirement, please note that in your application.
 
 (what-to-expect)=
-### What to expect
+## What to expect
 
 **We'll accept applications from now through 22 March, 2026.** 
 
@@ -117,6 +113,6 @@ Please include:
 * May 2026: Post holder coordinates a contract with the Linux Foundation, following their standard onboarding process.
 
 (acknowledgements)=
-### Acknowledgments
+## Acknowledgments
 
 This job description was co-created by April Johnson, Yuvi, and Kirstie Whitaker, with guidance from Chris Holdgraf, Min Ragan-Kelley, Raniere Silva, and Stéfan van der Walt, along with community input at the JupyterHub and Jupyter Book collaboration cafes.  
