@@ -19,7 +19,7 @@ Click this box to find out more!
 ```
 
 ```{grid-item-card} Come work with us 💼
-:link: team/jobs
+:link: team/jobs/index
 :link-type: doc
 
 Funded opportunities to collaborate on JupyterHub
