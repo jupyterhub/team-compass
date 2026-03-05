@@ -8,7 +8,7 @@
 Our Team Compass contains team practices, policies, and resources to help one another align and contribute.
 It also has helpful information for team members, like shared infrastructure and accounts, resources to learn how to contribute, etc.
 
-````{grid} 2
+````{grid} 1 1 3 3
 ```{grid-item-card} Join us at a Collaboration Café ☕ 
 :link: meetings/collab-cafe/index
 :link-type: doc
