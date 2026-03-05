@@ -35,3 +35,8 @@ as mentors, coordinators and volunteers.
 
 ```{include} ../_data/generated/outreachy_participants.txt
 ```
+
+```{toctree}
+:hidden:
+jobs/index
+```
