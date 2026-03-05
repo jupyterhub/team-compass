@@ -18,6 +18,15 @@ Collaboration Café's are regular, all remote meetings where our community can s
 Click this box to find out more! 
 ```
 
+```{grid-item-card} Come work with us 💼
+:link: team/jobs
+:link-type: doc
+
+Funded opportunities to collaborate on JupyterHub
++++
+Click to see open opportunties
+```
+
 ```{grid-item-card} Get started contributing ✨
 :link: contribute/guide
 :link-type: doc
