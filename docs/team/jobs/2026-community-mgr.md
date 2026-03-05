@@ -4,7 +4,7 @@
 The [JupyterHub](https://jupyter.org/hub) and [Jupyter Book](https://jupyterbook.org) communities are hiring a **community manager**.
 
 In JupyterHub we are democratizing access to interactive computing environments to allow everyone, no matter where they are, to explore data, develop code, and advance knowledge without barriers.
-In Jupyter Book we are building the next generation of open, community-driven technical publication tooling, leveraging the MyST document engine to create modular, reusable and reproducible computational narratives.
+In Jupyter Book we are building the next generation of open, community-driven technical publication tooling, leveraging the MyST document engine to create modular, reusable, and reproducible computational narratives.
 
 We are excited to fund dedicated time for someone - maybe you! - to join these teams.
 
