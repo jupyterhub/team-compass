@@ -8,7 +8,7 @@
 Our Team Compass contains team practices, policies, and resources to help one another align and contribute.
 It also has helpful information for team members, like shared infrastructure and accounts, resources to learn how to contribute, etc.
 
-````{grid} 2
+````{grid} 1 1 3 3
 ```{grid-item-card} Join us at a Collaboration Café ☕ 
 :link: meetings/collab-cafe/index
 :link-type: doc
@@ -16,6 +16,15 @@ It also has helpful information for team members, like shared infrastructure and
 Collaboration Café's are regular, all remote meetings where our community can synchronously connect.
 +++
 Click this box to find out more! 
+```
+
+```{grid-item-card} Come work with us 💼
+:link: team/jobs/index
+:link-type: doc
+
+Funded opportunities to collaborate on JupyterHub
++++
+Click to see open opportunties
 ```
 
 ```{grid-item-card} Get started contributing ✨
