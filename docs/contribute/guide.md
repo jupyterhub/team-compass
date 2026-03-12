@@ -63,6 +63,9 @@ or as a [link][rick_roll] (`[link](https://youtu.be/dQw4w9WgXcQ)`) to another we
 GitHub has a helpful page on
 [getting started with writing and formatting Markdown on GitHub][writing_formatting_github].
 
+## Generative AI (LLM) contributions
+
+If you're thinking of using "AI" tools to contribute, make sure to check our ["Generative AI" / Large Language Model Contribution Policy](#llm-policy) first.
 
 ## Find issues to work on
 
