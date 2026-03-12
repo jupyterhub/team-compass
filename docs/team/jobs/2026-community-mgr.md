@@ -94,7 +94,7 @@ Please include:
 (what-to-expect)=
 ## What to expect
 
-**We'll accept applications from now through 22 March, 2026.** 
+**We'll accept applications from now through 29 March, 2026.** 
 
 **Once applications are in, here's our process:**
 
@@ -106,10 +106,10 @@ Please include:
 (timeline)=
 ### Timeline
 
-* 22 March 2026, [AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth): Deadline for resume and cover letter applications.  
-* Before 29 March 2026: Invite up to 5 applicants to interview.  
-* 6 April - 15 April 2026: Interviews conducted over Zoom.   
-* Before 30 April 2026: Communicate final decision to all applicants.
+* 29 March 2026, [AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth): Deadline for resume and cover letter applications.  
+* Before 5 April 2026: Invite up to 5 applicants to interview.  
+* 8 April — 17 April 202: Interviews conducted over Zoom.   
+* Before 11 May 2026: Communicate final decision to all applicants.
 * May 2026: Post holder coordinates a contract with the Linux Foundation, following their standard onboarding process.
 
 (acknowledgements)=
