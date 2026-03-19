@@ -38,7 +38,7 @@ collab-cafe/index
 ## Archive of past meeting types
 
 The JupyterHub team used to keep monthly and weekly reports for what they had been up to.
-The notes archives are linked from [weekly-reports](weekly-reports) and [community](community).
+The notes archives are linked from [weekly-reports](weekly-reports/archive) and [community](community/index).
 
 There was also an HPC working group met monthly to discuss JupyterHub deployment on HPC systems and the various software projects supporting those efforts.
-Those notes are linked from [hpc](hpc).
+Those notes are linked from [hpc](hpc/index).
