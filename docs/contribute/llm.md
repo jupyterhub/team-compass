@@ -38,8 +38,7 @@ We, the JupyterHub community, value:
 * consuming very large amounts of energy and potable water, both during their training phases and as they being used to generate outputs. See the MIT Technology Review's summaries of the literature at their [Super Topic: AI and our energy future](https://www.technologyreview.com/supertopic/ai-energy-package/).
 
 These concerns largely highlight issues with the commercial generative AI _industry_ as it is today,
-and while some models, such as those trained on open and licensed data,
-may mitigate some of these concerns,
+and while some models—such as those trained on open and licensed data—may mitigate some of these concerns,
 we do not believe it is possible to address them all,
 and such tools do not currently represent an appreciable portion of AI tool use.
 
