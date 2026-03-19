@@ -27,15 +27,21 @@ We, the JupyterHub community, value:
 
 ## Our concerns
 
-Large language models (LLMs), the primary underlying technology used in "Generative AI" products, are:
+"Generative AI" tools, such as LLMs as they exist today in the industry, are
 
 * contributing to rapid **over-burdening** of the reviewing capacity for many open source projects.
   * Unlike human contributors, models _cannot_ learn from feedback, vastly diminishing the long-term community benefit of the review process.
-* trained on very large datasets, and all widely used models do not respect the licenses (or lack thereof) of this input data, leaving many unsettled questions about copyright. [US Copyright guidance](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf)
+* trained on very large datasets, and all widely used models do not respect the licenses (or lack thereof) of this input data, leaving many unsettled questions about copyright and consent. [US Copyright guidance](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf)
   * Even _if_ copyright of LLM output is settled safely worldwide, the training of models on open-licensed inputs and generating outputs stripped of credit remains objectionable.
-* in many cases trained by people who are underpaid and exposed to traumatic content without appropriate support.
+* in widely used cases, trained by people who are underpaid and exposed to traumatic content without appropriate support.
   See Wired's article from 2024: [The Low-Paid Humans Behind AI’s Smarts Ask Biden to Free Them From "Modern Day Slavery"](https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery)
 * consuming very large amounts of energy and potable water, both during their training phases and as they being used to generate outputs. See the MIT Technology Review's summaries of the literature at their [Super Topic: AI and our energy future](https://www.technologyreview.com/supertopic/ai-energy-package/).
+
+These concerns largely highlight issues with the commercial generative AI _industry_ as it is today,
+and while some models, such as those trained on open and licensed data,
+may mitigate some of these concerns,
+we do not believe it is possible to address them all,
+and such tools do not currently represent an appreciable portion of AI tool use.
 
 ## Policy
 
