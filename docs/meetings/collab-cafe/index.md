@@ -90,8 +90,7 @@ As of October 2025, the JupyterHub and JupyterBook Collaboration Café is one ho
 
 The chair should make sure that there is enough time to welcome everyone, coordinate the breakout rooms, and bring everyone back with enough time to have them share a short update before the end of the hour.
 
-```{admonition}
-
+```{admonition} Timers for longer meetings
 :class: info
 
 The Turing Way community - who originated the term "Collaboration Café" in 2019 - host two hour meetings twice per month.
@@ -104,13 +103,15 @@ Any member of the JupyterHub community should feel empowered to host a Collabora
 As well as information in the following sections, you can find a checklist of action items within the [](collab-cafe:facilitator-checklist)
 
 ```{toctree}
-:max-depth: 2
+:maxdepth: 2
 facilitator-checklist.md
 ```
 
+(notes-archive)=
+
 ## Notes archive
 
-Each file represents one year, and entries within a file are in reverse choronological order.
+Each file represents one year, and entries within a file are in reverse chronological order.
 
 ```{toctree}
 :maxdepth: 1
