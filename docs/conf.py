@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import os
 import re
 from pathlib import Path
 from subprocess import run
@@ -112,8 +113,9 @@ linkcheck_ignore = [
 # This extensions help us relocated content without breaking links. If a
 # document is moved internally, a redirect like should be configured below to
 # help us not break links.
-#
-rediraffe_branch = "main"
+
+rediraffe_branch = os.environ.get("REDIRAFFE_BRANCH", "main")
+
 rediraffe_redirects = {
     # Redirects added 2022-11-25
     # ref: https://github.com/jupyterhub/team-compass/pull/587
