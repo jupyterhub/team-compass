@@ -41,7 +41,7 @@ are a few places where we have conversations and discussion.
   repositories focused around more actionable items.
 * [The JupyterHub team meeting](../meetings/index) takes place once a month, and is open to anybody who
   would like to attend. We try to use this as an opportunity to sync-up and connect with the community.
-* The [JupyterHub Zulip channel](https://jupyter.zulipchat.com/#narrow/channel/469744-jupyterhub/)
+* The [JupyterHub Zulip channel](https://jupyter.zulipchat.com/#narrow/channel/469744-jupyterhub)
   is for in-person conversation. In general, if conversations last beyond a few seconds, we highly encourage you
   to open a thread in the [JupyterHub Discourse page](https://discourse.jupyter.org) instead!
 

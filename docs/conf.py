@@ -88,15 +88,22 @@ linkcheck_ignore = [
     "https://www.bluehost.com/",
     "https://blaire.hashnode.dev/",
     "https://sheiblogs.hashnode.dev/",
+    "https://alwasega.substack.com/",
+    "https://www.sociocracyforall.org/consent-decision-making/",
+    "https://medium.com/.*",
+    "https://www.npmjs.com/.*",
 
     # not useful to check authenticated pages:
     "https://console.cloud.google.com/.*",
 
     # can't check these, too many so we get rate limited
-    "https://github.com/jupyterhub/.*",
+    "https://github.com/.*",
+
+    # zulip anchors are handled by javascript
+    "https://jupyter.zulipchat.com/#narrow/channel/469744-jupyterhub",
 
     # weird SSL error ?!
-    "https://blog.jupyter.org/.*",
+    "https://blog.jupyter.org/?.*",
 ]
 
 # -- Options for the rediraffe extension -------------------------------------

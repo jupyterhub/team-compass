@@ -6,7 +6,7 @@
 
 Reports in reverse chronological order.
 
-To generate the agenda for a new meeting, see the [Monthly Meeting Agenda Template](https://raw.githubusercontent.com/jupyterhub/team-compass/HEAD/docs/meetings/community/monthly-meeting-template.md).
+To generate the agenda for a new meeting, see the [Monthly Meeting Agenda Template](https://raw.githubusercontent.com/jupyterhub/team-compass/f15c6086d39588beb7e69f14d83e7200df8398ce/docs/meetings/community/monthly-meeting-template.md).
 
 ```{toctree}
 :caption: Monthly reports
