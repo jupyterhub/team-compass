@@ -100,11 +100,13 @@ linkcheck_ignore = [
     # can't check these, too many so we get rate limited
     "https://github.com/.*",
 
-    # zulip anchors are handled by javascript
-    "https://jupyter.zulipchat.com/#narrow/channel/469744-jupyterhub",
-
     # weird SSL error ?!
     "https://blog.jupyter.org/?.*",
+]
+
+linkcheck_anchors_ignore_for_url = [
+    # zulip anchors are handled by javascript
+    "https://jupyter.zulipchat.com/",
 ]
 
 # -- Options for the rediraffe extension -------------------------------------
