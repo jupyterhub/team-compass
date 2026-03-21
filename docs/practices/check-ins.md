@@ -33,9 +33,10 @@ is to make sure that team members have an opportunity to voice their perspective
 and choose their next steps within the community.
 
 If you decide to change team status, we'll make a PR either to the
-[BinderHub team data page](https://github.com/jupyterhub/team-compass/blob/master/docs/team/contributors-binder.yaml)
-or the [JupyterHub team data page](https://github.com/jupyterhub/team-compass/blob/master/docs/team/contributors-jupyterhub.yaml).
+[BinderHub team data page](https://github.com/jupyterhub/team-compass/blob/HEAD/docs/team/contributors-binder.yaml)
+or the [JupyterHub team data page](https://github.com/jupyterhub/team-compass/blob/HEAD/docs/team/contributors-jupyterhub.yaml).
 Either way, we'll update the latest time that you had a check-in.
+
 ## If a team member doesn't respond to a check-in
 
 Sometimes team members aren't able to respond to check-ins. This is no problem -

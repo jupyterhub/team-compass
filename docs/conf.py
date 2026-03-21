@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+import re
+from pathlib import Path
+from subprocess import run
+
+docs_dir = Path(__file__).parent
+
 # -- General configuration ------------------------------------------------
 extensions = [
     "sphinx_copybutton",
@@ -61,10 +67,37 @@ myst_linkify_fuzzy_links = False
 
 # -- Update contributor lists --------------------------------------------
 
-from subprocess import run
-
 run(["python", "_data/contributors/gen_contributors.py"], check=True)
 run(["python", "_data/outreachy/outreachy_participants.py"], check=True)
+
+
+# linkcheck options
+
+# exclude older meeting notes from linkcheck,
+# these are archives and broken links are okay and not worth maintaining
+linkcheck_exclude_documents = [
+    # ignore any file in the meetings directory
+    # that looks like it starts with a year number
+    re.compile(r"meetings/.*/\d{4}.*"),
+    "meetings/weekly-reports/archive",
+]
+#
+linkcheck_ignore = [
+    # ...
+    # these sites block automatic visits, so link checker can't check
+    "https://www.bluehost.com/",
+    "https://blaire.hashnode.dev/",
+    "https://sheiblogs.hashnode.dev/",
+
+    # not useful to check authenticated pages:
+    "https://console.cloud.google.com/.*",
+
+    # can't check these, too many so we get rate limited
+    "https://github.com/jupyterhub/.*",
+
+    # weird SSL error ?!
+    "https://blog.jupyter.org/.*",
+]
 
 # -- Options for the rediraffe extension -------------------------------------
 # ref: https://github.com/wpilibsuite/sphinxext-rediraffe#readme
