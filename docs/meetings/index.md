@@ -42,3 +42,12 @@ The notes archives are linked from [weekly-reports](weekly-reports/archive) and 
 
 There was also an HPC working group met monthly to discuss JupyterHub deployment on HPC systems and the various software projects supporting those efforts.
 Those notes are linked from [hpc](hpc/index).
+
+```{toctree}
+:maxdepth: 1
+:caption: Past meetings
+
+community/index
+hpc/index
+weekly-reports/archive
+```

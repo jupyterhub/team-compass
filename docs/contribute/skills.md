@@ -116,7 +116,7 @@ you scope the work you'd like to do, and to set expectations.
 
 In this section, we gather some introductory materials for learning the aforementioned tools.
 
-* The [UC Berkeley JupyterHubs documentation](https://docs.datahub.berkeley.edu/en/latest/pre-reqs.html)
+* The [UC Berkeley JupyterHubs documentation](https://docs.datahub.berkeley.edu/admins/pre-reqs.html)
   has a similar scope and set of information.
 * **[Learning-k8s](https://github.com/knrt10/kubernetes-basicLearning)**: A step-by-step guide to learning the basics of Kubernetes
 * [**The mybinder SRE guide**](https://mybinder-sre.readthedocs.io/en/latest/) is a set of resources for running mybinder.org.

@@ -13,7 +13,7 @@ This organization is where we do most of the code-related work for the project, 
 [@jupyterhub-bot is a GitHub bot account](https://github.com/jupyterhub-bot)
 that can be used to create unprivileged GitHub tokens, for example to
 [open automated PRs](https://github.com/search?q=org%3Ajupyterhub+author%3Ajupyterhub-bot&type=pullrequests)
-without the limitations of the [default `GITHUB_TOKEN`](https://docs.github.com/en/actions/security-guides/automatic-token-authentication#using-the-github_token-in-a-workflow).
+without the limitations of the [default `GITHUB_TOKEN`](https://docs.github.com/en/actions/tutorials/authenticate-with-github_token).
 
 If these tokens are stored as a repository secret for a single workflow it should never be necessary to store a copy of them- just delete and create a new token instead, and update the secret.
 
@@ -60,7 +60,7 @@ In general the JupyterHub team encourages the use of [ReadTheDocs](https://readt
 This is a service that hosts documentation stored in online repositories.
 
 For example, you can find the JupyterHub documentation at [jupyterhub.readthedocs.io](https://jupyterhub.readthedocs.io).
-And the JupyterHub ReadTheDocs dashboard is at [readthedocs.org/projects/jupyterhub/](https://readthedocs.org/projects/jupyterhub/).
+And the JupyterHub ReadTheDocs dashboard is at [app.readthedocs.org/projects/jupyterhub/](https://app.readthedocs.org/projects/jupyterhub/).
 
 To get access to a documentation page for a JupyterHub repository, you'll need to be added by someone with the right privileges.
 New users may be added by an admin via the {guilabel}`Admin` -> {guilabel}`Maintainers` menu.

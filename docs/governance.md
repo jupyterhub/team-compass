@@ -45,7 +45,7 @@ See {doc}`team/structure` as well as {doc}`team/index` for more information.
 
 The JupyterHub Project team will make decisions [as colleagues] and by
 attempting to reach consensus among team members (similar to a
-[lazy consensus](http://en.osswiki.info/concepts/lazy_consensus) model that
+[lazy consensus](https://nowviskie.org/2012/lazy-consensus/) model that
 encourages active participation from team members). If this is not
 possible, then the team leader can use their power to make a decision.
 
