@@ -86,14 +86,14 @@ one of these tags. Here are a few links below to help you get started:
 
 These are not strict rules, but recommended guidelines from the JupyterHub maintainers to help make your contribution process as smooth and effective as possible for both you and the community.
 - **Create a PR as early as possible**, marking it with `[WIP]` while
- This helps prevent duplicated work, allows maintainers to give early feedback on design or API changes, and can attract collaborators.to work with you.
+ This helps prevent duplicated work, allows maintainers to give early feedback on design or API changes, and can attract collaborators to work with you.
 - **Keep your PR focused.**
   The best PRs address a single issue or feature.
   If you end up changing multiple things, please open separate PRs for the different conceptual changes.
 - **Add tests to your code.**
   Contributions should come with appropriate tests and all continuous intergration (CI) checks must pass before the PR can be merged.
-  PRs will not be merged if Travis is failing.
-- **Apply [PEP8](https://www.python.org/dev/peps/pep-0008/)** as much as possible, but not too much.
+  PRs will not be merged if tests are failing.
+- **Apply [PEP8](https://www.python.org/dev/peps/pep-0008/)** principles, but no need to be overly strict. Most of our repos have automatic formatting via [pre-commit](https://pre-commit.com/)
  Aim for consistency with the existing JupyterHub codebase. If you’re unsure, feel free to ask for guidance.
 - **Use merge commits** instead of merge-by-squashing/-rebasing.
   This makes it easier to find all changes since the last deployment `git log --merges --pretty=format:"%h %<(10,trunc)%an %<(15)%ar %s" <deployed-revision>..` and your PR easier to review.
