@@ -19,7 +19,7 @@ See [our LLM policy](#llm:policy) below. Here's a brief summary:
 
 We, the JupyterHub community, value:
 
-* **human co-creation**: we are proud to collaborate with developers, researchers, educators, and infrastructure specialists across our global community.
+* **human co-creation**: we are proud to collaborate with developers, researchers, educators, and infrastructure specialists across our global community. We value contributors over their contributions.
   * We respect **their copyright** over their work and appreciate their shared investment in the scientific open source ecosystem by licensing the materials under the [BSD 3-Clause "New" or "Revised" License](https://github.com/jupyterhub/jupyterhub/blob/main/LICENSE).
   * We respect the **time** taken to read and review contributions, maintaining a high standard and supportive community engagement.
 * **security**: JupyterHub is trusted infrastructure for hundreds of thousands of users and we prioritize keeping their data, code, and personal configuration information secure.
