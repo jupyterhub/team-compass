@@ -48,6 +48,10 @@ are a few places where we have conversations and discussion.
 As a reminder, we expect all members of the JupyterHub community to adhere to the
 [Jupyter Code of Conduct][link_coc] in these conversations.
 
+## Spread the word
+
+You can talk about JupyterHub to your colleagues and friends but also at small and large events.
+We curated a [list of events](./events.md) where you can contribute to the programme and talk about JupyterHub. 
 
 ## Contributing through GitHub
 
