@@ -1,3 +1,40 @@
+# Welcome to the JupyterHub: Contributor Onboarding Guide
+Welcome to JupyterHub:smiley:!
+
+This guide will help get you started as a contributor through a series of self-paced activities.
+By the end, you'll have a good understanding of the project,how to contribute, and how to engage with our community.
+
+JupyterHub is a multifaceted piece of infrastructure which can be used in many ways.
+It is used in academic institutions as a key piece of infrastructure 
+to bring interactive computing environments to learners. 
+
+These can be Jupyter Notebooks, RStudio Sessions, marimo, etc., or any interactive web page environment. 
+While it doesn't have to be run with kubernetes, you'll find many production deployments use kubernetes. 
+JupyterHub is a low-level piece of critical infrastructure for many large scale computational learning environments worldwide. 
+
+JupyterHub is also a collection of opinionated distributions of this infrastructure, for example [Zero to JupyterHub with Kubernetes](https://z2jh.jupyter.org/) 
+and [The Littlest JupyterHub](https://tljh.jupyter.org/). 
+If you have needs for bringing web-based interactive computing services to your learners, JupyterHub might be the right piece of kit for you. 
+JupyterHub also provides the foundation for the [mybinder.org](https://mybinder.org/) ad hoc Jupyter environment service.
+
+## Step 1: Understand Our Mission and Project Vision
+
+## Step 2: Read Case Studies and see how people are using JupyterHub
+
+## Step 3: Set Up Your Environment and/ or deploy your first JupyterHub
+
+## Step 4: Explore the Codebase and Team Compass
+
+## Step 5: Understand the Contribution Process
+
+## Step 6: Engage with the Community
+## Engagement Checklist
+
+## Step 7: Make Your First Contribution
+
+## Additional Resources
+
+ 
 # Get started contributing
 
 JupyterHub is an open community made up of people all over the world.
