@@ -28,6 +28,8 @@ JupyterHub also provides the foundation for the [mybinder.org](https://mybinder.
 ## Step 5: Understand the Contribution Process
 
 ## Step 6: Engage with the Community
+the process feels easier when the steps are not as mingled
+
 ## Engagement Checklist
 
 ## Step 7: Make Your First Contribution
