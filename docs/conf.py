@@ -93,6 +93,7 @@ linkcheck_ignore = [
     "https://www.sociocracyforall.org/consent-decision-making/",
     "https://medium.com/.*",
     "https://www.npmjs.com/.*",
+    "https://nowviskie.org/.*"
 
     # not useful to check authenticated pages:
     "https://console.cloud.google.com/.*",
