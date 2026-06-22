@@ -9,8 +9,9 @@ JupyterHub is a multifaceted piece of infrastructure which can be used in many w
 It is used in academic institutions as a key piece of infrastructure 
 to bring interactive computing environments to learners. 
 
-These can be Jupyter Notebooks, RStudio Sessions, marimo, etc., or any interactive web page environment. 
-While it doesn't have to be run with kubernetes, you'll find many production deployments use kubernetes. 
+These can be Jupyter Notebooks, RStudio Sessions, marimo, etc., or any interactive web page environment.
+JupyterHub supports a range of deployment options, from simple single-server setups to distributed environments managed by tools such as Docker, Kubernetes, system services or cloud infrastructure.While it doesn't have to be run with kubernetes, you'll find many production deployments use kubernetes.
+
 JupyterHub is a low-level piece of critical infrastructure for many large scale computational learning environments worldwide. 
 
 JupyterHub is also a collection of opinionated distributions of this infrastructure, for example [Zero to JupyterHub with Kubernetes](https://z2jh.jupyter.org/) 
@@ -201,8 +202,14 @@ These are not strict rules, but recommended guidelines from the JupyterHub maint
 - **Use merge commits** instead of merge-by-squashing/-rebasing.
   This makes it easier to find all changes since the last deployment `git log --merges --pretty=format:"%h %<(10,trunc)%an %<(15)%ar %s" <deployed-revision>..` and your PR easier to review.
 - **Make it clear when your PR is ready for review.**
-  Prefix the title of your pull request (PR) with `[MRG]` if the contribution is complete and should be subjected to a detailed review.
-- **Use commit messages to describe _why_ you are proposing the changes you are proposing.**
+  Prefix the title of your pull request (PR) with `[MRG]` if the contribution is complete and should be subjected to a detailed review. 
+
+- **Link the issue you're working on.**
+  Including a link to the issue your pull request seeks to address so collaborators and reviewers can easily understand the context, track progress and provide more effective feedback on your contribution.
+  
+- **Use commit messages to describe _why_ you are proposing the changes you are proposing.** 
+#a great example of a commit message#
+
 - **Try to not rush changes** (the definition of rush depends on how big your changes are).
   JupyterHub is maintained by a global community of contributors, many of whom are volunteers. Reviews may take time, so please be patient.
   Wait patiently for a reviewer to merge the PR.
