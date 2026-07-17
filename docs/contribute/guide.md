@@ -23,7 +23,7 @@ JupyterHub also provides the foundation for the [mybinder.org](https://mybinder.
 
 - Read our [Project Overview](https://jupyterhub.readthedocs.io/en/stable/index.html) 
 - **Activity:** Reflect on how our mission aligns with your interests and goals, share those reflections in your "Hello Jupyter Hub" note (Template Below)
-- **Activity:** Familiarize yourself with JupyterHub [(the software) documentation](https://jupyterhub.readthedocs.io) and JupyterHub (the project) documentation [called the Team Compass](https://jupyterhub-team-compass.readthedocs.io)
+- **Activity:** Familiarize yourself with JupyterHub [(the software) documentation](https://jupyterhub.readthedocs.io) and JupyterHub (the project) documentation called [ the Team Compass](https://jupyterhub-team-compass.readthedocs.io)
 
 ## Step 2: Read Case Studies and see how people are using JupyterHub
 
@@ -83,7 +83,7 @@ are a few places where we have conversations and discussion.
 the Jupyter community. The JupyterHub team uses this for most conversation, and tries to keep its repositories focused around more actionable items.
 Review a few of the recent posts and familiarize yourself with the community and its conversations.
 
-- Join our [Zulip Chat](https://jupyter.zulipchat.com/#narrow/channel/469744-jupyterhub) and introduce yourself. 
+- Join our [Zulip Chat](https://jupyter.zunnel/469744-jupyterhulipchat.com/#narrow/chab) and introduce yourself. 
 This platform is for in-person conversation. In general, if conversations last beyond a few seconds, we highly encourage you
 to open a thread in the [JupyterHub Discourse page](https://discourse.jupyter.org) instead!
 
@@ -116,7 +116,7 @@ code, advice, documentation, support, or just a friendly face!
 
 - Read our [Contributing Guide](https://jupyterhub.readthedocs.io/en/stable/contributing/index.html)
 
-- **Challenge:** Identify one area where you think you could contribute to improve JupyterHub (code, documentation, testing, design, etc.) and add it to your introduction on Zulip.
+- **Challenge:** Identify one area where you think you could contribute to improving JupyterHub (code, documentation, testing, design, etc.) and add it to your introduction on Zulip.
 
 ## Step 7: Make Your First Contribution
 
@@ -208,7 +208,6 @@ These are not strict rules, but recommended guidelines from the JupyterHub maint
   Including a link to the issue your pull request seeks to address so collaborators and reviewers can easily understand the context, track progress and provide more effective feedback on your contribution.
   
 - **Use commit messages to describe _why_ you are proposing the changes you are proposing.** 
-#a great example of a commit message#
 
 - **Try to not rush changes** (the definition of rush depends on how big your changes are).
   JupyterHub is maintained by a global community of contributors, many of whom are volunteers. Reviews may take time, so please be patient.
@@ -232,9 +231,7 @@ Note that it covers some of the tools you'll need for testing and developing the
 which are not necessarily needed for the *other* JupyterHub repositories.
 
 **Are the contributing docs unclear or misleading?** Then please let us know! We try to
-make this documentation as helpful as possible, but we often don't have the perspective of
-a new member to the community. Your input is extremely valuable in making it easy for others
-to join the JupyterHub community!
+make this documentation as helpful as possible, but we often don't have the perspective of a new member to the community. Your input is extremely valuable in making it easy for others to join the JupyterHub community!
 
 ## Additional Resources
 
