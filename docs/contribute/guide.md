@@ -83,7 +83,7 @@ are a few places where we have conversations and discussion.
 the Jupyter community. The JupyterHub team uses this for most conversation, and tries to keep its repositories focused around more actionable items.
 Review a few of the recent posts and familiarize yourself with the community and its conversations.
 
-- Join our [Zulip Chat](https://jupyter.zunnel/469744-jupyterhulipchat.com/#narrow/chab) and introduce yourself. 
+- Join our [Zulip Chat](https://jupyter.zulipchat.com/#narrow/channel/469744-jupyterhub) and introduce yourself. 
 This platform is for in-person conversation. In general, if conversations last beyond a few seconds, we highly encourage you
 to open a thread in the [JupyterHub Discourse page](https://discourse.jupyter.org) instead!
 
