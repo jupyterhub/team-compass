@@ -238,9 +238,12 @@ to join the JupyterHub community!
 
 ## Additional Resources
 
-- [Reference Docs](https://jupyterhub.readthedocs.io): Learn about the technical capabilities
-- [Team Compass](https://compass.hub.jupyter.org/): Learn about our community structure and governance
-- [Code of Conduct](https://jupyter.org/governance/conduct/code-of-conduct/): Understand our community standards
+- [Reference Docs](https://jupyterhub.readthedocs.io): Learn about the technical capabilities. 
+Learn how to install, configure, deploy and manage JupyterHub.
+
+- The [Jupyterhub Team Compass](https://compass.hub.jupyter.org/): Learn about our community structure and governance.This includes a contributor guide, project plans, meeting notes and development processes.
+
+- [Code of Conduct](https://jupyter.org/governance/conduct/code-of-conduct/): Understand our community standards.
 
 - [Project Roadmap](https://jupyterhub.readthedocs.io/en/stable/contributing/roadmap.html):We use the roadmap to develop a shared understanding of the project's vision and direction amongst the community of users, contributors, and maintainers. This is a great place to get a feel for what the maintainers are thinking about for the short, medium, and long term future of the project.
 
