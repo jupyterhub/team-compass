@@ -75,17 +75,18 @@ for cohort in participants_data:
             :class-header: bg-light
             :text-align: center
 
+            ```{{card-header}}
             **{intern['name']}**
-
-            ^^^
+            ```
 
             ```{{image}} https://github.com/{intern['github_handle']}.png?size=125
             ```
 
             [@{intern['github_handle']}](https://github.com/{intern['github_handle']})
 
-            +++
-            {f"[Read their blog!]({intern['blog_url']})" if "blog_url" in intern.keys() else ""}
+            ```{{card-footer}}
+            {f"[Read their blog!]({intern['blog_url']})" if "blog_url" in intern.keys() else " "}
+            ```
             ````
         """
         )
@@ -99,17 +100,18 @@ for cohort in participants_data:
             :class-header: bg-light
             :text-align: center
 
+            ```{{card-header}}
             **{member['name']}**
-
-            ^^^
+            ```
 
             ```{{image}} https://github.com/{member['github_handle']}.png?size=125
             ```
 
             [@{member['github_handle']}](https://github.com/{member['github_handle']})
 
-            +++
+            ```{{card-footer}}
             {', '.join(member['roles'])}
+            ```
             ````
         """
         )
