@@ -85,7 +85,7 @@ for cohort in participants_data:
             [@{intern['github_handle']}](https://github.com/{intern['github_handle']})
 
             ```{{card-footer}}
-            {f"[Read their blog!]({intern['blog_url']})" if "blog_url" in intern.keys() else " "}
+            {f"[Read their blog!]({intern['blog_url']})" if "blog_url" in intern.keys() else "\n"}
             ```
             ````
         """
