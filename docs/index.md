@@ -8,35 +8,39 @@
 Our Team Compass contains team practices, policies, and resources to help one another align and contribute.
 It also has helpful information for team members, like shared infrastructure and accounts, resources to learn how to contribute, etc.
 
-````{grid} 1 1 3 3
-```{grid-item-card} Join us at a Collaboration Café ☕ 
+`````{grid} 1 1 3 3
+````{grid-item-card} Join us at a Collaboration Café ☕ 
 :link: meetings/collab-cafe/index
 :link-type: doc
 
 Collaboration Café's are regular, all remote meetings where our community can synchronously connect.
-+++
+
+```{card-footer}
 Click this box to find out more! 
 ```
+````
 
-```{grid-item-card} Come work with us 💼
+````{grid-item-card} Come work with us 💼
 :link: team/jobs/index
 :link-type: doc
 
 Funded opportunities to collaborate on JupyterHub
-+++
+```{card-footer}
 Click to see open opportunties
 ```
+````
 
-```{grid-item-card} Get started contributing ✨
+````{grid-item-card} Get started contributing ✨
 :link: contribute/guide
 :link-type: doc
 
 Our contribution guide will help you learn our practices so you can co-create with us easily!
-+++
+```{card-footer}
 Click this box to jump in!
 ```
-
 ````
+
+`````
 
 We use **[GitHub issues in `jupyterhub/team-compass`](https://github.com/jupyterhub/team-compass/issues)**
 to discuss specific, actionable things related to the *team* (e.g., discussing whether to change something in the team-compass repo).

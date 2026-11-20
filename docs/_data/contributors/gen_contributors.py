@@ -60,9 +60,9 @@ for contributor in contributors:
        :text-align: center
        :link: https://github.com/{contributor["handle"]}
 
-       **{contributor["name"]}**
+       .. card-header::
 
-       ^^^
+          **{contributor["name"]}**
 
        .. image:: https://github.com/{contributor["handle"]}.png?size=125
 
@@ -72,8 +72,9 @@ for contributor in contributors:
 
        {teams}
 
-       +++
-       {contributor["affiliation"]}
+       .. card-footer::
+          
+          {contributor["affiliation"]}
     """
         ),
         "   ",
